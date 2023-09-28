@@ -5,7 +5,7 @@ lang: en-AU
 layout: post
 title: Starting of at blogging again
 subtitle: There's lots to learn!
-tags: [blogging,2023,September]
+tags: [journal,2023,September]
 comments: true
 ---
 
