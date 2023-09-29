@@ -5,7 +5,7 @@ lang: en-AU
 layout: post
 title: DisplayLink Driver MacOS Now Supports f.lux
 subtitle: enabling night shift
-tags: [python,script,technical,2022,July]
+tags: [macos,script,technical,2022,July]
 comments: true
 ---
 
