@@ -21,8 +21,8 @@ author: Stephen Schwetz
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Neurodiversity in Australia, "https://neurodiversity-in.au"
+  Projects:
+    - Neurodiversity in Australia: "https://neurodiversity-in.au"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   
