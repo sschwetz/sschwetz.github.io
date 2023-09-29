@@ -9,8 +9,6 @@ tags: [journal,2023,September]
 comments: true
 ---
 
-# Wednesday, 27 September 2023
-
 Today was a quiet day at work for once, but unfortunately, it was meeting day.
 
 The Optus debarkle is still ongoing at this stage, and they have not done any log analysis yet, so it is still going to run well into next week. My one-on-one with Heath is due tomorrow.
