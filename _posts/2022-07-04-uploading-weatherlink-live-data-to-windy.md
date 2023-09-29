@@ -9,15 +9,15 @@ tags: [python,script,technical,2022,July]
 comments: true
 ---
 
-I have always enjoyed the weather and attempting to forecast what it is going to do. A couple of years ago I purchased a Davis Vantage Pro 2 weather station. After years of using el-cheapo weather stations, the reliability of this has been top-notch. You can also purchase replacement parts, but I have not had the requirement to do so.
+I have always enjoyed the weather and attempting to forecast what it is going to do. I purchased a Davis Vantage Pro 2 weather station a couple of years ago. After years of using el-cheapo weather stations, this reliability has been top-notch. You can also purchase replacement parts, but I have not had the requirement to do so.
 
 As part of this autistic experimentation, I like to share my weather data with multiple weather sites, including
 
-* [BOM WOW](https://web.archive.org/web/20221205174854/https://bom-wow.metoffice.gov.uk/)
-* [Weather Underground](https://web.archive.org/web/20221205174854/https://www.wunderground.com/dashboard/pws/INEWCA136) and
-* [Windy.com](https://web.archive.org/web/20221205174854/https://www.windy.com/station/pws-f069dfd5?-32.909,151.587,8,i:pressure).
+* [BOM WOW](https://bom-wow.metoffice.gov.uk/)
+* [Weather Underground](https://www.wunderground.com/dashboard/pws/INEWCA136) and
+* [Windy.com](https://www.windy.com/station/pws-f069dfd5?-32.909,151.587,8,i:pressure).
 
-My Weatherlink live supports uploading to the first two sites as a direct feed of the Weatherlink website. But Windy is not located there as an option. However, the Weatherlink live has its own local API that I can poll every five minutes via cron and a Python script that is running on one of my Ubuntu virtual machines.
+My Weatherlink live supports uploading to the first two sites as a direct feed of the Weatherlink website. But Windy is not located there as an option. However, the Weatherlink live has a local API that I can poll every five minutes via cron and a Python script running on one of my Ubuntu virtual machines.
 
 Hopefully, someone else out there will find this of use.
 
