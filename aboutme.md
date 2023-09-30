@@ -13,9 +13,13 @@ All photographs shown on this site's home screen have been taken by myself.
 ### Personal Stats:
 
 **Name:** Stephen
+
 **Employment:** IT Network Engineer with Tier 1 Enterprise IT Services Company"
+
 **Location:** Newcastle, New South Wales, Australia
+
 **Sex:** Yes Please!!
+
 **Computer:** Mac
 
 ### What I stand for:
