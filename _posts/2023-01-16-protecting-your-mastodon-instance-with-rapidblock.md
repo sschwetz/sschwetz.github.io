@@ -4,7 +4,7 @@ lang: en-AU
 layout: post
 title: Protecting Your Mastodon Instance with rapidblock
 subtitle: Haters will be haters
-tags: [writefreely,mastodon,hpe,script,technical,2023,january]
+tags: [writefreely,mastodon,technical,2023,january]
 comments: true
 ---
 

@@ -5,7 +5,7 @@ lang: en-AU
 layout: post
 title: Clearing Interfaces On Provision and Aruba OS
 subtitle: 
-tags: [aruba,aruba os,technical,2022,may]
+tags: [keyoxide,mastodon,technical,2022,December]
 comments: true
 ---
 

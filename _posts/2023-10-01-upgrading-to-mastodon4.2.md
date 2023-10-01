@@ -4,8 +4,8 @@ typora-copy-images-to: ./assets/
 lang: en-AU
 layout: post
 title: Upgrading to Mastodon 4.2
-subtitle: Simples
-tags: [journal,2023,September]
+subtitle: a quick howto
+tags: [technical,mastodon,2023,October]
 comments: true
 ---
 
