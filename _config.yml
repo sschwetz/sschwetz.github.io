@@ -292,6 +292,13 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - titles-from-headings
+  - jekyll-loading-lazy
+  - jekyll-seo-tag
+  - jekyll-webp
+  - jekyll-image-size
+  - jekyll-news-sitemap
+  - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
