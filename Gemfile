@@ -6,7 +6,7 @@ gem "beautiful-jekyll-theme"
 
 
 group :jekyll_plugins do
-  gem "titles-from-headings"
+#  gem "titles-from-headings"
   gem "jekyll-coffeescript"
   gem "jekyll-paginate-v2"
   gem "jekyll-auto-authors"
