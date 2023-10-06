@@ -1,4 +1,6 @@
 ---
+images: assets/img
+typora-copy-images-to: assets/img
 layout: page
 title: About me
 subtitle: Why I make the Perfect Partner

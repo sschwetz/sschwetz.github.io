@@ -1,6 +1,6 @@
 ---
-images: ./assets/
-typora-copy-images-to: ./assets/
+images: assets/img
+typora-copy-images-to: ../assets/img
 lang: en-AU
 layout: post
 title: Attempt 3 of Quitting Smoking

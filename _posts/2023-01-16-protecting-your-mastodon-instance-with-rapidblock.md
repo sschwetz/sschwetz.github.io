@@ -1,5 +1,6 @@
 ---
-typora-copy-images-to: ./assets/
+images: assets/img
+typora-copy-images-to: ../assets/img
 lang: en-AU
 layout: post
 title: Protecting Your Mastodon Instance with rapidblock

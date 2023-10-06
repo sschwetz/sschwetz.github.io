@@ -1,7 +1,6 @@
 ---
-images: ./assets/
-typora-copy-images-to: ./assets/
-lang: en-AU
+images: assets/img
+typora-copy-images-to: ../assets/imglang: en-AU
 layout: post
 title: Scheduling Reboots of HPE Comware 5 and 7
 subtitle: HPE's reload in 5
