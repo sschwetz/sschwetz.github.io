@@ -9,7 +9,8 @@ url: https://schwetz.au
 host: 10.69.6.3
 port: 4000
 LSI: true
-remote_theme: daattali/beautiful-jekyll
+theme: beautiful-jekyll-theme
+
 
 ############################
 # --- Required options --- #
@@ -301,8 +302,17 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-#  - jekyll-redirect-from
-#  - titles-from-headings
+  - "titles-from-headings"
+  - "jekyll-coffeescript"
+  - "jekyll-paginate-v2"
+  - "jekyll-auto-authors"
+  - "jekyll-webp"
+  - "jekyll-loading-lazy"
+  - "jekyll-redirect-from"
+  - "premonition"
+  - "jekyll-target-blank"
+  - "jekyll-minifier"
+  - 'jekyll-coffeescript'
    
 
 
