@@ -6,6 +6,10 @@
 ###########################################################
 
 url: https://schwetz.au
+host: 10.69.6.3
+port: 4000
+LSI: true
+theme: jekyll-remote-theme
 
 ############################
 # --- Required options --- #
