@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem "beautiful-jekyll-theme"
 
 
-group Jekyll_Plugins do
+group :jekyll_plugins do
   gem "titles-from-headings"
   gem "jekyll-coffeescript"
   gem "jekyll-paginate-v2"
@@ -18,5 +18,6 @@ group Jekyll_Plugins do
   gem "jekyll-minifier"
   gem 'jekyll-coffeescript'
 end
+
 gemspec
 
