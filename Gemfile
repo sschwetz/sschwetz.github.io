@@ -16,8 +16,7 @@ group :jekyll_plugins do
   gem "premonition"
   gem "jekyll-target-blank"
   gem "jekyll-minifier"
-  gem 'jekyll-coffeescript'
 end
 
-gemspec
+#gemspec
 
