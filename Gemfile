@@ -15,7 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "premonition"
   gem "jekyll-target-blank"
-  gem "jekyll-minifier"
+  #gem "jekyll-minifier"
 end
 
 #gemspec

@@ -311,7 +311,7 @@ plugins:
   - "jekyll-redirect-from"
   - "premonition"
   - "jekyll-target-blank"
-  - "jekyll-minifier"
+  #- "jekyll-minifier"
  
    
 
