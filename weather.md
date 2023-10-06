@@ -2,8 +2,8 @@
 images: assets/img
 typora-copy-images-to: assets/img
 layout: page
-title: Weather at the Schwarrisons
-subtitle:
+title: Current Weather
+subtitle: geralt says "looks like rain"
 share-title: Current Weather at the Schwarrisons
 share-description: Current weather at the Schwarrions
 ---
