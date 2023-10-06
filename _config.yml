@@ -303,7 +303,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - "titles-from-headings"
-  - "jekyll-coffeescript"
+  #- "jekyll-coffeescript"
   - "jekyll-paginate-v2"
   - "jekyll-auto-authors"
   - "jekyll-webp"
@@ -312,7 +312,7 @@ plugins:
   - "premonition"
   - "jekyll-target-blank"
   - "jekyll-minifier"
-  - 'jekyll-coffeescript'
+ 
    
 
 
