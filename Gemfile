@@ -14,5 +14,5 @@ gem "beautiful-jekyll-theme"
   gem "jekyll-target-blank"
 #:end
 
-#gemspec
+gemspec
 
