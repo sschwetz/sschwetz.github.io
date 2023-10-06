@@ -300,15 +300,15 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-sitemap
   #- "jekyll-coffeescript"
   - "jekyll-paginate-v2"
   - "jekyll-auto-authors"
-  - "jekyll-webp"
+  #- "jekyll-webp"
   - "jekyll-loading-lazy"
   - "jekyll-redirect-from"
-  - "premonition"
+  #- "premonition"
   - "jekyll-target-blank"
   #- "jekyll-minifier"
  
