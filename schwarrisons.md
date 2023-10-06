@@ -4,7 +4,7 @@ typora-copy-images-to: ./assets/img
 lang: en-AU
 layout: post
 title: About the Schwarrisons
-subtitle: It's obviously not our surname
+subtitle: It's not our surname
 tags: [info,about-us]
 comments: false
 ---
