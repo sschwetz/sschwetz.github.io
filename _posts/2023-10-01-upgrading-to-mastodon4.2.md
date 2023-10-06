@@ -7,6 +7,8 @@ title: Upgrading to Mastodon 4.2
 subtitle: a quick howto
 tags: [technical,mastodon,2023,October]
 comments: true
+cover-img: assets/img/mastodon.jpg
+thumbnail: assets/img/mastodon-icon.png
 ---
 
 The mastodon documentation contains great information on how to upgrade your mastodon instance between one update and another, but if you want the quick and dirty for a basic setup, here is the process.
@@ -46,3 +48,7 @@ The mastodon documentation contains great information on how to upgrade your mas
    ````
 
 6. Shortly you should be able to access your instance
+
+---
+
+<small>Mastodon Icon By Eugen Rochko &amp; other Mastodon contributors - (https://blog.joinmastodon.org/), AGPL,</small>
