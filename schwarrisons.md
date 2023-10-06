@@ -6,7 +6,7 @@ layout: post
 title: About the Schwarrisons
 subtitle: It's obviously not our surname
 tags: [info,about-us]
-comments: true
+comments: false
 ---
 
 # Welcome to Our Corner
