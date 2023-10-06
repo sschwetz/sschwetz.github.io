@@ -302,7 +302,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - "titles-from-headings"
   #- "jekyll-coffeescript"
   - "jekyll-paginate-v2"
   - "jekyll-auto-authors"
