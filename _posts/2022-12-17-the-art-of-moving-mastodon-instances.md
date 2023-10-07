@@ -3,7 +3,7 @@ images: assets/img
 typora-copy-images-to: ../assets/img
 lang: en-AU
 layout: post
-title: Mastodon: The Art of Moving Instances
+title: "Mastodon: The Art of Moving Instances"
 subtitle: 
 tags: [Mastodon,MastodonMigration,FediTips,2012,]
 comments: true
