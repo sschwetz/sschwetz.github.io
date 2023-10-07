@@ -30,6 +30,8 @@ author: Stephen Schwetz
 
 navbar-links:
   Weather: "weather"
+  Tools:
+    - "Knowledge Base": kb/
   About: 
     - Us: "schwarrisons"
     - Stephen: "aboutme"
