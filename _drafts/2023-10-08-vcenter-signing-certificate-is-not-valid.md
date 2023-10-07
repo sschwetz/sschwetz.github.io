@@ -8,8 +8,8 @@ typora-root-url: ../
 
 lang: en-AU
 
-title: KB0019
-subtitle: vCenter - Signing certificate is not valid
+title: vCenter - Signing certificate is not valid
+subtitle: 
 author: Stephen Schwetz
 tags: 
   - KB0019
