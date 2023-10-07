@@ -8,6 +8,9 @@ typora-root-url: ../
 
 lang: en-AU
 
+thumbnail: /assets/logos/nsx-icon.png
+cover-img: /assets/logos/nsx.png
+
 title: KB0011
 subtitle: NSX Edge Node Sizing Guide
 author: Stephen Schwetz

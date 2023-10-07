@@ -10,6 +10,10 @@ full-width: true
 subtitle: Logs fail to rotate on /var/log/vmware on NSX-T Manager and Edge Nodes
 title: KB0001
 author: Stephen Schwetz
+
+thumbnail: /assets/logos/nsx-icon.png
+cover-img: /assets/logos/nsx.png
+
 tags: 
   - KB0001
   - KB
