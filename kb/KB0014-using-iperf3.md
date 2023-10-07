@@ -1,21 +1,27 @@
 ---
-images: assets/img
-typora-copy-images-to: ../assets/img
+images: /assets/img
+typora-copy-images-to: /assets/img
 layout: page
-title: About me
-subtitle: Why I make the Perfect Partner
+title: Using iperf3
+subtitle: KB0014
 updated: 2023-10-07
 cover-img: assets/img/logo_iperf.png
-tags: [knowledge,kb,iperf,KB0014]
+tags: 
+  - KB0014
+  - NSX
+  - Edge
+  - Manager
+  - Knowledge Base
+  - KB
 ---
 
-## What is iperf
+## What is iperf?
 
 iPerf3 is a tool for actively measuring the maximum achievable bandwidth on IP networks. It supports tuning various parameters related to timing, buffers and protocols (TCP, UDP, SCTP with IPv4 and IPv6). It reports the bandwidth, loss, and other parameters for each test. 
 
 **Note:** This new implementation shares no code with the original iPerf and is not backward compatible. iPerf was initially developed by [NLANR/DAST](https://iperf.fr/contact.php#authors). iPerf3 is principally developed by [ESnet](https://www.es.net/) / [Lawrence Berkeley National Laboratory](https://www.lbl.gov/).
 
-To run iperf3, you need two computers on which you can run the software. As the software utilises an ephemeral port it can be run without root access, though it may require root access to install depending on your operating system
+To run iperf3, you need two computers to run the software. As the software utilises an ephemeral port, it can be run without root access, though it may require root access to install depending on your operating system
 
 ## Starting the Server
 
