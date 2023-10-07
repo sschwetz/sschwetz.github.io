@@ -27,10 +27,6 @@ There will be times within the NSX lifecycle when you could be required to deplo
 * The NSX environment needs to have additional throughput, and you are already running large edge nodes; or
 * The edge node has become corrupted and needs to be replaced to restore service.
 
-## TLDR - Here is a Video
-
-<video src="assets/Deploy%20a%20New%20NSX-T%20Edge%20Node.mp4"></video>
-
 ## Step-By-Step Guide
 
 1. Log in to the NSX manager; the global or local manager is suitable. If you are using the global manager, you must select the local manager for the environment to which you will add the edge node.
