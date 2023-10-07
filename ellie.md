@@ -9,7 +9,7 @@ subtitle:
 redirect_from:
   - /ellie-the-stupid/
   - /ellie-the-stupid
-cover-img: /assets/img/66933925653__DCC8CAFA-C9E6-4831-BE6B-BCE44A0D1A75.jpeg
+cover-img: /assets/img/ellie/66933925653__DCC8CAFA-C9E6-4831-BE6B-BCE44A0D1A75.jpeg
 ---
 
 # Ellie the Stupid
