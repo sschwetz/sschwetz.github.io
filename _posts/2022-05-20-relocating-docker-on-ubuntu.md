@@ -13,11 +13,11 @@ redirect_from:
 
 # Relocating Docker Directory on Ubuntu
 
-Docker](https://web.archive.org/web/20220519163412/https://www.docker.com/) is a way of containerising workloads and is useful either as a developer to enable you to speed up your development workflow; or as an end-user utilising [someone else’s container](https://web.archive.org/web/20220519163412/https://hub.docker.com/) to run a workload on your environment. If someone has put in the work, then why would you re-invent the wheel?
+Docker](https://www.docker.com/) is a way of containerising workloads and is useful either as a developer to enable you to speed up your development workflow; or as an end-user utilising [someone else’s container](https://hub.docker.com/) to run a workload on your environment. If someone has put in the work, then why would you re-invent the wheel?
 
 Recently I needed to relocate my docker directory from its default location to a new path that had a better performance as it was impacting on speed of the blog loading, as it was just loading off the system disk, which only has one spindle.
 
-I created a new raid-5 MD raid set of three spindles, allowing for additional HA (High Availability) in the case of one of the Hard Drives failing. This site is just being run on a Raspberry PI, so the USB disks are good quality (but still 2.5″ HDD).
+I created a new raid-5 MD raid set of three spindles, allowing for additional HA (High Availability) in the case of one of the Hard Drives fails. This site is just being run on a Raspberry PI, so the USB disks are good quality (but still 2.5″ HDD).
 
 This guide has been written for Ubuntu as that is what I am using, if you use a different distribution, you may need to change the source path.
 

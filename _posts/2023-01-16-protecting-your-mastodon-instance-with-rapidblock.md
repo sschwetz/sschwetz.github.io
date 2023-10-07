@@ -17,7 +17,7 @@ Moderation on the Fediverse is unevenly distributed. Some instance admins devote
 
 ## Installation
 
-Installation with an [#debian](https://web.archive.org/web/20230306173946/https://blog.neurodiversity-in.au/stephen/tag:debian) based [#linux](https://web.archive.org/web/20230306173946/https://blog.neurodiversity-in.au/stephen/tag:linux) distribution is as easy as running
+Installation with an debian based Linux distribution is as easy as running
 
 ```bash
 curl -s https://apt.rapidblock.org/install.sh | sudo bash
