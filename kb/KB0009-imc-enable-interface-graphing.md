@@ -16,7 +16,7 @@ updated: 2023-10-07
 
 ## TLDR - Here is a video
 
-<video src="assets/enable%20interface%20graphing%20in%20IMC.mp4"></video>
+<video src="./assets/video/enable%20interface%20graphing%20in%20IMC.mp4"></video>
 
 ## Step-By-Step
 
