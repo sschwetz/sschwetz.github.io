@@ -89,4 +89,6 @@ server {
 }
 ```
 
-I need to setup SSL for the webserver, as this would create additional overhead as the reverse proxy also performs SSL.
+Once you have done this you need to enable the site utillising the command `ln -s /etc/nginx/sites-available/jekyll /etc/nginx/sites-enabled/jeykell`
+
+I did need to setup SSL for the webserver, as this would create additional overhead as the reverse proxy also performs SSL.
