@@ -3,7 +3,7 @@ layout: page
 full-width: true
 categories: Knowledge-Base
 
-typora-copy-images-to: /assets/img
+typora-copy-images-to: /assets/img/${filename}
 typora-root-url: ../
 
 layout: page

@@ -2,7 +2,7 @@
 categories: Knowledge-Base
 images: ../assets/img
 
-typora-copy-images-to: /assets/img
+typora-copy-images-to: /assets/img/${filename}
 typora-root-url: ../
 
 

@@ -1,8 +1,8 @@
 ---
 categories: Knowledge-Base
 
-typora-copy-images-to: ../assets/img
-typora-root-url: ../assets/img
+typora-copy-images-to: /assets/img/${filename}
+typora-root-url: ../
 
 lang: en-AU
 layout: page

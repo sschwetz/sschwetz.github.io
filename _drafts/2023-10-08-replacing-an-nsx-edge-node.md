@@ -3,8 +3,8 @@ categories: Knowledge-Base
 layout: page
 full-width: true
 
-typora-copy-images-to: ../assets/img
-typora-root-url: ../assets/img
+typora-copy-images-to: /assets/img/${filename}
+typora-root-url: ../
 		
 
 lang: en-AU

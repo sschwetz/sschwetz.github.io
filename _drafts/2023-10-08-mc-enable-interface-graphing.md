@@ -1,9 +1,8 @@
 ---
 categories: Knowledge-Base
 
-typora-copy-images-to: ../assets/img
-typora-root-url: ../assets/img
-images: ../../
+typora-copy-images-to: /assets/img/${filename}
+typora-root-url: ../
 
 lang: en-AU
 layout: page
@@ -12,7 +11,6 @@ subtitle: Enable Interface Graphing on IMC
 title: KB0009
 author: Stephen Schwetz
 tags: [KB0009,KB,Knowledge,IMC]
-updated: 2023-10-07
 tags: 
   - KB0009
   - NSX
