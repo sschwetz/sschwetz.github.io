@@ -1,8 +1,9 @@
 ---
+layout: wide
 categories: Knowledge-Base
 images: /assets/img
 typora-copy-images-to: /assets/img
-layout: page
+
 title: Using iperf3
 subtitle: KB0014
 updated: 2023-10-07

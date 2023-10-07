@@ -4,7 +4,7 @@ images: /assets/img
 typora-copy-images-to: ./assets/img
 
 lang: en-AU
-
+layout: wide
 title: Verify the Tier-0 Logical Router and TOR Connection
 subtitle: KB0003 
 author: Stephen Schwetz

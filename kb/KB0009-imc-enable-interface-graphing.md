@@ -4,7 +4,7 @@ images: /assets/img
 typora-copy-images-to: ./assets/img
 
 lang: en-AU
-
+layout: wide
 title: Enable Interface Graphing on IMC
 subtitle: KB0009
 author: Stephen Schwetz
