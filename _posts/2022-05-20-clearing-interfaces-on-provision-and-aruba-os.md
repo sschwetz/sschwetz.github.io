@@ -7,9 +7,12 @@ title: Clearing Interfaces On Provision and Aruba OS
 subtitle: 
 tags: [aruba,aruba os,technical,2022,may]
 comments: true
+redirect_from:
+ - /2022/05/20/clearing-interfaces-on-provision-and-aruba-os/
+ - /2022/05/20/clearing-interfaces-on-provision-and-aruba-os
 ---
 
-Whilst troubleshooting a network issue you may need to clear counters on your AOS or Provision switches.
+Whilst troubleshooting a network issue, you may need to clear counters on your AOS or Provision switches.
 
 ```
 NCB1FGSW01# show int 1/48
@@ -38,7 +41,7 @@ NCB1FGSW01# show int 1/48
    Utilization Rx  :     0 %              Utilization Tx  : 05.38 %
 ```
 
-To clear the interface statistics the command is `clear statistics <interfaces>` if you wish to clear them all you can use `clear statistics all`
+To clear the interface statistics, the command is `clear statistics <interfaces>` if you wish to clear them all, you can use `clear statistics all`
 
 ```
 Switch1# show int 1/48

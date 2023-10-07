@@ -7,6 +7,8 @@ title: DisplayLink Driver MacOS Now Supports f.lux
 subtitle: enabling night shift
 tags: [macos,displaylink,technical,2022,July]
 comments: true
+redirect_from:
+  - /stephen/displaylink-driver-macos-now-supports-f-lux
 ---
 
 I have a [Dell D6000](https://www.dell.com/support/home/en-au/product-support/product/dell-universal-dock-d6000/overview) series USB-C docking station that I use to allow me to have two monitor support on my M1 Macbook Pro 13 inch. I have to use this out of the box the original M1 chip only supports 2 displays, and even if it is not in use the laptop screen is still counted as a display.

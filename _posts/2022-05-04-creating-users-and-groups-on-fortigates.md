@@ -5,7 +5,7 @@ lang: en-AU
 layout: post
 title: Set Up Users and Groups on Fortigate Firewalls
 subtitle: 
-tags: [aruba,aruba os,technical,2022,may]
+tags: [fortigate,os,technical,2022,may]
 comments: true
 redirect_from:
   - /2022/05/14/set-up-users-and-groups-on-fortigate-firewalls/

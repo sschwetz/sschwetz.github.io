@@ -7,6 +7,10 @@ title: Scheduling Reboots of HPE Comware 5 and 7
 subtitle: HPE's reload in 5
 tags: [comware,hpe,technical,2022,july]
 comments: true
+redirect_from:
+  - /stephen/scheduling-reboots-of-hpe-comware-5-and-7
+  - /2022/07/18/scheduling-reboots-of-hpe-comware-5-and-7/
+  - /2022/07/18/scheduling-reboots-of-hpe-comware-5-and-7
 ---
 
 Any network engineer worth their salt will be aware of the cisco “*reload in 10″* command that allows you to reboot a Cisco device during configuration if you lose comms with it. Comware devices offer the same feature but activating it is a bit different between Comware 5 and Comware 7.

@@ -5,7 +5,7 @@ lang: en-AU
 layout: post
 title: What is the Fediverse? 
 subtitle: A Basic Primer
-tags: [feditips,twittermigration,mastodon]
+tags: [feditips,twittermigration,mastodon,2022,december]
 comments: true
 redirect_from:
  - /stephen/what-is-the-fediverse

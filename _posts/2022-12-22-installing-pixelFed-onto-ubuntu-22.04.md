@@ -7,6 +7,8 @@ title: Installing PixelFed onto Ubuntu 22.04
 subtitle: 
 tags: [fediverse,pixelfed,2022,December]
 comments: true
+redirect_from:
+  - /stephen/installing-pixelfed-onto-ubuntu-22-04
 ---
 
 Today I have been installing PixelFed onto a VM running Ubuntu 22.04 LTS, and for this, I used a couple of resources and some grey matter to get it working, so I better write this down before I forget.

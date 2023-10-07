@@ -7,6 +7,8 @@ title: Authenticating Writefreely via Mastodon
 subtitle: OAUTH Baby!!
 tags: [writefreely,mastodon,technical,2023,january]
 comments: true
+redirect_from:
+  - /stephen/authenticating-writefreely-via-mastodon-oauth
 ---
 
 One of the things that I try to do with the neurodivergent community is to have them learn to self-advocate. One way that I have found helpful is to write blog posts; some are rather boring, and not all of mine are about self-advocacy. But just as journaling is used within the mental health profession to allow you to go back later and look at a set period, blogs have led me to go back and show what piqued my interest.
@@ -31,7 +33,7 @@ Click on Submit at the bottom of the screen, and then you should be presented wi
 
 
 
-![Screencapture of Mastodon OAuth Configuration Screen](assets/f1fb567e21671b2255b1fb61fb68.png)
+![Screencapture of Mastodon OAuth Configuration Screen](../assets/img/f1fb567e21671b2255b1fb61fb68-6668874.png)
 
 Make a note of the Client Key and Client Secret, as we will be using them shortly
 

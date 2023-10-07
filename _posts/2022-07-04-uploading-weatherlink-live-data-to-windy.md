@@ -7,6 +7,9 @@ title: Uploading Weatherlink Live Data to Windy
 subtitle: My First Real Python Script
 tags: [python,script,technical,2022,July]
 comments: true
+redirect_from:
+  - /stephen/uploading-weatherlink-live-data-to-windy
+  
 ---
 
 I have always enjoyed the weather and attempting to forecast what it is going to do. I purchased a Davis Vantage Pro 2 weather station a couple of years ago. After years of using el-cheapo weather stations, this reliability has been top-notch. You can also purchase replacement parts, but I have not had the requirement to do so.

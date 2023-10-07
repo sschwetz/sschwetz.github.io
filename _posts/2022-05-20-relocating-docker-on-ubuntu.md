@@ -7,8 +7,8 @@ subtitle:
 tags: [docker,ubuntu os,technical,2022,may]
 comments: true
 redirect_from:
- - 2022/05/20/relocating-docker-directory-on-ubuntu/
- - 2022/05/20/relocating-docker-directory-on-ubuntu
+ - /2022/05/20/relocating-docker-directory-on-ubuntu/
+ - /2022/05/20/relocating-docker-directory-on-ubuntu
 ---
 
 # Relocating Docker Directory on Ubuntu

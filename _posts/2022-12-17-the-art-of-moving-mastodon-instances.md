@@ -5,8 +5,9 @@ lang: en-AU
 layout: post
 title: Mastodon: The Art of Moving Instances
 subtitle: 
-tags: [Mastodon,MastodonMigration,FediTips]
+tags: [Mastodon,MastodonMigration,FediTips,2012,]
 comments: true
+cover-img: /assets/img/mastodon-cover-image.jpg
 redirect_from:
  - /stephen/center-mastodon-the-art-of-moving-instances
 ---

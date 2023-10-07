@@ -7,9 +7,9 @@ title: Protecting Your Mastodon Instance with rapidblock
 subtitle: Haters will be haters
 tags: [writefreely,mastodon,technical,2023,january]
 comments: true
+redirect_from:
+  - /stephen/protecting-your-mastodon-instance-with-rapidblock
 ---
-
-# Background
 
 The RapidBlock Project is a grassroots initiative to make Fediverse domain blocking more effective through collective action.
 
