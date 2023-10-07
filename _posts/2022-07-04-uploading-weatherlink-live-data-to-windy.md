@@ -1,6 +1,6 @@
 ---
 typora-copy-images-to: /assets/img
-typora-root-url: ..
+typora-root-url: ../
 
 images: assets/img
 typora-copy-images-to: ../assets/img

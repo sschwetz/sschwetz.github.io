@@ -2,7 +2,7 @@
 full-width: true
 
 typora-copy-images-to: /assets/img/ellie
-typora-root-url: .
+typora-root-url: ./
 
 lang: en-AU
 layout: page

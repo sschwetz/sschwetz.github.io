@@ -4,7 +4,7 @@ full-width: true
 categories: Knowledge-Base
 
 typora-copy-images-to: /assets/img
-typora-root-url: ..
+typora-root-url: ../
 
 layout: page
 subtitle: Sort Linux Processes by Resource Usage

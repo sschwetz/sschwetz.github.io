@@ -1,6 +1,6 @@
 ---
 typora-copy-images-to: /assets/img
-typora-root-url: ..
+typora-root-url: ../
 
 lang: en-AU
 layout: post
@@ -22,4 +22,4 @@ It is amazing to see how well the team has bonded and how their coach brings out
 
 There is another gala day next month and I can’t wait to take Isabelle to the games again, I am just hopeful that it will be nowhere near as cold.
 
-![Edgeworth Eagles Girls Under 9s 2021](../assets/img/IMG_0362.png)Edgeworth Eagles Girls Under 9s
+![Edgeworth Eagles Girls Under 9s 2021](assets/img/IMG_0362.png)Edgeworth Eagles Girls Under 9s

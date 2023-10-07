@@ -1,6 +1,6 @@
 ---
-images: assets/img
-typora-copy-images-to: assets/img
+typora-copy-images-to: /assets/img/ellie
+typora-root-url: ./
 
 layout: page
 title: Current Weather
