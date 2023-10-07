@@ -8,7 +8,7 @@ typora-copy-images-to: /assets/img
 lang: en-AU
 
 title: KB0016
-subtitle: Could not connect to one or more vCenter Server Systems: https://vCenterFQDN:443/sdk" error in the vSphere Client
+subtitle: Could not connect to one or more vCenter Server Systems - sdk error in the vSphere Client
 author: Stephen Schwetz
 tags: 
   - KB0020
