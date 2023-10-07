@@ -5,7 +5,8 @@ typora-copy-images-to: /assets/
 
 
 lang: en-GB
-layout: wide
+layout: page
+full-width: true
 title: Scheduling a Eeboot on HPE Comware
 subtitle: KB0012
 author: Stephen Schwetz

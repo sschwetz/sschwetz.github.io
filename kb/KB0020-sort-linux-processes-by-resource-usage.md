@@ -1,5 +1,6 @@
 ---
-layout: wide
+layout: page
+full-width: true
 categories: Knowledge-Base
 images: /assets/img
 typora-copy-images-to: /assets/img

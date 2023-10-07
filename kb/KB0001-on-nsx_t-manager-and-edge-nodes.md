@@ -4,7 +4,8 @@ images: /assets/img
 typora-copy-images-to: ./assets/img
 
 lang: en-AU
-layout: wide
+layout: page
+full-width: true
 title: Logs fail to rotate on /var/log/vmware on NSX-T Manager and Edge Nodes
 subtitle: KB0001
 author: Stephen Schwetz
