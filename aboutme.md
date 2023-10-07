@@ -8,10 +8,6 @@ typora-root-url: ./
 
 ---
 
-
-
-
-
 Welcome to my little corner of the internet. On this site, you will find everything from the braindumps of technical data to braindumps of things that I need to take off my head to keep sane.
 
 I enjoy technology, IoT and photography. I have shared care arrangements for my two girls with my ex-partner, with the eldest being with me 50% of the time. The younger wants to spend more time with her mum, so I have her three days per fortnight.
