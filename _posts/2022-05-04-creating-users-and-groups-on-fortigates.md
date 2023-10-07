@@ -25,14 +25,14 @@ For the secure functioning of a Fortigate Firewall, it is recommended to only pe
 Before setting up authentication you will need to decide how you want your users to be able to authenticate. Fortigate’s support for authentication comprises:
 
 * either local accounts, 
-* [Fortinet FortiAuthenticator](https://web.archive.org/web/20220514151224/https://www.fortinet.com/products/identity-access-management/fortiauthenticator) (FSSO)
+* [Fortinet FortiAuthenticator](https://www.fortinet.com/products/identity-access-management/fortiauthenticator) (FSSO)
 * Radius (RSSO) 
 
 Radius is an industry-standard, and there are multiple products available:
 
-* [Radiator](https://web.archive.org/web/20220514151224/https://www.open.com.au/radiator/)
+* [Radiator](https://www.open.com.au/radiator/)
 * Microsoft NPS (Part of Windows Server)
-* [Aruba Clearpass](https://web.archive.org/web/20220514151224/https://www.arubanetworks.com/en-au/products/security/network-access-control/secure-access/)
+* [Aruba Clearpass](https://www.arubanetworks.com/en-au/products/security/network-access-control/secure-access/)
 
 This is not a definitive list, and none of them may be suitable for your environment, but industry standards are
 
@@ -66,9 +66,7 @@ As we have not yet created any users leave the Members field empty. As we are no
 
 In this example, we will be utilising local authentication, as it is simpler and not everyone has access to either FSSO or RSSO.
 
-Access to the User/Groups Creation Wizard is located at **User & Authentication -> User Definition** on the left-hand navigation bar
-
- 
+Access to the User/Groups Creation Wizard is located at **User & Authentication -> User Definition** on the left-hand navigation bar 
 
 ![img](../assets/img/Fortigate-SSLVPN-Setup_12.png)
 
@@ -112,10 +110,6 @@ Click submit to have the Fortigate create the user
 You should now see that the user you have created is populated into the local users.
 
 ![img](../assets/img/Fortigate-SSLVPN-Setup_4-2.png)
-
-
-
-
 
 You should now see that the user you have created is populated into the local users.
 
