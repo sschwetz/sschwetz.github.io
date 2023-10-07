@@ -8,6 +8,7 @@ tags: [technical,jekyll,2023,October]
 comments: true
 thumbnail: /assets/img/jekyll-icon.png
 cover-img: /assets/img/jeykll-logo.png
+updated: 2023-10-07
 ---
 
 I have been moving my blog from writefreely to Jekyll the last couple of days, which is why it has been a bit quiet on the posting side. 
@@ -53,4 +54,39 @@ Once you have saved the file and updated the `EXECStart=bundle exec jekyll serve
 
 Once you have saved the file you will need to get systemd to reload its daemon using the command `systemctl daemon-reload`.  You can then enable and start the jekyll process using `systemctl enable --now jekyll.service`
 
-**One thing to note:** with my setup via a reverse proxy, my theme Beautiful Jekyll when using social sharing, was using the internal private IP address of the machine rather than the URL provided in the configuration. To get around this, I edited /etc/hosts and added the following line to it `10.6.61.32 	schwetz.au www.schwetz.au` this would allow the system to resolve the hostname to the internal IP of the LXC Container running the system.
+**One thing to note:** with my setup via a reverse proxy, my theme, Beautiful Jekyll when using social sharing, was using the internal private IP address of the machine rather than the URL provided in the configuration. To get around this, I edited /etc/hosts and added the following line to it `10.6.61.32 	schwetz.au www.schwetz.au` this would allow the system to resolve the hostname to the internal IP of the LXC Container running the system.
+
+**Edit**
+
+As was pointed out to me by [@etam](https://im-in.space/@etam/) it would be much better to use a webserver to serve the static files rather than Jekyll itself, both for security and, more importantly, speed.  To do this, I updated the `ExecStart=` line so that it exported the files to a location that nginx could read (i.e. outside the Jekyll user's home directory) by postpending `--destination /opt/jekyll`.
+
+I then created the destination directory and changed its permissions to 755, to allow owner to write and nginx read from it. I then ran `chown jeykell /opt/jekyll` to make Jekyll the owner of the directory
+
+I then had to create the Nginx configuration file in `/etc/nginx/sites-available`
+
+```
+# Default server configuration
+#
+server {
+	listen 80;
+	listen [::]:80;
+
+	root /opt/jekyll;
+
+	# Add index.php to the list if you are using PHP
+	index index.html;
+
+	server_name schwetz.au www.schwetz.au;
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		#try_files $uri $uri/ =404;
+	}
+  
+  #use our custom 404 page
+	error_page 404 /404.html;    
+}
+```
+
+I need to setup SSL for the webserver, as this would create additional overhead as the reverse proxy also performs SSL.
