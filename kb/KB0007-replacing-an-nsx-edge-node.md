@@ -2,8 +2,8 @@
 categories: Knowledge-Base
 layout: page
 full-width: true
-images: /assets/img
-typora-copy-images-to: /assets/img
+images: ../assets/img
+typora-copy-images-to: assets/img
 
 lang: en-AU
 

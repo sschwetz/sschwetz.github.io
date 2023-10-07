@@ -2,8 +2,8 @@
 layout: page
 full-width: true
 categories: Knowledge-Base
-images: /assets/img
-typora-copy-images-to: /assets/img
+images: ../assets/img
+typora-copy-images-to: assets/img
 layout: page
 subtitle: Sort Linux Processes by Resource Usage
 title: KB0020

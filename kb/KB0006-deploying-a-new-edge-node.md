@@ -2,8 +2,8 @@
 categories: Knowledge-Base
 layout: page
 full-width: true
-images: /assets/img
-typora-copy-images-to: ./assets/img
+images: ../assets/img
+typora-copy-images-to: assets/img
 
 lang: en-AU
 
@@ -110,12 +110,12 @@ There will be times within the NSX lifecycle when you could be required to deplo
 1. test
 
 
-![image-20230906225422762](assets/img/image-20230906225422762.png)
+![image-20230906225422762](../assets/img/image-20230906225422762.png)
 
 1. test
 
 
-![image-20230906225849555](../../../../../../assets/image-20230906225849555.png)
+![image-20230906225849555](/assets/image-20230906225849555.png)
 
 1. test
 
