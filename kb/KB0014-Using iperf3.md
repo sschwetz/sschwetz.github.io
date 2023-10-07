@@ -4,12 +4,10 @@ typora-copy-images-to: ../assets/img
 layout: page
 title: About me
 subtitle: Why I make the Perfect Partner
-updated 2023-10-07
+updated: 2023-10-07
 cover-img: assets/img/logo_iperf.png
 tags: [knowledge,kb,iperf,KB0014]
 ---
-
-
 
 ## What is iperf
 
@@ -31,7 +29,7 @@ iperf3 -s
 —————————————————————————————————————————
 ```
 
-By default iperf will listen on port 5201, but you can change this by using the `-p` option followed by the port
+By default, iperf will listen on port 5201, but you can change this by using the `-p` option followed by the port
 
 ```bash
 iperf3 -s -p 12345
@@ -45,7 +43,7 @@ iperf3 -s -p 12345
 
 ### Standard Mode
 
-With iperf3 in its standard mode of operation, the client sends data towards the server. If you are using TCP it is recommended to use more than one thread, otherwise a single thread my not max out your network.
+With iperf3 in its standard mode of operation, the client sends data towards the server. If you are using TCP it is recommended to use more than one thread, otherwise a single thread may not max out your network.
 
 ````bash
 iperf3 -с 172.28.22.101 -p 5201 -f m -z -b 1000M -P 10
