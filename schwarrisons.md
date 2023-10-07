@@ -2,7 +2,7 @@
 images: ./assets/img
 typora-copy-images-to: ./assets/img
 lang: en-AU
-layout: post
+layout: page
 title: About the Schwarrisons
 subtitle: It's not our surname
 tags: [info,about-us]
