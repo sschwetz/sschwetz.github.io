@@ -18,9 +18,8 @@ tags:
   - vCenter
   - Knowledge Base
   - KB
-updated: 2023-10-07
 
-
+updated: 
 ---
 
 In an environment with a vCenter Server Appliance (VCSA) 6.5.x, 6.7.x or vCenter Server 7.0.x, you experience these symptoms:

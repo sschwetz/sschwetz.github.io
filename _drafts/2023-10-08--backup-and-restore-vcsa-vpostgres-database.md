@@ -11,6 +11,7 @@ lang: en-AU
 title: KB0018
 subtitle: Back up and restore vCenter Server Appliance vPostgres database
 author: Stephen Schwetz
+
 tags: 
   - KB0018
   - VCSA
@@ -18,9 +19,8 @@ tags:
   - vCenter
   - Knowledge Base
   - KB
-updated: 2023-10-07
 
-
+updated: 
 ---
 
 

@@ -17,7 +17,8 @@ tags:
   - Manager
   - Knowledge Base
   - KB
-updated: 2023-10-07
+
+updated: 
 ---
 
 To avoid automatic password expiry for root, audit and admin users on both NSX manager and Edges we can set the password expiry to 9999 days. This is better then disabling password expiry all together as some checks later might require password expiry to be enabled.
