@@ -17,7 +17,6 @@ tags:
   - Edge
   - Manager
   - Knowledge Base
-  - KB
 
 updated:
 ---

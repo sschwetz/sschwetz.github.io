@@ -14,11 +14,10 @@ author: Stephen Schwetz
 tags: 
   - KB0014
   - Knowledge Base
-  - KB
   - wireshark
   - pcap
   - tcpdump
-updated: 2023-10-07
+updated: 
 
 
 ---

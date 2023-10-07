@@ -8,15 +8,16 @@ typora-root-url: ../
 
 lang: en-AU
 
-title: KB0006
-subtitle: Deploying a New Edge Node
+thumbnail: /assets/logos/nsx-icon.png
+cover-img: /assets/logos/nsx.png
+
+title: Deploying a New NSX Edge Node
+subtitle: 
 author: Stephen Schwetz
 tags: 
-  - KB0006
   - NSX
   - Edge
   - Knowledge Base
-  - KB
 
 ---
 
