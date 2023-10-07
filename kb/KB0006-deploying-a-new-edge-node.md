@@ -14,7 +14,6 @@ tags:
   - KB0006
   - NSX
   - Edge
-  - Manager
   - Knowledge Base
   - KB
 updated: 2023-10-07
