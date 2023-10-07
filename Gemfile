@@ -13,7 +13,7 @@ group :jekyll_plugins do
   gem "premonition"
   gem "jekyll-target-blank"
   gem 'jekyll-postfiles'
-:end
+end
 
 #gemspec
 
