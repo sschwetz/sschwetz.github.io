@@ -4,7 +4,7 @@ layout: page
 full-width: true
 
 typora-copy-images-to: /assets/img
-typora-root-url: ../
+typora-root-url: /Users/stephen/Documents/sites/schwetz.au
 
 lang: en-AU
 
@@ -31,7 +31,7 @@ updated: 2023-10-07
 
 ![image-20230906230938199](/assets/img/image-20230906230938199.png)
 
-![image-20230906231046796](assets/img/image-20230906231046796.png)
+![image-20230906231046796](/assets/img/image-20230906231046796.png)
 
 ![image-20230906231128093](/assets/img/image-20230906231128093.png)
 
