@@ -6,6 +6,7 @@ title: About me
 subtitle: Why I make the Perfect Partner
 updated 2023-10-07
 cover-img: assets/img/logo_iperf.png
+tags: [knowledge,kb,iperf,KB0014]
 ---
 
 
