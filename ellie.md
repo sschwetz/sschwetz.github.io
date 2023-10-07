@@ -19,14 +19,16 @@ Come back occasionally and stay updated on how annoying I can be.
 
 ## Fun Facts:
 
-**Name:** Ellie
-**Name when in trouble:** [Ellie May Clampett](https://beverlyhillbillies.fandom.com/wiki/Elly_May_Clampett)
-**Breed:** Toy Poodle
-**Cost:** Free
-**Favourite Toys:** Any of her “babies” that Emma gets (there are a lot) and usually at 9pm
-**Favourite Pastimes:** Sleeping during the day, being perpetually in the way, and being generally annoying.
-**Favourite Person:** Isabelle
-**Favourite Doggo:** Bluebelle
+| **Name:**            | Ellie                                                        |
+| -------------------- | ------------------------------------------------------------ |
+| **Full Name**        | [Ellie May Clampett](https://beverlyhillbillies.fandom.com/wiki/Elly_May_Clampett) |
+| **Breed**            | Toy Poodle                                                   |
+| **Cost**             | Free                                                         |
+| **Favourite Toys**   | Any of her “babies” that Emma gets (there are a lot) and usually at 9pm |
+| **Pastimes**         | Sleeping during the day, being perpetually in the way, and being generally annoying. Oh, I love barking at the door |
+| **Favourite Person** | Lilian                                                       |
+| **Favourite Doggo**  | Bluebelle                                                    |
+|                      |                                                              |
 
 ![img](../assets/img/IMG_0297.jpeg)
 
