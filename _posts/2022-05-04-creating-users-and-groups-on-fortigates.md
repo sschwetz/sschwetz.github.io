@@ -1,6 +1,7 @@
 ---
-images: assets/img
-typora-copy-images-to: ../assets/img
+typora-copy-images-to: /assets/img
+typora-root-url: ..
+
 lang: en-AU
 layout: post
 title: Set Up Users and Groups on Fortigate Firewalls

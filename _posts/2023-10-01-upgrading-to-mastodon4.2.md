@@ -1,6 +1,7 @@
 ---
-images: assets/img
-typora-copy-images-to: ../assets/img
+typora-copy-images-to: /assets/img
+typora-root-url: ..
+
 lang: en-AU
 layout: post
 title: Upgrading to Mastodon 4.2

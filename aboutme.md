@@ -1,10 +1,19 @@
 ---
 images: assets/img
 typora-copy-images-to: assets/img
+
 layout: page
 title: About me
 subtitle: Why I make the Perfect Partner
+
+typora-copy-images-to: /assets/img
+typora-root-url: ..
+
 ---
+
+
+
+
 
 Welcome to my little corner of the internet. On this site, you will find everything from the braindumps of technical data to braindumps of things that I need to take off my head to keep sane.
 

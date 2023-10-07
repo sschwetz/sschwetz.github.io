@@ -1,7 +1,9 @@
 ---
 categories: Knowledge-Base
 images: ../assets/img
-typora-copy-images-to: assets/img
+
+typora-copy-images-to: /assets/img
+typora-root-url: ..
 
 
 lang: en-GB

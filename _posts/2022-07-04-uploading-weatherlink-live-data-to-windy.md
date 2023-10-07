@@ -1,4 +1,7 @@
 ---
+typora-copy-images-to: /assets/img
+typora-root-url: ..
+
 images: assets/img
 typora-copy-images-to: ../assets/img
 lang: en-AU

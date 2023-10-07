@@ -1,6 +1,7 @@
 ---
-images: assets/img
-typora-copy-images-to: ../assets/img
+typora-copy-images-to: assets/img
+typora-root-url: ..
+
 lang: en-AU
 layout: post
 title: Clearing Interfaces On Provision and Aruba OS
@@ -113,7 +114,7 @@ To test browse to the url [https://keyoxide.org/hkp/](https://keyoxide.org/hkp/)
 
 
 
-![Screenshot of keys.opengpg.org](../assets/img/0bHNLz00l2f9b8uV-image.png)
+![Screenshot of keys.opengpg.org](assets/img/0bHNLz00l2f9b8uV-image.png)
 
 ## Linking Mastodon and Keyoxide.
 

@@ -1,6 +1,7 @@
 ---
-images: assets/img
-typora-copy-images-to: ../assets/img
+typora-copy-images-to: /assets/img
+typora-root-url: ..
+
 lang: en-AU
 layout: post
 title: My Journey Begins
@@ -67,7 +68,7 @@ The meter reading was not good, and an ambulance was called, I went to the hospi
 >
 > [https://www.diabetesaustralia.com.au/living-with-diabetes/managing-your-diabetes/ketoacidosis/](https://www.diabetesaustralia.com.au/living-with-diabetes/managing-your-diabetes/ketoacidosis/)
 
-<img src="../assets/img/63056830256__FE9790B0-6BB1-4BED-AB91-A7A71D9545B3-1536x2048.png" alt="img" style="zoom: 15%;" />
+<img src="assets/img/63056830256__FE9790B0-6BB1-4BED-AB91-A7A71D9545B3-1536x2048.png" alt="img" style="zoom: 15%;" />
 
 For some reason, I took this photo in the ICU... Go figure...
 

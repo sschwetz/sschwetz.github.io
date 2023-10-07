@@ -2,8 +2,9 @@
 categories: Knowledge-Base
 layout: page
 full-width: true
-images: ../assets/img
-typora-copy-images-to: assets/img
+
+typora-copy-images-to: /assets/img
+typora-root-url: ..
 
 lang: en-AU
 
@@ -35,12 +36,12 @@ There will be times within the NSX lifecycle when you could be required to deplo
 1. Log in to the NSX manager; the global or local manager is suitable. If you are using the global manager, you must select the local manager for the environment to which you will add the edge node.
 1. From the NSX manager screen select `System` from the top menu bar.
 
-<img src="assets/image-20230906223124140.png" alt="`image-20230906223124140`" style="zoom: 
+<img src="assets/img/image-20230906223124140.png" alt="`image-20230906223124140`" style="zoom: 
    25%;" />
 
 1. From the left hand menu click on `Fabric`.
 
-   <img src="assets/img/image-20230906223156853.png" alt="image-20230906223156853" style="zoom:50%;" />
+   ![image-20230906223156853](../assets/img/image-20230906223156853.png)
 
 1. From the menu that has extended from below the Fabric option select `Nodes`.
 

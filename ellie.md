@@ -1,7 +1,9 @@
 ---
 full-width: true
-images: /assets/img
-typora-copy-images-to: /assets/img
+
+typora-copy-images-to: /assets/img/ellie
+typora-root-url: .
+
 lang: en-AU
 layout: page
 title: Ellie the Stupid
