@@ -12,15 +12,15 @@ cover-img: /assets/img/jeykll-logo.png
 updated: 2023-10-07
 ---
 
-I have been moving my blog from writefreely to Jekyll the last couple of days, which is why it has been a bit quiet on the posting side. 
+I have been moving my blog from writefreely to Jekyll the last couple of days, so it has been a bit quiet on the posting side. 
 
 The move could have been better thought out and more manageable. I accidentally deleted the VM that had the MySQL database from writing freely, so it recovered all that I could from [archive.org's Wayback machine](https://wayback.archive.org).
 
 Once I had recovered everything that I could (some of the pages were not on the Wayback machine), I decided that I would prefer to keep the maintenance of the pages simple and at the same time, I wanted also to utilise a git repository to ensure that I had a version-controlled backup that was someone else's problem to backup. I'm looking at you [Github](https://github.com).
 
-I will perform a full writeup of my setup and workflow for adding pages etc at a later date.
+I will perform a full writeup of my setup and workflow for adding pages, etc later.
 
-The main thing that I had some issues with was how to get the systemd file configured correctly so it is here, as if I have to restore the box I will have a copy and maybe you will stumble across it as well. 
+The main thing that I had some issues with was how to get the systemd file configured correctly so it is here, if I have to restore the box, I will have a copy and maybe you will stumble across it as well. 
 
 The file has to be saved into `/etc/systemd/system/jekyall.service`
 
