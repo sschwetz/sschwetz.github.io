@@ -1,4 +1,5 @@
 ---
+full-width: true
 images: /assets/img
 typora-copy-images-to: /assets/img
 lang: en-AU
@@ -27,7 +28,8 @@ Come back occasionally and stay updated on how annoying I can be.
 | **Favourite Toys**   | Any of her “babies” that Emma gets (there are a lot) and usually at 9pm |
 | **Pastimes**         | Sleeping during the day, being perpetually in the way, and being generally annoying. Oh, I love barking at the door |
 | **Favourite Person** | Lilian                                                       |
-| **Favourite Doggo**  | Bluebelle                                                    |
-|                      |                                                              |
+| **Favourite Doggo**  | Bluebell                                                     |
+
+## Photo Gallery
 
 {% include image-gallery.html folder="/assets/img/ellie" %}
