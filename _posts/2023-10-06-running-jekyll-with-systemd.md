@@ -60,7 +60,7 @@ Once you have saved the file you will need to get systemd to reload its daemon u
 
 As was pointed out to me by [@etam](https://im-in.space/@etam/) it would be much better to use a webserver to serve the static files rather than Jekyll itself, both for security and, more importantly, speed.  To do this, I updated the `ExecStart=` line so that it exported the files to a location that nginx could read (i.e. outside the Jekyll user's home directory) by postpending `--destination /opt/jekyll`.
 
-I then created the destination directory and changed its permissions to 755, to allow owner to write and nginx read from it. I then ran `chown jeykell /opt/jekyll` to make Jekyll the owner of the directory
+I then created the destination directory and changed its permissions to 755, to allow the owner to write and nginx read from it. I then ran `chown jeykell /opt/jekyll` to make Jekyll the owner of the directory
 
 I then had to create the Nginx configuration file in `/etc/nginx/sites-available`
 
