@@ -1,0 +1,17 @@
+---
+title: Knowledge Base
+layout: page
+full-width: true
+---
+
+{% for page in site.pages %}
+  {% if page.categories contains 'Knowledge-Base' %}
+    <div class="item">
+      <a href="{{ page.url }}">
+        {{page.title}}: {{ page.subtitle }}
+      </a>
+
+      <p>{{page.description}}</p>
+    </div>
+  {% endif %}
+{% endfor %}
