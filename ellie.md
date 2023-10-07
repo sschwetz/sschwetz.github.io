@@ -1,5 +1,5 @@
 ---
-images: ./assets/img
+images: /assets/img
 typora-copy-images-to: ./assets/img
 lang: en-AU
 layout: page
