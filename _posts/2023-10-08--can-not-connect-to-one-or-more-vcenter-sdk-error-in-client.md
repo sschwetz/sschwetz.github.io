@@ -11,8 +11,8 @@ lang: en-AU
 title: Could not connect to one or more vCenter Server Systems - sdk error in the vSphere Client
 subtitle:
 author: Stephen Schwetz
-cover-img: /assets/logo/esx.png
-thumbnail: /assets/logo/exi-icon.png
+cover-img: /assets/logos/esx.png
+thumbnail: /assets/logos/exi-icon.png
 
 tags: 
   - KB0020
