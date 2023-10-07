@@ -5,7 +5,7 @@ full-width: true
 
 typora-copy-images-to: ../assets/img
 typora-root-url: ../assets/img
-images: ../../assets/img
+path: "assets/img"
 
 lang: en-AU
 
