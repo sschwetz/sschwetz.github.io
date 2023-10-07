@@ -4,7 +4,6 @@ typora-copy-images-to: ../assets/img
 lang: en-AU
 layout: post
 title: Running Jekyll with systemd
-subtitle: 
 tags: [technical,jekyll,2023,October]
 comments: true
 thumbnail: /assets/img/jekyll-icon.png
