@@ -23,3 +23,9 @@ tags:
 
 ---
 
+
+
+![image-20231008091753255](/assets/img/2023-10-08-deleting-a-nsx-edge-node/image-20231008091753255.png)
+
+<img src="/assets/img/2023-10-08-deleting-a-nsx-edge-node/image-20230906233453011.png" alt="image-20230906233453011" style="zoom:50%;" />
+
