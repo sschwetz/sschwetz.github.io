@@ -11,8 +11,9 @@ lang: en-AU
 thumbnail: /assets/logos/nsx-icon.png
 cover-img: /assets/logos/nsx.png
 
-title: KB0011
-subtitle: NSX Edge Node Sizing Guide
+title: NSX Edge Node Sizing Guide
+subtitle:
+
 author: Stephen Schwetz
 tags: 
   - KB0007
