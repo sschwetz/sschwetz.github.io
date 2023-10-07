@@ -1,4 +1,5 @@
 ---
+categories: Knowledge-Base
 images: /assets/img
 typora-copy-images-to: ./assets/img
 
@@ -16,7 +17,10 @@ tags:
   - Edge Nodes	
   - Knowledge Base
 updated: 2023-10-07
+
 ---
+
+
 
 ## Symptoms
 
