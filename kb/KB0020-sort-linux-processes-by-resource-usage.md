@@ -5,8 +5,8 @@ categories: Knowledge-Base
 images: /assets/img
 typora-copy-images-to: /assets/img
 layout: page
-title: Sort Linux Processes by Resource Usage
-subtitle: KB0020
+subtitle: Sort Linux Processes by Resource Usage
+title: KB0020
 updated: 2023-10-07
 tags: 
   - KB0020

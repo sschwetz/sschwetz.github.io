@@ -6,8 +6,8 @@ typora-copy-images-to: ./assets/img
 lang: en-AU
 layout: page
 full-width: true
-title: Avoiding Password Expiry in NSX Manager and Edges
-subtitle: KB0002
+subtitle: Avoiding Password Expiry in NSX Manager and Edges
+title: KB0002
 author: Stephen Schwetz
 tags: 
   - KB0002
