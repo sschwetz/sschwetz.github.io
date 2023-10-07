@@ -3,7 +3,7 @@ images: assets/img
 typora-copy-images-to: ../assets/img
 lang: en-AU
 layout: post
-title: "Mastodon: The Art of Moving Instances"
+title: "The Art of Moving Mastodon Instances"
 subtitle: 
 tags: [Mastodon,MastodonMigration,FediTips,2012,]
 comments: true
@@ -12,7 +12,7 @@ redirect_from:
  - /stephen/center-mastodon-the-art-of-moving-instances
 ---
 
-So you made the decision to jump from Twitter to Mastodon, and you thought you chose the right instance, but you were mistaken or found one that suits you better. But you want to keep your followers and followers intact. Mastodon has got a way of doing it built right into it.
+So you decided to jump from Twitter to Mastodon, and you thought you chose the right instance, but you were mistaken or found one that suits you better. But you want to keep your followers and followers intact. Mastodon has got a way of doing it built right into it.
 
 ## Setup your New Account
 
