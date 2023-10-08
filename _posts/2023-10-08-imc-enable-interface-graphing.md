@@ -3,6 +3,7 @@ categories: Knowledge-Base
 
 typora-copy-images-to: /assets/img/${filename}
 typora-root-url: ../
+cover-image: /assets/logos/hpe-aruba.png
 
 lang: en-AU
 layout: page
@@ -13,9 +14,9 @@ author: stephen
 tags: [KB0009,KB,Knowledge,IMC]
 tags: 
   - KB0009
-  - NSX
-  - Edge
-  - Manager
+  - HPE
+  - aruba
+  - IMC
   - Knowledge Base
   - KB
 ---
