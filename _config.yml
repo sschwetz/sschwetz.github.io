@@ -320,8 +320,8 @@ plugins:
 
 mini_magick:
     photoFolders:
-        source: images/galleries
-        destination: thumbnails/images/galleries
+        source: assets/galleries
+        destination: assets/thumbnails/galleries
         resize: "320x240^"
         gravity: "center"
         extent: "320x240"
