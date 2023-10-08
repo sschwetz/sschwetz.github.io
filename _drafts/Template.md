@@ -1,18 +1,18 @@
 ---
-categories: Knowledge-Base
-layout: page
+layout:
 full-width: true
-typora-copy-images-to: /assets/img/${filename}
-typora-root-url: ../
 
+typora-root-url: ../
 
 lang: en-AU
 
-title:
+title: 
 subtitle: 
 author: Stephen Schwetz
-tags: [KB,Knowledge]
-updated: 2023-10-07
+tags: 
+
+
+updated: 
 
 
 ---
