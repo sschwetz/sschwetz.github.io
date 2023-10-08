@@ -5,7 +5,8 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
-url: https://schwetz.au
+url: "https://schwetz.au"
+baseurl: "/"
 host: 10.69.6.3
 port: 4000
 LSI: true
@@ -305,8 +306,8 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
   - "jekyll-loading-lazy"
   - "jekyll-redirect-from"
   - "premonition"
@@ -314,6 +315,7 @@ plugins:
   - "jekyll-titles-from-headings"
   - "jekyll-postfiles"
   - "cheesy-gallery"
+  - "classifier-reborn"
 
 collections:
   fotos:

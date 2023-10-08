@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem 'jekyll-postfiles'
   gem "jekyll-titles-from-headings"
   gem "cheesy-gallery"
+  gem "classifier-reborn"
 end
 
 #gemspec
