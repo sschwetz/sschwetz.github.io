@@ -315,7 +315,8 @@ plugins:
   - "jekyll-postfiles"
   - "mini_magick"
   - "exifr"
-
+  - "jekyll-exiftag"
+  - "jekyll_minimagick"
 
 
 mini_magick:
