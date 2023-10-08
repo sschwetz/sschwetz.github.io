@@ -315,8 +315,8 @@ plugins:
   - "jekyll-postfiles"
   - "cheesy-gallery"
 
- collections:
-   galleries:
-     output: true
+ #collections:
+ #  galleries:
+ #    output: true
   
 
