@@ -6,6 +6,8 @@ full-width: true
 typora-copy-images-to: /assets/img
 typora-root-url: ../
 
+cover-img: /assets/logos/wireshark.png
+
 lang: en-AU
 
 title: KB0013
