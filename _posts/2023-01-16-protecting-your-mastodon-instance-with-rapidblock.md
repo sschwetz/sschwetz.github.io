@@ -6,6 +6,7 @@ lang: en-AU
 layout: post
 title: Protecting Your Mastodon Instance with rapidblock
 subtitle: Haters will be haters
+author: stephen
 tags: [writefreely,mastodon,technical,2023,january]
 comments: true
 redirect_from:

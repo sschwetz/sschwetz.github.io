@@ -13,7 +13,7 @@ cover-img: /assets/logos/nsx.png
 
 title: KB0008
 subtitle: Deleting a NSX Edge Node
-author: Stephen Schwetz
+author: s
 tags: 
   - KB0008
   - NSX

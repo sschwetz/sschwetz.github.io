@@ -10,7 +10,7 @@ lang: en-AU
 
 title: KB0018
 subtitle: Back up and restore vCenter Server Appliance vPostgres database
-author: Stephen Schwetz
+author: stephen
 
 cover-img: /assets/logos/esx.png
 thumbnail: /assets/logos/exi-icon.png

@@ -6,6 +6,7 @@ lang: en-AU
 layout: post
 title: Attempt 3 of Quitting Smoking
 subtitle: Day One
+author: stephen
 tags: [journal,2023,September]
 comments: true
 ---

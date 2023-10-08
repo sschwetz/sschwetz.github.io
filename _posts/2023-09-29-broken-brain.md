@@ -6,6 +6,7 @@ lang: en-AU
 layout: post
 title: Broken Brain
 subtitle: Brain says No!
+author: stephen
 tags: [journal,2023,September]
 comments: true
 ---

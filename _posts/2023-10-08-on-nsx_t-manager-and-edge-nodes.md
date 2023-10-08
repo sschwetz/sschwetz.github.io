@@ -9,7 +9,7 @@ layout: page
 full-width: true
 title: Logs fail to rotate on /var/log/vmware on NSX-T Manager and Edge Nodes
 subtitle:
-author: Stephen Schwetz
+author: stephen
 
 thumbnail: /assets/logos/nsx-icon.png
 cover-img: /assets/logos/nsx.png

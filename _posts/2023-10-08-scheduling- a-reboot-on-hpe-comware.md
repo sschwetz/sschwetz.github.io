@@ -10,9 +10,9 @@ cover-img: /assets/logos/hpe-aruba.png
 lang: en-GB
 layout: page
 full-width: true
-subtitle: Scheduling a Eeboot on HPE Comware
-title: KB0012
-author: Stephen Schwetz
+title: Scheduling a Eeboot on HPE Comware
+subtitle: 
+author: stephen
 maintainer: 
 subject: 
 tags: 

@@ -8,9 +8,9 @@ typora-root-url: ../
 
 lang: en-AU
 
-title:
+title: Setup Interface Graphine on IMC
 subtitle: 
-author: Stephen Schwetz
+author: stephen
 tags: [KB,Knowledge]
 updated: 2023-10-07
 ---

@@ -6,6 +6,7 @@ lang: en-AU
 layout: post
 title: DisplayLink Driver MacOS Now Supports f.lux
 subtitle: enabling night shift
+author: stephen
 tags: [gala day, kahiba, soccer,2022,July]
 comments: true
 redirect_from:

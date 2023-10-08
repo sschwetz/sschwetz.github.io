@@ -13,7 +13,7 @@ cover-img: /assets/logos/nsx.png
 
 title: Deploying a New NSX Edge Node
 subtitle: 
-author: Stephen Schwetz
+author: stephen
 tags: 
   - NSX
   - Edge

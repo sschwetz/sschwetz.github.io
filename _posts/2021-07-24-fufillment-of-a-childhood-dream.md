@@ -6,6 +6,7 @@ lang: en-AU
 layout: post
 title: Scheduling Reboots of HPE Comware 5 and 7
 subtitle: HPE's reload in 5
+author: stephen
 tags: [Diabetes,Insulin Pump,2021,july]
 comments: true
 redirect_from:

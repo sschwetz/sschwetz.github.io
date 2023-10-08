@@ -9,7 +9,7 @@ layout: page
 full-width: true
 subtitle: Enable Interface Graphing on IMC
 title: KB0009
-author: Stephen Schwetz
+author: stephen
 tags: [KB0009,KB,Knowledge,IMC]
 tags: 
   - KB0009

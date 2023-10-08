@@ -14,7 +14,7 @@ cover-img: /assets/logos/nsx.png
 title: NSX Edge Node Sizing Guide
 subtitle:
 
-author: Stephen Schwetz
+author: stephen
 tags: 
   - KB0007
   - NSX

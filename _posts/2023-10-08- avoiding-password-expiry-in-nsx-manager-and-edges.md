@@ -12,7 +12,7 @@ layout: page
 full-width: true
 title: Avoiding Password Expiry in NSX Manager and Edges
 subtitle: 
-author: Stephen Schwetz
+author: stephen
 
 tags: 
   - KB0002

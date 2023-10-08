@@ -6,6 +6,7 @@ images: assets/img
 typora-copy-images-to: ../assets/img
 lang: en-AU
 layout: post
+author: stephen
 title: Uploading Weatherlink Live Data to Windy
 subtitle: My First Real Python Script
 tags: [python,script,technical,2022,July]

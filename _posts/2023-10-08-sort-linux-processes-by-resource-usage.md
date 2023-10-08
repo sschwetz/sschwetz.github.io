@@ -7,8 +7,9 @@ typora-copy-images-to: ../assets/img/${filename}
 typora-root-url: ../
 
 layout: page
-subtitle: Sort Linux Processes by Resource Usage
-title: KB0020
+title: Sort Linux Processes by Resource Usage
+subtitle:
+author: stephen
 updated: 2023-10-07
 tags: 
   - KB0020

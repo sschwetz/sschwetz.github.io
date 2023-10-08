@@ -6,10 +6,10 @@ categories: Knowledge-Base
 typora-copy-images-to: /assets/img/${filename}
 typora-root-url: ../
 
-subtitle: Using iperf3
-title: KB0014
-updated: 2023-10-07
+title: Using iperf3
+subtitle:
 
+author: stephen
 cover-img: assets/logo/iperf.png
 
 tags: 
@@ -19,7 +19,7 @@ tags:
   - Manager
   - Knowledge Base
 
-updated:
+
 ---
 
 ## What is iperf?

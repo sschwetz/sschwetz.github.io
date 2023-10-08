@@ -6,6 +6,7 @@ lang: en-AU
 layout: post
 title: I have been a bit slack
 subtitle: no updates for days
+author: stephen
 tags: [technical,mastodon,2023,October]
 comments: true
 ---

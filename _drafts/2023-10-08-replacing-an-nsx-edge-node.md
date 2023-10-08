@@ -13,7 +13,7 @@ lang: en-AU
 
 title: KB0007
 subtitle: Replacing an NSX-T Edge Node
-author: Stephen Schwetz
+author: stephen
 tags: 
   - KB0007
   - NSX

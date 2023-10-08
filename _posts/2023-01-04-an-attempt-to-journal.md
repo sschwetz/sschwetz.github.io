@@ -6,6 +6,7 @@ lang: en-AU
 layout: post
 title: An Attempt to Journal
 subtitle: 
+author: stephen
 tags: [journal,2023,january]
 comments: true
 ---
