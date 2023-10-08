@@ -1,10 +1,10 @@
 ---
-typora-copy-images-to: /assets/img/${filename}
+typora-copy-images-to: ../assets/img/${filename}
 typora-root-url: ../
 
 lang: en-AU
 layout: post
-title: DisplayLink Driver MacOS Now Supports f.lux
+title: It was colder than Siberia
 subtitle: enabling night shift
 author: stephen
 tags: [gala day, kahiba, soccer,2022,July]
@@ -12,7 +12,7 @@ comments: true
 redirect_from:
   - /2021/07/25/it-was-colder-than-siberia/
   - /2021/07/25/it-was-colder-than-siberia
-cover-img: /assets/img/IMG_0362.png
+cover-img: /_posts/assets/img/2021-07-25-it-was-colder-then-siberia/soccer.png
 ---
 
 Last night we had a cold change come through and it was a doozy, with a maximum wind gust of 76KM per hour. These winds carried on into the morning, whilst nowhere near as strong were still high and bitterly cold
