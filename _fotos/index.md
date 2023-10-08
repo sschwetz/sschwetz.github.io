@@ -5,5 +5,7 @@ title: Photo Gallery
 subtitle: 
 author: Stephen Schwetz
 
-permalink: none
+permalink: /fotos/index.html
 ---
+
+hmmm
