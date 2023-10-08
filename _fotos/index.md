@@ -4,6 +4,6 @@ layout: gallery
 title: Photo Gallery
 subtitle: 
 author: Stephen Schwetz
----
 
-This is a test gallery. The first of its kind.
+permalink: none
+---
