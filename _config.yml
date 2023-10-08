@@ -34,8 +34,8 @@ navbar-links:
   Tools:
     - "IT KB": kb/
   About: 
-    - Us: "schwarrisons"
-    - Stephen: "aboutme"
+    - Us: "/about/us"
+    - Stephen: "about/stephen"
   Projects:
     - Neurodiversity in Australia: "https://neurodiversity-in.au"
   "Ellie the Stupid": "ellie"
