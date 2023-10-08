@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
+gem "jekyll"
 gem "beautiful-jekyll-theme"
 
 
@@ -13,6 +14,9 @@ group :jekyll_plugins do
   gem "premonition"
   gem "jekyll-target-blank"
   gem 'jekyll-postfiles'
+  gem "jekyll-titles-from-headings"
+  gem "mini_magick"
+  gem "exifr"
 end
 
 #gemspec

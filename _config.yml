@@ -28,16 +28,16 @@ author: Stephen Schwetz
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
-#  Weather: "weather"
-#  Tools:
-#    - "IT KB": kb/
-#  About: 
-#    - Us: "schwarrisons"
-#    - Stephen: "aboutme"
-#  Projects:
-#    - Neurodiversity in Australia: "https://neurodiversity-in.au"
-#  "Ellie the Stupid": "ellie"
+navbar-links:
+  Weather: "weather"
+  Tools:
+    - "IT KB": kb/
+  About: 
+    - Us: "schwarrisons"
+    - Stephen: "aboutme"
+  Projects:
+    - Neurodiversity in Australia: "https://neurodiversity-in.au"
+  "Ellie the Stupid": "ellie"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   
@@ -311,6 +311,16 @@ plugins:
   - "jekyll-redirect-from"
   - "premonition"
   - "jekyll-target-blank"
+  - "jekyll-titles-from-headings"
+
+
+mini_magick:
+    photoFolders:
+        source: images/galleries
+        destination: thumbnails/images/galleryv2
+        resize: "320x240^"
+        gravity: "center"
+        extent: "320x240"
   
   
 
