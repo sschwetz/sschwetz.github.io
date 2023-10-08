@@ -313,9 +313,7 @@ plugins:
   - "jekyll-target-blank"
   - "jekyll-titles-from-headings"
   - "jekyll-postfiles"
-  - "mini_magick"
-  - "exifr"
-
+  - "cheesy-gallery"
 
 mini_magick:
     photoFolders:

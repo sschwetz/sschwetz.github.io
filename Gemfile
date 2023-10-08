@@ -15,8 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-target-blank"
   gem 'jekyll-postfiles'
   gem "jekyll-titles-from-headings"
-  gem "mini_magick"
-  gem "exifr"
+  gem "cheesy-gallery"
 end
 
 #gemspec
