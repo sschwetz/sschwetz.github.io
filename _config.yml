@@ -315,12 +315,8 @@ plugins:
   - "jekyll-postfiles"
   - "cheesy-gallery"
 
-mini_magick:
-    photoFolders:
-        source: assets/galleries
-        destination: assets/thumbnails/galleries
-        resize: "320x240^"
-        gravity: "center"
-        extent: "320x240"
+collections:
+  galleries:
+    cheesy-gallery: true
   
 
