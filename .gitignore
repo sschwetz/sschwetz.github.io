@@ -26,3 +26,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#jekyl files to ignore
+.sass-cache
+.jekyll-cache
+gemfiles
+Gemfile.locl
+vendor
