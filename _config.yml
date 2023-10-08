@@ -312,18 +312,18 @@ plugins:
   - "premonition"
   - "jekyll-target-blank"
   - "jekyll-titles-from-headings"
+  - "jekyll-postfiles"
+  - "mini_magick"
+  - "exifr"
+
 
 
 mini_magick:
     photoFolders:
         source: images/galleries
-        destination: thumbnails/images/galleryv2
+        destination: thumbnails/images/galleries
         resize: "320x240^"
         gravity: "center"
         extent: "320x240"
   
-  
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
