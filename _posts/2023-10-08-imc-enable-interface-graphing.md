@@ -19,6 +19,11 @@ tags:
   - IMC
   - Knowledge Base
   - KB
+
+redirect_from:
+  - /2023-10-08-mc-enable-interface-graphing/
+  - /2023-10-08-mc-enable-interface-graphing
+  - /2023-10-08-mc-enable-interface-graphing/index.html
 ---
 
 # KB0009 - Enable Interface Graphing on IMC
