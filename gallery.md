@@ -1,6 +1,6 @@
 ---
 categories: Gallery
-layout: page
+layout: gallery
 full-width: true
 
 typora-root-url: ../
