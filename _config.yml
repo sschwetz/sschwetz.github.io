@@ -318,6 +318,6 @@ plugins:
  collections:
    galleries:
      cheesy-gallery: true
-     output: true
+ #:    output: true
   
 
