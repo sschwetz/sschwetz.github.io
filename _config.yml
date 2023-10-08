@@ -316,7 +316,7 @@ plugins:
   - "cheesy-gallery"
 
  collections:
-  gallery:
+   fotos:
     cheesy-gallery: true
   
 
