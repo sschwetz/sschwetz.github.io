@@ -6,7 +6,7 @@ cover-img: /assets/logos/docker.png
 
 lang: en-AU
 layout: post
-title: Clearing Interfaces On Provision and Aruba OS
+title: Relocating Docker Directory on Ubuntu
 subtitle: 
 author: stephen
 tags: [docker,ubuntu os,technical,2022,may]
