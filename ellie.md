@@ -34,4 +34,3 @@ Come back occasionally and stay updated on how annoying I can be.
 
 ## Photo Gallery
 
-{% include album.html albumname="ellie" %}
