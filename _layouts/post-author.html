@@ -33,17 +33,6 @@ layout: base
         </div>
       {% endif %}
 
-      <!-- Look the author details up from the site config. -->
-      {% assign author = site.data.authors[page.author] %}
-      
-      <!-- Output author details if some exist. -->
-      {% if author %}
-      <span>
-        <!-- Personal Info. -->
-        Written by {{ author.name }}</a>
-    </span>
-{% endif %}
-
 
       {% if page.before-content %}
         <div class="before-content">
@@ -54,6 +43,17 @@ layout: base
       {% endif %}
 
       <article role="main" class="blog-post">
+         <!-- Look the author details up from the site config. -->
+         {% assign author = site.data.authors[page.author] %}
+      
+         <!-- Output author details if some exist. -->
+         {% if author %}
+           <span>
+             <!-- Personal Info. -->
+             <div Written by {{ author.name }}</a>
+          </span>
+        {% endif %}
+
         {{ content }}
       </article>
 
