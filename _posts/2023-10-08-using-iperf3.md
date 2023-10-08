@@ -10,7 +10,7 @@ title: Using iperf3
 subtitle:
 
 author: stephen
-cover-img: assets/logo/iperf.png
+cover-img: /assets/logo/iperf.png
 
 tags: 
   - KB0014
