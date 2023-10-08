@@ -314,7 +314,7 @@ plugins:
   - "jekyll-target-blank"
   - "jekyll-titles-from-headings"
   - "jekyll-postfiles"
-  - "cheesy-gallery"
+ # - "cheesy-gallery"
   - "classifier-reborn"
 
 collections:
