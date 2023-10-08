@@ -9,8 +9,8 @@ subtitle: a quick howto
 author: stephen
 tags: [technical,mastodon,2023,October]
 comments: true
-cover-img: assets/logo/mastodon.png
-thumbnail: assets/img/mastodon-icon.png
+cover-img: /assets/logos/mastodon.png
+thumbnail: /assets/logos/mastodon-icon.png
 ---
 
 The mastodon documentation contains great information on how to upgrade your mastodon instance between one update and another, but if you want the quick and dirty for a basic setup, here is the process.
