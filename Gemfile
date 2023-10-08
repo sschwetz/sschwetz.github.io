@@ -6,7 +6,7 @@ gem "jekyll"
 gem "beautiful-jekyll-theme"
 
 
-#group :jekyll_plugins do
+group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "jekyll-loading-lazy"
@@ -15,9 +15,9 @@ gem "beautiful-jekyll-theme"
   gem "jekyll-target-blank"
   gem 'jekyll-postfiles'
   gem "jekyll-titles-from-headings"
-  gem "cheesy-gallery"
+#  gem "cheesy-gallery"
   gem "classifier-reborn"
-#end
+end
 
 #gemspec
 
