@@ -2,6 +2,8 @@
 typora-copy-images-to: /assets/img
 typora-root-url: ../
 
+cover-img: /assets/logos/hpe-aruba.png
+
 lang: en-AU
 layout: post
 title: Clearing Interfaces On Provision and Aruba OS

@@ -3,7 +3,7 @@ categories: Knowledge-Base
 
 typora-copy-images-to: /assets/img/${filename}
 typora-root-url: ../
-cover-image: /assets/logos/hpe-aruba.png
+cover-img: /assets/logos/hpe-aruba.png
 
 lang: en-AU
 layout: page

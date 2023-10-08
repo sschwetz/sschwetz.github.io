@@ -9,7 +9,7 @@ subtitle: a quick howto
 author: stephen
 tags: [technical,mastodon,2023,October]
 comments: true
-cover-img: assets/img/mastodon.jpg
+cover-img: assets/logo/mastodon.png
 thumbnail: assets/img/mastodon-icon.png
 ---
 
