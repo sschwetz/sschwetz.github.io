@@ -8,7 +8,19 @@ title: About the Schwarrisons
 subtitle: It's not our surname
 tags: [info,about-us]
 comments: false
+
+permalink: /about/theschwarrisons
+
+redirect_from:
+  - /schwarrisons
+  - /schwarrisons/index.html
+  - /schwarrisons/
+  - /aboutus
+  - /aboutus/index.html
+  - /aboutus/
 ---
+
+re
 
 # Welcome to Our Corner
 

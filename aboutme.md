@@ -1,12 +1,21 @@
 ---
 layout: page
-title: About me
+title: About Stephen
 subtitle: Why I make the Perfect Partner
 
 typora-copy-images-to: /assets/img
 typora-root-url: ./
 
+permalink: /about/stephen
+
+redirect_from:
+  - /aboutme/
+  - /aboutme/index.html
+  - /aboutme
+
 ---
+
+
 
 Welcome to my little corner of the internet. On this site, you will find everything from the braindumps of technical data to braindumps of things that I need to take off my head to keep sane.
 
