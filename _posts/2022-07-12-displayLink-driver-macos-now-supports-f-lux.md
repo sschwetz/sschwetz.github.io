@@ -2,6 +2,8 @@
 typora-copy-images-to: /assets/img
 typora-root-url: ../
 
+cover-img: /assets/logos/apple.png
+
 lang: en-AU
 layout: post
 title: DisplayLink Driver MacOS Now Supports f.lux
