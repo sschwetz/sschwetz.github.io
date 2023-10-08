@@ -9,8 +9,6 @@ subtitle: It's not our surname
 tags: [info,about-us]
 comments: false
 
-permalink: /about/theschwarrisons
-
 redirect_from:
   - /schwarrisons
   - /schwarrisons/index.html

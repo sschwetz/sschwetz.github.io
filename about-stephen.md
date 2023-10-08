@@ -6,8 +6,6 @@ subtitle: Why I make the Perfect Partner
 typora-copy-images-to: /assets/img
 typora-root-url: ./
 
-permalink: /about/stephen
-
 redirect_from:
   - /aboutme/
   - /aboutme/index.html
