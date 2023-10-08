@@ -2,7 +2,7 @@
 typora-copy-images-to: /assets/img
 typora-root-url: ../
 
-cover-img:/assets/logos/docker.png
+cover-img: /assets/logos/docker.png
 
 lang: en-AU
 layout: post
