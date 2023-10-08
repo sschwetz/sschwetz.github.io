@@ -1,0 +1,11 @@
+navbar-links:
+  Weather: "weather"
+  Tools:
+    - "IT KB": kb/
+  About: 
+    - Us: "schwarrisons"
+    - Stephen: "aboutme"
+  Projects:
+    - Neurodiversity in Australia: "https://neurodiversity-in.au"
+  "Ellie the Stupid": "ellie"
+  navbar-var-length: true

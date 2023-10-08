@@ -28,16 +28,16 @@ author: Stephen Schwetz
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Weather: "weather"
-  Tools:
-    - "IT KB": kb/
-  About: 
-    - Us: "schwarrisons"
-    - Stephen: "aboutme"
-  Projects:
-    - Neurodiversity in Australia: "https://neurodiversity-in.au"
-  "Ellie the Stupid": "ellie"
+#navbar-links:
+#  Weather: "weather"
+#  Tools:
+#    - "IT KB": kb/
+#  About: 
+#    - Us: "schwarrisons"
+#    - Stephen: "aboutme"
+#  Projects:
+#    - Neurodiversity in Australia: "https://neurodiversity-in.au"
+#  "Ellie the Stupid": "ellie"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   
@@ -133,7 +133,7 @@ edit_page_button: false
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+#navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
