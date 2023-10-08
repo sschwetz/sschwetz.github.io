@@ -1,6 +1,7 @@
 ---
 typora-copy-images-to: /assets/img
 typora-root-url: ../
+cover-img: /assets/logos/mastodon.png
 
 lang: en-AU
 layout: post

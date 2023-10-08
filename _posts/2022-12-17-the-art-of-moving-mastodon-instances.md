@@ -9,7 +9,7 @@ subtitle:
 author: stephen
 tags: [Mastodon,MastodonMigration,FediTips,2012,]
 comments: true
-cover-img: /assets/img/mastodon-cover-image.jpg
+cover-img: /assets/logos/mastodon.png
 redirect_from:
  - /stephen/center-mastodon-the-art-of-moving-instances
 ---
