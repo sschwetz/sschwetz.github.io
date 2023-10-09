@@ -9,7 +9,7 @@ typora-root-url: ../
 layout: page
 title: Sort Linux Processes by Resource Usage
 subtitle:
-author: stephen
+author: Stephen
 updated: 2023-10-07
 tags: 
   - KB0020

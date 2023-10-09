@@ -8,7 +8,7 @@ lang: en-AU
 layout: post
 title: Relocating Docker Directory on Ubuntu
 subtitle: 
-author: stephen
+author: Stephen
 tags: [docker,ubuntu os,technical,2022,may]
 comments: true
 redirect_from:

@@ -7,7 +7,7 @@ lang: en-AU
 layout: post
 title: Configuring Radius on Comware 7
 subtitle: 
-author: stephen
+author: Stephen
 tags: [comware,hpe,aruba,radius,2023,February]
 comments: true
 redirect_from:

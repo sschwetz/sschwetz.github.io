@@ -12,7 +12,7 @@ lang: en-AU
 
 title: KB0013
 subtitle: Creating .pcap Files with tcpdump for Wireshark Analysis
-author: stephen
+author: Stephen
 tags: 
   - KB0014
   - Knowledge Base

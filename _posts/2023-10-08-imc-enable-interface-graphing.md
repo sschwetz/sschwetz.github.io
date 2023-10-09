@@ -8,9 +8,9 @@ cover-img: /assets/logos/hpe-aruba.png
 lang: en-AU
 layout: page
 full-width: true
-subtitle: Enable Interface Graphing on IMC
-title: KB0009
-author: stephen
+title: Enable Interface Graphing on IMC
+subtitle: 
+author: Stephen
 tags: [KB0009,KB,Knowledge,IMC]
 tags: 
   - KB0009

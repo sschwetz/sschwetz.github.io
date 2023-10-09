@@ -10,7 +10,7 @@ title: DisplayLink Driver MacOS Now Supports f.lux
 subtitle: enabling night shift
 tags: [macos,displaylink,technical,2022,July]
 comments: true
-author: stephen
+author: Stephen
 redirect_from:
   - /stephen/displaylink-driver-macos-now-supports-f-lux
 ---

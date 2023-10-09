@@ -10,7 +10,7 @@ title: Scheduling Reboots of HPE Comware 5 and 7
 subtitle: HPE's reload in 5
 tags: [comware,hpe,technical,2022,july]
 comments: true
-author: stephen
+author: Stephen
 redirect_from:
   - /stephen/scheduling-reboots-of-hpe-comware-5-and-7
   - /2022/07/18/scheduling-reboots-of-hpe-comware-5-and-7/

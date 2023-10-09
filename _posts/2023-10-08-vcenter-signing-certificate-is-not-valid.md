@@ -13,7 +13,7 @@ lang: en-AU
 
 title: vCenter - Signing certificate is not valid
 subtitle: 
-author: stephen
+author: Stephen
 tags: 
   - KB0019
   - VCSA

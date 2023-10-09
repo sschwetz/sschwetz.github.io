@@ -9,7 +9,7 @@ typora-root-url: ../
 title: Using iperf3
 subtitle:
 
-author: stephen
+author: Stephen
 cover-img: /assets/logos/iperf.png
 
 tags: 

@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: Quitting Smoking Day 2
 subtitle: Not that successful
-author: stephen
+author: Stephen
 tags: [journal,2023,October]
 comments: true
 ---

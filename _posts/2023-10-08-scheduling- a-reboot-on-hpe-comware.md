@@ -12,7 +12,7 @@ layout: page
 full-width: true
 title: Scheduling a Eeboot on HPE Comware
 subtitle: 
-author: stephen
+author: Stephen
 maintainer: 
 subject: 
 tags: 

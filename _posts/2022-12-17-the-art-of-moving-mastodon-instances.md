@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: "The Art of Moving Mastodon Instances"
 subtitle: 
-author: stephen
+author: Stephen
 tags: [Mastodon,MastodonMigration,FediTips,2012,]
 comments: true
 cover-img: /assets/logos/mastodon.png

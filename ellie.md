@@ -7,7 +7,7 @@ typora-root-url: ./
 lang: en-AU
 layout: page
 title: Ellie the Stupid
-subtitle: 
+subtitle: I am the annoying
 redirect_from:
   - /ellie-the-stupid/
   - /ellie-the-stupid

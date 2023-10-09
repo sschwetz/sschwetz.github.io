@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: Starting of at blogging again
 subtitle: There's lots to learn!
-author: stephen
+author: Stephen
 tags: [journal,2023,September]
 comments: true
 ---

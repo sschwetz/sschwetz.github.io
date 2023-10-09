@@ -6,7 +6,7 @@ cover-img: /assets/logos/python.png
 
 lang: en-AU
 layout: post
-author: stephen
+author: Stephen
 title: Uploading Weatherlink Live Data to Windy
 subtitle: My First Real Python Script
 tags: [python,script,technical,2022,July]

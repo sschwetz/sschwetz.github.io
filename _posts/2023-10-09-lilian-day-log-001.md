@@ -14,7 +14,7 @@ redirect_from:
 
 title: Lilian's Life
 subtitle: I was 30 minutes late to school!
-author: lilian
+author: Lilian
 comments: true
 updated:
 tags:
