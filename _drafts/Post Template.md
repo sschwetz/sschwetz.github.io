@@ -14,10 +14,11 @@ redirect_from:
 
 title: 
 subtitle: 
-comments: false
+author:
 updated:
 tags:
+  -
+category:
+comments: true
 ---
-
-
 
