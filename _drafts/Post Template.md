@@ -1,7 +1,7 @@
 ---
 #**************************************
 lang: en-AU
-layout: page
+layout: post
 
 typora-copy-images-to: ../assets/img
 typora-root-url: ../
