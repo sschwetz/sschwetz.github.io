@@ -10,8 +10,8 @@ url: "https://schwetz.au"
 host: 10.69.6.3
 port: 4000
 LSI: true
-remote_theme: sschwetz/beautiful-jekyll
-
+#remote_theme: sschwetz/beautiful-jekyll
+remote_theme: daattali/beautiful-jekyll
 categories: 
   - Knowledge-Base
 
