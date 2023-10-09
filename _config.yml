@@ -10,7 +10,7 @@ url: "https://schwetz.au"
 host: 10.69.6.3
 port: 4000
 LSI: true
-theme: beautiful-jekyll-theme
+theme: sschwetz/beautiful-jekyll
 
 categories: 
   - Knowledge-Base
@@ -325,6 +325,7 @@ plugins:
   - "jekyll-postfiles"
  # - "cheesy-gallery"
   - "classifier-reborn"
+  - jekyll-remote-theme
 
 collections:
   authors:

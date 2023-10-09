@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "beautiful-jekyll-theme"
+gem "jekyll-remote-theme"
 
 
 group :jekyll_plugins do
