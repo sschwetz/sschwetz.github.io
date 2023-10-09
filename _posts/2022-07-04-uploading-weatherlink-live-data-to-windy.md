@@ -1,9 +1,9 @@
 ---
-typora-copy-images-to: /assets/img
 typora-root-url: ../
+typora-copy-images-to: ../assets/img/${filename}
 
-images: assets/img
-typora-copy-images-to: ../assets/img
+cover-img: /assets/logos/python.png
+
 lang: en-AU
 layout: post
 author: stephen
@@ -13,10 +13,12 @@ tags: [python,script,technical,2022,July]
 comments: true
 redirect_from:
   - /stephen/uploading-weatherlink-live-data-to-windy
+
+
   
 ---
 
-I have always enjoyed the weather and attempting to forecast what it is going to do. I purchased a Davis Vantage Pro 2 weather station a couple of years ago. After years of using el-cheapo weather stations, this reliability has been top-notch. You can also purchase replacement parts, but I have not had the requirement to do so.
+I have always enjoyed the weather and attempting to forecast what it will do. I purchased a Davis Vantage Pro 2 weather station two years ago. After years of using el-cheapo weather stations, this reliability has been top-notch. You can also purchase replacement parts, but I have not had the requirement.
 
 As part of this autistic experimentation, I like to share my weather data with multiple weather sites, including
 
