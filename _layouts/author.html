@@ -1,6 +1,6 @@
 ---
-layout: default
-full-width: true
+layout: page
+title: {{ page.name }}
 ---
 
 {% if page.picture %}
@@ -8,7 +8,7 @@ full-width: true
 {% endif %}
 <h1 class="site-title">{{ page.name }}</h1>
 {% if page.bio %}
-    <h2 class="author-bio">{{ page.bio }}</h2>
+    <div class="author-bio">{{ page.bio }}</div>
 {% endif %}
 {% if page.location %}
     <div class="author-location">{{ page.location }}</div>
