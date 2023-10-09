@@ -6,7 +6,7 @@
 ###########################################################
 
 url: "https://schwetz.au"
-baseurl: "/"
+#baseurl: "/"
 host: 10.69.6.3
 port: 4000
 LSI: true
