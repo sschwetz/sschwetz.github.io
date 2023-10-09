@@ -36,6 +36,7 @@ navbar-links:
   About: 
     - Us: "/about-us"
     - Stephen: "about-stephen"
+    - Lilian: "about-lilian"
   Projects:
     - Neurodiversity in Australia: "https://neurodiversity-in.au"
   "Ellie the Stupid": "ellie"
