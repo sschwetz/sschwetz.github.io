@@ -13,7 +13,37 @@ redirect_from:
   - /ellie-the-stupid
 
 cover-img: /assets/img/ellie/66933925653__DCC8CAFA-C9E6-4831-BE6B-BCE44A0D1A75.jpeg
+
+images:
+  - image_path: /images/galleries/ellie/ellie_1.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_2.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_3.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_4.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_5.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_6.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_7.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_8.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_9.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_10.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_11.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_12.jpeg
+    title: Stupid
+  - image_path: /images/galleries/ellie/ellie_13.jpeg
+    title: Stupid
 ---
+
+
 
 # Ellie the Stupid
 
