@@ -24,7 +24,7 @@ tags:
 category: 
 comments: true
 
-cover-img: /assets/logos/jekyll.png
+cover-img: /assets/img/jeykll-logo.png
 thumbnail-img:
 ---
 
