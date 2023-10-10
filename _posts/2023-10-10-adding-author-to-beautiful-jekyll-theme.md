@@ -12,7 +12,7 @@ typora-root-url: ../
 redirect_from:
 #*************************************
 
-title: Adding author to allow a multi author blog
+title: Adding author field to jeykll to allow a multi author blog
 subtitle: 
 author: Stephen
 updated:
