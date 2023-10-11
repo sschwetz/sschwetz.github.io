@@ -304,7 +304,7 @@ defaults:
       permalink: /authors/:slug
   -
     scope:
-      path: "kb"
+      path: "/kb"
       type: ""
     values:
       layout: page
