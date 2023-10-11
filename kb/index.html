@@ -5,7 +5,7 @@ full-width: true
 ---
 
 {% for page in site.pages %}
-  {% if page.categories contains 'Knowledge-Base' %}
+  {% if page.categories contains 'kb' %}
     <div class="item">
       <a href="{{ page.url }}">
         {{page.title}}: {{ page.subtitle }}
