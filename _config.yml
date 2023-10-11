@@ -295,7 +295,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      permalink: /:title:output_ext
+      permalink: /:year-:month-:day-:title/
   - 
     scope:
       path: ""
