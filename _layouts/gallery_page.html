@@ -19,7 +19,12 @@ full-width: true
   max-width: 100%;
 }
 </style>
-<h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>
+<a href="/{{ site.gallery.dir }}">
+  <span class="fa-stack fa-lg" aria-hidden="true">
+    <i class="fas fa-circle fa-stack-2x"></i>
+    <i class="fas fa-left-arrow fa-stack-1x fa-inverse"></i>
+  </span>
+</a>
 <hr />
 {% for image in page.images %}
     <div class="gallery-image-wrapper">
