@@ -2,7 +2,8 @@
 #**************************************
 lang: en-AU
 layout: page
-social-share: false
+social-share: true
+categories: kb
 
 typora-copy-images-to: ../assets/img/${filename}
 typora-root-url: ../
@@ -27,7 +28,7 @@ share-img:
 
 tags:
   -
-category:
+categories: kb
 comments: true
 ---
 

@@ -18,7 +18,7 @@ author:
 updated:
 tags:
   -
-category:
+categories:
 comments: false
 ---
 
