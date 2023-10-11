@@ -1,0 +1,1277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strip",
+				"strip_html"
+			],
+			[
+				"s",
+				"Stephen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/gallery.html",
+			"settings":
+			{
+				"buffer_size": 520,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "{"
+					},
+					"AQAAACUBAAAAAAAAJgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAACUBAAAAAAAAJQEAAAAAAAABAAAAew",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAACUBAAAAAAAAJgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAACUBAAAAAAAAJQEAAAAAAAABAAAAPA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "{image"
+					},
+					"BgAAACUBAAAAAAAAJgEAAAAAAAAAAAAAJgEAAAAAAAAnAQAAAAAAAAAAAAAnAQAAAAAAACgBAAAAAAAAAAAAACgBAAAAAAAAKQEAAAAAAAAAAAAAKQEAAAAAAAAqAQAAAAAAAAAAAAAqAQAAAAAAACsBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": ".p"
+					},
+					"AgAAACsBAAAAAAAALAEAAAAAAAAAAAAALAEAAAAAAAAtAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwEAAAAAAAArAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "ath"
+					},
+					"AwAAAC0BAAAAAAAALgEAAAAAAAAAAAAALgEAAAAAAAAvAQAAAAAAAAAAAAAvAQAAAAAAADABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " }}"
+					},
+					"AwAAADABAAAAAAAAMQEAAAAAAAAAAAAAMQEAAAAAAAAyAQAAAAAAAAAAAAAyAQAAAAAAADMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAEAAAAAAAAwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADMBAAAAAAAANAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwEAAAAAAAAzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"left_delete",
+					null,
+					"AQAAADMBAAAAAAAAMwEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAANAEAAAAAAAA0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAADMBAAAAAAAANAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwEAAAAAAAAzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "{"
+					},
+					"AQAAACYBAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACcBAAAAAAAAKAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwEAAAAAAAAnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "{{"
+					},
+					"AgAAAPMAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " image;"
+					},
+					"BwAAAPUAAAAAAAAA9gAAAAAAAAAAAAAA9gAAAAAAAAD3AAAAAAAAAAAAAAD3AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAD6AAAAAAAAAPsAAAAAAAAAAAAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QAAAAAAAAD1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPsAAAAAAAAA+wAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAD7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPsAAAAAAAAA+wAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": ".patj"
+					},
+					"BQAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAD9AAAAAAAAAAAAAAD9AAAAAAAAAP4AAAAAAAAAAAAAAP4AAAAAAAAA/wAAAAAAAAAAAAAA/wAAAAAAAAAAAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wAAAAAAAAD7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAAP8AAAAAAAAA/wAAAAAAAAABAAAAag",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "h"
+					},
+					"AQAAAP8AAAAAAAAAAAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/wAAAAAAAAD/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAABAAAAAAAAAQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAABAAAAAAAAAQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "}}"
+					},
+					"AgAAAAEBAAAAAAAAAgEAAAAAAAAAAAAAAgEAAAAAAAADAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQEAAAAAAAABAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAAMBAAAAAAAABAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					2,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AgAAAAQBAAAAAAAABgEAAAAAAAAAAAAABQEAAAAAAAAHAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAEAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAAYBAAAAAAAABwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgEAAAAAAAAGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAYBAAAAAAAABgEAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAABwEAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": " image"
+					},
+					"BgAAAAYBAAAAAAAABwEAAAAAAAAAAAAABwEAAAAAAAAIAQAAAAAAAAAAAAAIAQAAAAAAAAkBAAAAAAAAAAAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAALAQAAAAAAAAAAAAALAQAAAAAAAAwBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgEAAAAAAAAGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": ".i"
+					},
+					"AgAAAAwBAAAAAAAADQEAAAAAAAAAAAAADQEAAAAAAAAOAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAEAAAAAAAAMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "mage"
+					},
+					"BAAAAA4BAAAAAAAADwEAAAAAAAAAAAAADwEAAAAAAAAQAQAAAAAAAAAAAAAQAQAAAAAAABEBAAAAAAAAAAAAABEBAAAAAAAAEgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgEAAAAAAAAOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABIBAAAAAAAAEwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgEAAAAAAAASAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIUBAAAAAAAAhgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQEAAAAAAACFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJEBAAAAAAAAkgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQEAAAAAAACRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAJQBAAAAAAAAlgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAEAAAAAAACUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJUBAAAAAAAAlQEAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAlgEAAAAAAACWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAHEBAAAAAAAAcgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQEAAAAAAABxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAEMBAAAAAAAARAEAAAAAAAAAAAAARAEAAAAAAABNAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwEAAAAAAABDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "  "
+					},
+					"AgAAAE0BAAAAAAAATgEAAAAAAAAAAAAATgEAAAAAAABPAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQEAAAAAAABNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAKMBAAAAAAAApAEAAAAAAAAAAAAApAEAAAAAAACvAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowEAAAAAAACjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"left_delete",
+					null,
+					"AQAAAK4BAAAAAAAArgEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKwBAAAAAAAArAEAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"left_delete",
+					null,
+					"AQAAACEBAAAAAAAAIQEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAIgEAAAAAAAAiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOkAAAAAAAAA6QAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA6gAAAAAAAADqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"left_delete",
+					null,
+					"AQAAALIBAAAAAAAAsgEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAswEAAAAAAACzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"left_delete",
+					null,
+					"AQAAAL8BAAAAAAAAvwEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAwAEAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					2,
+					"left_delete",
+					null,
+					"AgAAAMoBAAAAAAAAygEAAAAAAAABAAAAIMgBAAAAAAAAyAEAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAywEAAAAAAADLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAMgBAAAAAAAAygEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAEAAAAAAADIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAAICAAAAAAAAAwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgIAAAAAAAACAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAECAAAAAAAAAQIAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAAwIAAAAAAAADAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJIAAAAAAAAAkgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAJIAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkgAAAAAAAACSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJIAAAAAAAAAkgAAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"left_delete",
+					null,
+					"AQAAALEAAAAAAAAAsQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					4,
+					"left_delete",
+					null,
+					"BAAAAOUAAAAAAAAA5QAAAAAAAAACAAAAICDjAAAAAAAAAOMAAAAAAAAAAgAAACAg4QAAAAAAAADhAAAAAAAAAAIAAAAgIOAAAAAAAAAA4AAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA5wAAAAAAAADnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN8AAAAAAAAA3wAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					5,
+					"left_delete",
+					null,
+					"BQAAAJ4BAAAAAAAAngEAAAAAAAACAAAAICCcAQAAAAAAAJwBAAAAAAAAAgAAACAgmgEAAAAAAACaAQAAAAAAAAIAAAAgIJgBAAAAAAAAmAEAAAAAAAACAAAAICCXAQAAAAAAAJcBAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAAFBA"
+				],
+				[
+					122,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJYBAAAAAAAAlgEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "_authors/stephen.md",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\nlang: en-AU\nlayout: gallery\nsocial-share: false\n\ntypora-copy-images-to: ../../assets/img/${filename}\ntypora-root-url: ../../\n#**************************************\n\n#*************************************\n#fill this if you have renamed the page\nredirect_from:\n#*************************************\n\ntitle: \nsubtitle: \nauthor:\nupdated:\ncover-img:\nthumbnail-img:\nfull-width: false\n\nshare-title:\nshare-description:\nshare-img:\n\ntags:\n  -\ncategory:\ncomments: true\n\ngallery-path:\n\n---\n\n{% include .html %}",
+			"file": "_galleries/gallery-ellie/index.md",
+			"file_size": 504,
+			"file_write_time": 133414945889875765,
+			"redo_stack":
+			[
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "gallery"
+					},
+					"BwAAAPYBAAAAAAAA9gEAAAAAAAABAAAAefUBAAAAAAAA9QEAAAAAAAABAAAAcvQBAAAAAAAA9AEAAAAAAAABAAAAZfMBAAAAAAAA8wEAAAAAAAABAAAAbPIBAAAAAAAA8gEAAAAAAAABAAAAbPEBAAAAAAAA8QEAAAAAAAABAAAAYfABAAAAAAAA8AEAAAAAAAABAAAAZw",
+					"AQAAAAAAAAABAAAA9wEAAAAAAAD3AQAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 504,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "include"
+					},
+					"BwAAAPABAAAAAAAA8QEAAAAAAAAAAAAA8QEAAAAAAADyAQAAAAAAAAAAAADyAQAAAAAAAPMBAAAAAAAAAAAAAPMBAAAAAAAA9AEAAAAAAAAAAAAA9AEAAAAAAAD1AQAAAAAAAAAAAAD1AQAAAAAAAPYBAAAAAAAAAAAAAPYBAAAAAAAA9wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8AEAAAAAAADwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					2,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AgAAAO8BAAAAAAAA8QEAAAAAAAAAAAAA8AEAAAAAAADyAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7wEAAAAAAADvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "%"
+					},
+					"AQAAAPEBAAAAAAAA8gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QEAAAAAAADxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " in"
+					},
+					"AwAAAPIBAAAAAAAA8wEAAAAAAAAAAAAA8wEAAAAAAAD0AQAAAAAAAAAAAAD0AQAAAAAAAPUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gEAAAAAAADyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPQBAAAAAAAA9AEAAAAAAAABAAAAbvMBAAAAAAAA8wEAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAA9QEAAAAAAAD1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"paste",
+					null,
+					"AgAAAO8BAAAAAAAAFAIAAAAAAAAAAAAAFAIAAAAAAAAUAgAAAAAAAA8AAAB7eyUgfX0gaW5jbHVkZQo",
+					"AQAAAAAAAAABAAAA7wEAAAAAAAD+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					10,
+					"left_delete",
+					null,
+					"CgAAABACAAAAAAAAEAIAAAAAAAABAAAAIg8CAAAAAAAADwIAAAAAAAABAAAAZQ4CAAAAAAAADgIAAAAAAAABAAAAZw0CAAAAAAAADQIAAAAAAAABAAAAYQwCAAAAAAAADAIAAAAAAAABAAAAcAsCAAAAAAAACwIAAAAAAAABAAAAIgoCAAAAAAAACgIAAAAAAAABAAAAPQkCAAAAAAAACQIAAAAAAAABAAAAZQgCAAAAAAAACAIAAAAAAAABAAAAcAcCAAAAAAAABwIAAAAAAAABAAAAeQ",
+					"AQAAAAAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAYCAAAAAAAABgIAAAAAAAABAAAAdAUCAAAAAAAABQIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAABwIAAAAAAAAHAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					9,
+					"left_delete",
+					null,
+					"CQAAAOcBAAAAAAAA5wEAAAAAAAABAAAAa+YBAAAAAAAA5gEAAAAAAAABAAAAbuUBAAAAAAAA5QEAAAAAAAABAAAAaeQBAAAAAAAA5AEAAAAAAAABAAAAbOMBAAAAAAAA4wEAAAAAAAABAAAAYeIBAAAAAAAA4gEAAAAAAAABAAAAbeEBAAAAAAAA4QEAAAAAAAABAAAAcuABAAAAAAAA4AEAAAAAAAABAAAAZd8BAAAAAAAA3wEAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAA6AEAAAAAAADoAQAAAAAAAAAAAAAAAGZA"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN4BAAAAAAAA3gEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA3wEAAAAAAADfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					6,
+					"left_delete",
+					null,
+					"BgAAAPUBAAAAAAAA9QEAAAAAAAABAAAAcvQBAAAAAAAA9AEAAAAAAAABAAAAZfMBAAAAAAAA8wEAAAAAAAABAAAAZPIBAAAAAAAA8gEAAAAAAAABAAAAYfEBAAAAAAAA8QEAAAAAAAABAAAAZfABAAAAAAAA8AEAAAAAAAABAAAAaA",
+					"AQAAAAAAAAABAAAA9gEAAAAAAAD2AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 11026,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "iga"
+					},
+					"AwAAACErAAAAAAAAIisAAAAAAAAAAAAAIisAAAAAAAAjKwAAAAAAAAAAAAAjKwAAAAAAACQrAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAISsAAAAAAAAhKwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AgAAACMrAAAAAAAAIysAAAAAAAABAAAAYSIrAAAAAAAAIisAAAAAAAABAAAAZw",
+					"AQAAAAAAAAABAAAAJCsAAAAAAAAkKwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAACErAAAAAAAAISsAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAIisAAAAAAAAiKwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "gal;"
+					},
+					"BAAAACErAAAAAAAAIisAAAAAAAAAAAAAIisAAAAAAAAjKwAAAAAAAAAAAAAjKwAAAAAAACQrAAAAAAAAAAAAACQrAAAAAAAAJSsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAISsAAAAAAAAhKwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAACQrAAAAAAAAJCsAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAJSsAAAAAAAAlKwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "lery-"
+					},
+					"BQAAACQrAAAAAAAAJSsAAAAAAAAAAAAAJSsAAAAAAAAmKwAAAAAAAAAAAAAmKwAAAAAAACcrAAAAAAAAAAAAACcrAAAAAAAAKCsAAAAAAAAAAAAAKCsAAAAAAAApKwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJCsAAAAAAAAkKwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABGKwAAIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyMjIFdlbGNvbWUgdG8gQmVhdXRpZnVsIEpla3lsbCEKIyMjIFRoaXMgY29uZmlnIGZpbGUgaXMgbWVhbnQgZm9yIHNldHRpbmdzIHRoYXQgYWZmZWN0IHlvdXIgZW50aXJlIHdlYnNpdGUuIFdoZW4geW91IGZpcnN0CiMjIyBzZXQgdXAgeW91ciB3ZWJzaXRlIHlvdSBzaG91bGQgZ28gdGhyb3VnaCBhbGwgdGhlc2Ugc2V0dGluZ3MgYW5kIGVkaXQgdGhlbSwgYnV0IGFmdGVyCiMjIyB0aGUgaW5pdGlhbCBzZXQgdXAgeW91IHdvbid0IG5lZWQgdG8gY29tZSBiYWNrIHRvIHRoaXMgZmlsZSBvZnRlbi4KIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCnVybDogImh0dHBzOi8vc2Nod2V0ei5hdSIKI2Jhc2V1cmw6ICIvIgpob3N0OiAxMC42OS42LjMKcG9ydDogNDAwMApMU0k6IHRydWUKcmVtb3RlX3RoZW1lOiBzc2Nod2V0ei9iZWF1dGlmdWwtamVreWxsCiNyZW1vdGVfdGhlbWU6IGRhYXR0YWxpL2JlYXV0aWZ1bC1qZWt5bGwKY2F0ZWdvcmllczogCiAgLSBLbm93bGVkZ2UtQmFzZQoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIC0tLSBSZXF1aXJlZCBvcHRpb25zIC0tLSAjCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCiMgTmFtZSBvZiB3ZWJzaXRlCnRpdGxlOiAiQXV0aXN0aWMgUHJpZGUiCgojIFlvdXIgbmFtZSB0byBzaG93IGluIHRoZSBmb290ZXIKYXV0aG9yOiBTdGVwaGVuIFNjaHdldHoKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgLS0tIExpc3Qgb2YgbGlua3MgaW4gdGhlIG5hdmlnYXRpb24gYmFyIC0tLSAjCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgpuYXZiYXItbGlua3M6CiAgV2VhdGhlcjogIndlYXRoZXIiCiAgVG9vbHM6CiAgICAtICJJVCBLQiI6IGtiLwogIEFib3V0OiAKICAgIC0gVXM6ICIvYWJvdXQtdXMiCiAgICAtIFN0ZXBoZW46ICJhYm91dC1zdGVwaGVuIgogICAgLSBMaWxpYW46ICJhYm91dC1saWxpYW4iCiAgUHJvamVjdHM6CiAgICAtIE5ldXJvZGl2ZXJzaXR5IGluIEF1c3RyYWxpYTogImh0dHBzOi8vbmV1cm9kaXZlcnNpdHktaW4uYXUiCiAgIkVsbGllIHRoZSBTdHVwaWQiOiAiZWxsaWUiCiMgICAgLSBCZWF1dGlmdWwgSmVreWxsOiAiaHR0cHM6Ly9iZWF1dGlmdWxqZWt5bGwuY29tIgojICAgIC0gTGVhcm4gbWFya2Rvd246ICJodHRwczovL3d3dy5tYXJrZG93bnR1dG9yaWFsLmNvbS8iCiAgCgojIyMjIyMjIyMjIyMjIyMjCiMgLS0tIExvZ28gLS0tICMKIyMjIyMjIyMjIyMjIyMjIwoKIyBJbWFnZSB0byBzaG93IGluIHRoZSBuYXZpZ2F0aW9uIGJhciAtIHdvcmtzIGJlc3Qgd2l0aCBhIHNxdWFyZSBpbWFnZQojIFJlbW92ZSB0aGlzIHBhcmFtZXRlciBpZiB5b3UgZG9uJ3Qgd2FudCBhbiBpbWFnZSBpbiB0aGUgbmF2YmFyCmF2YXRhcjogIi9hc3NldHMvaW1nL2F2YXRhci1pY29uLnBuZyIKCiMgQnkgZGVmYXVsdCwgdGhlIGltYWdlIGlzIGN1dCBpbnRvIGEgY2lyY2xlLiBZb3UgY2FuIGRpc2FibGUgdGhpcyBiZWhhdmlvdXIgYnkgc2V0dGluZyAncm91bmQtYXZhdGFyOiBmYWxzZScKcm91bmQtYXZhdGFyOiB0cnVlCgojIElmIHlvdSB3YW50IHRvIGhhdmUgYW4gaW1hZ2UgbG9nbyBpbiB0aGUgdG9wLWxlZnQgY29ybmVyIGluc3RlYWQgb2YgaGF2aW5nIHRoZSB0aXRsZSBvZiB0aGUgd2Vic2l0ZSwKIyB0aGVuIHNwZWNpZnkgdGhlIGZvbGxvd2luZyBwYXJhbWV0ZXIKIyB0aXRsZS1pbWc6IC9hc3NldHMvaW1nL2F2YXRhci1pY29uLnBuZwoKCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyAtLS0gRm9vdGVyIHNvY2lhbCBtZWRpYSBsaW5rcyAtLS0gIwojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgojIFNlbGVjdCB0aGUgc29jaWFsIG5ldHdvcmsgbGlua3MgdGhhdCB5b3Ugd2FudCB0byBzaG93IGluIHRoZSBmb290ZXIuCiMgWW91IGNhbiBjaGFuZ2UgdGhlIG9yZGVyIHRoYXQgdGhleSBzaG93IHVwIG9uIHRoZSBwYWdlIGJ5IGNoYW5naW5nIHRoZSBvcmRlciBoZXJlLgojIFVuY29tbWVudCB0aGUgbGlua3MgeW91IHdhbnQgdG8gc2hvdyBhbmQgYWRkIHlvdXIgaW5mb3JtYXRpb24gdG8gZWFjaCBvbmUuCnNvY2lhbC1uZXR3b3JrLWxpbmtzOgogIGVtYWlsOiAic3RlcGhlbkBzY2h3ZXR6LmF1IgogIHJzczogZmFsc2UgICMgcmVtb3ZlIHRoaXMgbGluZSBpZiB5b3UgZG9uJ3Qgd2FudCB0byBzaG93IGFuIFJTUyBsaW5rIGF0IHRoZSBib3R0b20KICBmYWNlYm9vazogc3NjaHdldHoKICBnaXRodWI6IHNzY2h3ZXR6CiAgdHdpdHRlcjogc3NjaHdldHoKIyAgcGF0cmVvbjogRGVhbkF0dGFsaQojICB5b3V0dWJlOiBjL2RhYXR0YWxpCiMgIG1lZGl1bTogeW91cm5hbWUKIyAgcmVkZGl0OiB5b3VybmFtZQogIGxpbmtlZGluOiB0aGVyZWFsc3RlcGhlbgojICB4aW5nOiB5b3VybmFtZQojICBzdGFja292ZXJmbG93OiAiMzk0MzE2MC9kYWF0dGFsaSIKIyAgc25hcGNoYXQ6IGRlYW5hdDc4CiMgIGluc3RhZ3JhbTogZGVhbmF0NzgKIyAgc3BvdGlmeTogeW91cm5hbWUKIyAgdGVsZXBob25lOiArMTQxNTk5OTg4ODgKIyAgc3RlYW06IGRlYW5hdDc4CiMgIHR3aXRjaDogeW91cm5hbWUKIyAgeWVscDogeW91cm5hbWUKIyAgdGVsZWdyYW06IHlvdXJuYW1lCiMgIGNhbGVuZGx5OiB5b3VybmFtZQogIG1hc3RvZG9uOiBuZXVyb2RpdmVyc2l0eS1pbi5hdS9Ac3RlcGhlbgojICBPUkNJRDogeW91ciBPUkNJRCBJRAojICBnb29nbGUtc2Nob2xhcjogeW91ciBnb29nbGUgc2Nob2xhcgojICBkaXNjb3JkOiAiaW52aXRlX2NvZGUiIG9yICJ1c2Vycy91c2VyaWQiIG9yICJpbnZpdGUvaW52aXRlX2NvZGUiIAojICBrYWdnbGU6IHlvdXJuYW1lCiMgIGhhY2tlcnJhbms6IHlvdXJuYW1lCiMgIGdpdGxhYjogeW91cm5hbWUKCiMgSWYgeW91IHdhbnQgeW91ciB3ZWJzaXRlIHRvIGdlbmVyYXRlIGFuIFJTUyBmZWVkLCBwcm92aWRlIGEgZGVzY3JpcHRpb24KIyBUaGUgVVJMIGZvciB0aGUgZmVlZCB3aWxsIGJlIGh0dHBzOi8vPHlvdXJfd2Vic2l0ZT4vZmVlZC54bWwKI3Jzcy1kZXNjcmlwdGlvbjogVGhpcyB3ZWJzaXRlIGlzIGEgdmlydHVhbCBwcm9vZiB0aGF0IEknbSBhd2Vzb21lCgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyAtLS0gR2VuZXJhbCBvcHRpb25zIC0tLSAjCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKIyBTZWxlY3Qgd2hpY2ggc29jaWFsIG5ldHdvcmsgc2hhcmUgbGlua3MgdG8gc2hvdyBpbiBwb3N0cwpzaGFyZS1saW5rcy1hY3RpdmU6CiAgdHdpdHRlcjogZmFsc2UKICBmYWNlYm9vazogdHJ1ZQogIGxpbmtlZGluOiB0cnVlCiAgbWFzdG9kb246IHRydWUKICB2azogZmFsc2UKCiMgSG93IHRvIGRpc3BsYXkgdGhlIGxpbmsgdG8geW91ciB3ZWJzaXRlIGluIHRoZSBmb290ZXIKIyBSZW1vdmUgdGhpcyBpZiB5b3UgZG9uJ3Qgd2FudCBhIGxpbmsgaW4gdGhlIGZvb3Rlcgp1cmwtcHJldHR5OiAic2Nod2V0ei5hdSIKCiMgRXhjZXJwdCB3b3JkIGxlbmd0aCAtIFRydW5jYXRlIHRoZSBleGNlcnB0IG9mIGVhY2ggcG9zdCBvbiB0aGUgZmVlZCBwYWdlIHRvIHRoZSBzcGVjaWZpZWQgbnVtYmVyIG9mIHdvcmRzCmV4Y2VycHRfbGVuZ3RoOiA1MAoKIyBXaGV0aGVyIG9yIG5vdCB0byBzaG93IGFuIGV4Y2VycHQgZm9yIGV2ZXJ5IGJsb2cgcG9zdCBpbiB0aGUgZmVlZCBwYWdlCmZlZWRfc2hvd19leGNlcnB0OiB0cnVlCgojIFdoZXRoZXIgb3Igbm90IHRvIHNob3cgYSBsaXN0IG9mIHRhZ3MgYmVsb3cgZWFjaCBwb3N0IHByZXZpZXcgaW4gdGhlIGZlZWQgcGFnZQpmZWVkX3Nob3dfdGFnczogdHJ1ZQoKIyBBZGQgYSBzZWFyY2ggYnV0dG9uIHRvIHRoZSBuYXZiYXIKcG9zdF9zZWFyY2g6IHRydWUKCiMgQWRkIGEgYnV0dG9uIGluIHRoZSBmb290ZXIgdG8gZWRpdCB0aGUgY3VycmVudCBwYWdlLiBPbmx5IHdvcmtzIGlmIHlvdXIgd2Vic2l0ZSBpcyBob3N0ZWQgb24gR2l0SHViCmVkaXRfcGFnZV9idXR0b246IGZhbHNlCgojIEFsbG93IHN1Yi1tZW51IGl0ZW1zIChzZWNvbmQtbGV2ZWwgbmF2aWdhdGlvbiBtZW51IGl0ZW1zKSB0byBiZSBsb25nZXIgdGhhbiB0aGUgdG9wLWxldmVsIG1lbnUKIyBJZiB0aGlzIHNldHRpbmcgaXMgb2ZmLCB0aGVuIGxvbmcgc3ViLW1lbnUgd29yZHMgbWlnaHQgZ2V0IGN1dCBvZmYKIyBTZWUgaHR0cHM6Ly9naXRodWIuY29tL2RhYXR0YWxpL2JlYXV0aWZ1bC1qZWt5bGwvaXNzdWVzLzc2NSB0byB1bmRlcnN0YW5kIHRoZSBpc3N1ZSB0aGlzIHNldHRpbmcgY2FuIHNvbHZlCiNuYXZiYXItdmFyLWxlbmd0aDogdHJ1ZQoKIyBUaGUga2V5d29yZHMgdG8gYXNzb2NpYXRlIHdpdGggeW91ciB3ZWJzaXRlLCBmb3IgU0VPIHB1cnBvc2VzCiNrZXl3b3JkczogIm15LGxpc3Qsb2Ysa2V5d29yZHMiCgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIC0tLSBDb2xvdXJzIC8gYmFja2dyb3VuZCBpbWFnZSAtLS0gIwojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKIyBQZXJzb25hbGl6ZSB0aGUgY29sb3VycyBpbiB5b3VyIHdlYnNpdGUuIENvbG91ciB2YWx1ZXMgY2FuIGJlIGFueSB2YWxpZCBDU1MgY29sb3VyCgpuYXZiYXItY29sOiAiI0VBRUFFQSIKbmF2YmFyLXRleHQtY29sOiAiIzQwNDA0MCIKbmF2YmFyLWJvcmRlci1jb2w6ICIjREREREREIgpwYWdlLWNvbDogIiNGRkZGRkYiCnRleHQtY29sOiAiIzQwNDA0MCIKbGluay1jb2w6ICIjMDA4QUZGIgpob3Zlci1jb2w6ICIjMDA4NUExIgpmb290ZXItY29sOiAiI0VBRUFFQSIKZm9vdGVyLXRleHQtY29sOiAiIzc3Nzc3NyIKZm9vdGVyLWxpbmstY29sOiAiIzQwNDA0MCIKZm9vdGVyLWhvdmVyLWNvbDogIiMwMDg1QTEiCgojIEFsdGVybmF0aXZlbHksIHRoZSBuYXZiYXIsIGZvb3RlciwgYW5kIHBhZ2UgYmFja2dyb3VuZCBjYW4gYmUgc2V0IHRvIGFuIGltYWdlCiMgaW5zdGVhZCBvZiBjb2xvdXIKCiNuYXZiYXItaW1nOiAiL2Fzc2V0cy9pbWcvYmdpbWFnZS5wbmciCiNmb290ZXItaW1nOiAiL2Fzc2V0cy9pbWcvYmdpbWFnZS5wbmciCiNwYWdlLWltZzogIi9hc3NldHMvaW1nL2JnaW1hZ2UucG5nIgoKIyBTdWdnZXN0IGEgY29sb3VyIGZvciBtb2JpbGUgYnJvd3NlcnMgdG8gdXNlIGFzIHRoZSBicm93c2VyJ3MgdGhlbWUuIFRoaXMgaXMgb25seSBzdXBwb3J0ZWQgYnkgYSBmZXcgbW9iaWxlIGJyb3dzZXJzLgojbW9iaWxlLXRoZW1lLWNvbDogIiMwMDg1QTEiCgojIEZvciBhbnkgZXh0cmEgdmlzdWFsIGN1c3RvbWl6YXRpb24sIHlvdSBjYW4gaW5jbHVkZSBhZGRpdGlvbmFsIENTUyBmaWxlcyBpbiBldmVyeSBwYWdlIG9uIHlvdXIgc2l0ZS4gTGlzdCBhbnkgY3VzdG9tIENTUyBmaWxlcyBoZXJlCiNzaXRlLWNzczoKIyAgLSAiL2Fzc2V0cy9jc3MvY3VzdG9tLXN0eWxlcy5jc3MiCgojIElmIHlvdSBoYXZlIGNvbW1vbiBKYXZhU2NyaXB0IGZpbGVzIHRoYXQgc2hvdWxkIGJlIGluY2x1ZGVkIGluIGV2ZXJ5IHBhZ2UsIGxpc3QgdGhlbSBoZXJlCiNzaXRlLWpzOgojICAtICIvYXNzZXRzL2pzL2N1c3RvbS1zY3JpcHQuanMiCgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyAtLS0gV2ViIEFuYWx5dGljcyBTZWN0aW9uIC0tLSAjCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKIyBGaWxsIGluIHlvdXIgR29vZ2xlIEFuYWx5dGljcyB0YWcgSUQgKG9yICJNZWFzdXJlbWVudCBJRCIpIHRvIHRyYWNrIHlvdXIgd2Vic2l0ZSB1c2FnZQojZ3RhZzogIkctWFhYWFhYWFhYWCIKCiMgRmlsbCBpbiB5b3VyIENsb3VkZmxhcmUgQW5hbHl0aWNzIGJlYWNvbiB0b2tlbiB0byB0cmFjayB5b3VyIHdlYnNpdGUgdXNpbmcgQ2xvdWRmbGFyZSBBbmFseXRpY3MKI2Nsb3VkZmxhcmVfYW5hbHl0aWNzOiAiIgoKIyBHb29nbGUgVGFnIE1hbmFnZXIgSUQKZ3RtOiAiRy1TTFYwTDlCUURYIgoKIyBNYXRvbW8gKGFrYSBQaXdpaykgV2ViIHN0YXRpc3RpY3MKIyBVbmNvbW1lbnQgdGhlIGZvbGxvd2luZyBzZWN0aW9uIHRvIGVuYWJsZSBNYXRvbW8uIFRoZSBvcHQtb3V0IHBhcmFtZXRlciBjb250cm9scwojIHdoZXRoZXIgb3Igbm90IHlvdSB3YW50IHRvIGFsbG93IHVzZXJzIHRvIG9wdCBvdXQgb2YgdHJhY2tpbmcuCiNtYXRvbW86CiMgIHNpdGVfaWQ6ICI5IgojICB1cmk6ICJkZW1vLndpa2kucHJvIgojICBvcHQtb3V0OiB0cnVlCgojIEdvb2dsZSBVbml2ZXJzYWwgQW5hbHl0aWNzIElEIC0tIGRlcHJlY2F0ZWQKIyBBcyBvZiBKdWx5IDIwMjMgdGhpcyBpcyBubyBsb25nZXIgc3VwcG9ydGVkIGJ5IEdvb2dsZSEgSWYgeW91IGFyZSBzdGlsbCB1c2luZyBgZ29vZ2xlX2FuYWx5dGljc2AsCiMgeW91IHNob3VsZCBzd2l0Y2ggdG8gdXNpbmcgdGhlIGBndGFnYCBmaWVsZCBhYm92ZSBpbnN0ZWFkLgojZ29vZ2xlX2FuYWx5dGljczogIlVBLVhYWFhYWFhYLVgiCgojIyMjIyMjIyMjIyMjIyMjIyMjIwojIC0tLSBDb21tZW50cyAtLS0gIwojIyMjIyMjIyMjIyMjIyMjIyMjIwoKIyBUbyB1c2UgRGlzcXVzIGNvbW1lbnRzLCBzaWduIHVwIHRvIGh0dHBzOi8vZGlzcXVzLmNvbSBhbmQgZmlsbCBpbiB5b3VyIERpc3F1cyBzaG9ydG5hbWUgKE5PVCB0aGUgdXNlcmlkKQpkaXNxdXM6ICJzY2h3ZXR6IgoKIyBUbyB1c2UgRmFjZWJvb2sgQ29tbWVudHMsIGNyZWF0ZSBhIEZhY2Vib29rIGFwcCBhbmQgZmlsbCBpbiB0aGUgRmFjZWJvb2sgQXBwIElECiNmYl9jb21tZW50X2lkOiAiIgoKIyBUbyB1c2UgQ29tbWVudEJveCwgc2lnbiB1cCBmb3IgYSBQcm9qZWN0IElEIG9uIGh0dHBzOi8vY29tbWVudGJveC5pbwojY29tbWVudGJveDogIiIgIyBQcm9qZWN0IElELCBlLmcuICI1Njk0MjY3NjgyOTc5ODQwLXByb2oiCgojIFRvIHVzZSBVdHRlcmFuY2VzIGNvbW1lbnRzOiAoMCkgdW5jb21tZW50IHRoZSBmb2xsb3dpbmcgc2VjdGlvbiwgKDEpIGZpbGwgaW4KIyAicmVwb3NpdG9yeSIgKG1ha2Ugc3VyZSB0aGUgcmVwb3NpdG9yeSBpcyBwdWJsaWMpLCAoMikgRW5hYmxlIElzc3VlcyBpbiB5b3VyIHJlcG9zaXRvcnksCiMgKDMpIEluc3RhbGwgdGhlIFV0dGVyYW5jZXMgYXBwIGluIHlvdXIgcmVwb3NpdG9yeSBodHRwczovL2dpdGh1Yi5jb20vYXBwcy91dHRlcmFuY2VzCiMgU2VlIG1vcmUgZGV0YWlscyBhYm91dCB0aGUgcGFyYW1ldGVycyBiZWxvdyBhdCBodHRwczovL3V0dGVyYW5jLmVzLwojdXR0ZXJhbmNlczoKIyAgcmVwb3NpdG9yeTogIyBHaXRIdWIgdXNlcm5hbWUvcmVwb3NpdG9yeSBlZy4gImRhYXR0YWxpL2JlYXV0aWZ1bC1qZWt5bGwiCiMgIGlzc3VlLXRlcm06IHRpdGxlICAgIyBNYXBwaW5nIGJldHdlZW4gYmxvZyBwb3N0cyBhbmQgR2l0SHViIGlzc3VlcwojICB0aGVtZTogZ2l0aHViLWxpZ2h0ICMgVXR0ZXJhbmNlcyB0aGVtZQojICBsYWJlbDogYmxvZy1jb21tZW50cyAjIExhYmVsIHRoYXQgd2lsbCBiZSBhc3NpZ25lZCB0byBHaXRIdWIgSXNzdWVzIGNyZWF0ZWQgYnkgVXR0ZXJhbmNlcwoKIyBUbyB1c2UgU3RhdGljbWFuIGNvbW1lbnRzLCB1bmNvbW1lbnQgdGhlIGZvbGxvd2luZyBzZWN0aW9uLiBZb3UgbWF5IGxlYXZlIHRoZSByZUNhcHRjaGEKIyBzZWN0aW9uIGNvbW1lbnRlZCBpZiB5b3UgYXJlbid0IHVzaW5nIHJlQ2FwdGNoYSBmb3Igc3BhbSBwcm90ZWN0aW9uLiAKIyBVc2luZyBTdGF0aWNtYW4gcmVxdWlyZXMgYWR2YW5jZWQga25vd2xlZGdlLCBwbGVhc2UgY29uc3VsdCAKIyBodHRwczovL2dpdGh1Yi5jb20vZWR1YXJkb2JvdWNhcy9zdGF0aWNtYW4vIGFuZCBodHRwczovL3N0YXRpY21hbi5uZXQvIGZvciBmdXJ0aGVyIAojIGluc3RydWN0aW9ucy4gRm9yIGFueSBzdXBwb3J0IHdpdGggc3RhdGljbWFuIHBsZWFzZSBkaXJlY3QgcXVlc3Rpb25zIHRvIHN0YXRpY21hbiBhbmQgCiMgbm90IHRvIEJlYXV0aWZ1bEpla3lsbC4KI3N0YXRpY21hbjoKIyAgcmVwb3NpdG9yeSA6ICMgR2l0SHViIHVzZXJuYW1lL3JlcG9zaXRvcnkgZWcuICJkYWF0dGFsaS9iZWF1dGlmdWwtamVreWxsIgojICBicmFuY2ggICAgIDogbWFzdGVyICMgSWYgeW91J3JlIG5vdCB1c2luZyBgbWFzdGVyYCBicmFuY2gsIHRoZW4geW91IGFsc28gbmVlZCB0byB1cGRhdGUgdGhlIGBicmFuY2hgIHBhcmFtZXRlciBpbiBgc3RhdGljbWFuLnltbGAKIyAgZW5kcG9pbnQgICA6ICMgVVJMIG9mIHlvdXIgZGVwbG95bWVudCwgd2l0aCBhIHRyYWlsaW5nIHNsYXNoIGVnLiAiaHR0cHM6Ly88eW91ci1hcGk+L3YzL2VudHJ5L2dpdGh1Yi8iCiMgIHJlQ2FwdGNoYTogICAjIChvcHRpb25hbCwgc2V0IHRoZXNlIHBhcmFtZXRlcnMgaW4gYHN0YXRpY21hbi55bWxgIGFzIHdlbGwpIAojICAgIHNpdGVLZXkgIDogIyBZb3UgbmVlZCB0byBhcHBseSBmb3IgYSBzaXRlIGtleSBvbiBHb29nbGUKIyAgICBzZWNyZXQgICA6ICMgRW5jcnlwdCB5b3VyIHBhc3N3b3JkIGJ5IGdvaW5nIHRvIGh0dHBzOi8vPHlvdXItb3duLWFwaT4vdjMvZW5jcnlwdC88eW91ci1zaXRlLXNlY3JldD4KCiMgVG8gdXNlIGdpc2N1cyBjb21tZW50czoKIyAoMCkgVW5jb21tZW50IHRoZSBmb2xsb3dpbmcgZ2lzY3VzIHNlY3Rpb24sICgxKSBFbmFibGUgRGlzY3Vzc2lvbnMgaW4geW91ciBHaXRIdWIgcmVwb3NpdG9yeSwgCiMgKDIpIEluc3RhbGwgdGhlIGdpc2N1cyBhcHAgaW4geW91ciByZXBvc2l0b3J5IChkZXRhaWxzIGF0IGh0dHBzOi8vZ2lzY3VzLmFwcCksCiMgKDMpIEZpbGwgaW4gKmFsbCogdGhlIHBhcmFtZXRlcnMgYmVsb3cgCiMgU2VlIG1vcmUgZGV0YWlscyBhYm91dCBnaXNjdXMgYW5kIGVhY2ggb2YgdGhlIGZvbGxvd2luZyBwYXJhbWV0ZXJzIGF0IGh0dHBzOi8vZ2lzY3VzLmFwcAojZ2lzY3VzOgojICBob3N0bmFtZTogZ2lzY3VzLmFwcCAjIFJlcGxhY2Ugd2l0aCB5b3VyIGdpc2N1cyBpbnN0YW5jZSdzIGhvc3RuYW1lIGlmIHNlbGYtaG9zdGluZwojICByZXBvc2l0b3J5OiAjIEdpdEh1YiB1c2VybmFtZS9yZXBvc2l0b3J5IGVnLiAiZGFhdHRhbGkvYmVhdXRpZnVsLWpla3lsbCIKIyAgcmVwb3NpdG9yeS1pZDogIyBJRCBvZiB5b3VyIHJlcG9zaXRvcnksIHJldHJpZXZlIHRoaXMgaW5mbyBmcm9tIGh0dHBzOi8vZ2lzY3VzLmFwcAojICBjYXRlZ29yeTogQW5ub3VuY2VtZW50cyAjIENhdGVnb3J5IG5hbWUgb2YgeW91ciBHaXRIdWIgRGlzY3Vzc2lvbiBwb3N0cwojICBjYXRlZ29yeS1pZDogIyBJRCBvZiB5b3VyIGNhdGVnb3J5LCByZXRyaWV2ZSB0aGlzIGluZm8gZnJvbSBodHRwczovL2dpc2N1cy5hcHAKIyAgbWFwcGluZzogcGF0aG5hbWUKIyAgcmVhY3Rpb25zLWVuYWJsZWQ6IDEKIyAgZW1pdC1tZXRhZGF0YTogMAojICB0aGVtZTogbGlnaHQKCiMjIyMjIyMjIyMjIyMjIyMKIyAtLS0gTWlzYyAtLS0gIwojIyMjIyMjIyMjIyMjIyMjCgojIFJ1YnkgRGF0ZSBGb3JtYXQgdG8gc2hvdyBkYXRlcyBvZiBwb3N0cwpkYXRlX2Zvcm1hdDogIiUtZCAlQiwgJVkiCgojIEZhY2Vib29rIEFwcCBJRAojZmJfYXBwX2lkOiAiIgoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgLS0tIFlvdSBkb24ndCBuZWVkIHRvIHRvdWNoIGFueXRoaW5nIGJlbG93IGhlcmUgKGJ1dCB5b3UgY2FuIGlmIHlvdSB3YW50KSAtLS0gIwojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCiMgT3V0cHV0IG9wdGlvbnMgKG1vcmUgaW5mb3JtYXRpb24gb24gSmVreWxsJ3Mgc2l0ZSkKdGltZXpvbmU6ICJBdXN0cmFsaWEvU3lkbmV5IgptYXJrZG93bjoga3JhbWRvd24KaGlnaGxpZ2h0ZXI6IHJvdWdlCnBlcm1hbGluazogLzp5ZWFyLTptb250aC06ZGF5LTp0aXRsZS8KcGFnaW5hdGU6IDEwCgprcmFtZG93bjoKICBpbnB1dDogR0ZNCgojIERlZmF1bHQgWUFNTCB2YWx1ZXMgKG1vcmUgaW5mb3JtYXRpb24gb24gSmVreWxsJ3Mgc2l0ZSkKZGVmYXVsdHM6CiAgLQogICAgc2NvcGU6CiAgICAgIHBhdGg6ICIiCiAgICAgIHR5cGU6ICJwb3N0cyIKICAgIHZhbHVlczoKICAgICAgbGF5b3V0OiAicG9zdC1hdXRob3IiCiAgICAgIGNvbW1lbnRzOiB0cnVlICAjIGFkZCBjb21tZW50cyB0byBhbGwgYmxvZyBwb3N0cwogICAgICBzb2NpYWwtc2hhcmU6IHRydWUgIyBhZGQgc29jaWFsIG1lZGlhIHNoYXJpbmcgYnV0dG9ucyB0byBhbGwgYmxvZyBwb3N0cwogIC0KICAgIHNjb3BlOgogICAgICBwYXRoOiAiIiAjIGFueSBmaWxlIHRoYXQncyBub3QgYSBwb3N0IHdpbGwgYmUgYSAicGFnZSIgbGF5b3V0IGJ5IGRlZmF1bHQKICAgIHZhbHVlczoKICAgICAgbGF5b3V0OiAicGFnZSIKICAgCiAgLSBzY29wZToKICAgICAgcGF0aDogIiIKICAgICAgdHlwZTogYXV0aG9ycwogICAgdmFsdWVzOgogICAgICBsYXlvdXQ6IGF1dGhvcgogICAgICBwZXJtYWxpbms6IC9hdXRob3JzLzpzbHVnCgoKIyBFeGNsdWRlIHRoZXNlIGZpbGVzIGZyb20gcHJvZHVjdGlvbiBzaXRlCmV4Y2x1ZGU6CiAgLSBDSEFOR0VMT0cubWQKICAtIENOQU1FCiAgLSBHZW1maWxlCiAgLSBHZW1maWxlLmxvY2sKICAtIExJQ0VOU0UKICAtIFJFQURNRS5tZAogIC0gc2NyZWVuc2hvdC5wbmcKICAtIGRvY3MvCgpwbHVnaW5zOgogIC0gImpla3lsbC1wYWdpbmF0ZSIKICAtICJqZWt5bGwtc2l0ZW1hcCIKICAtICJqZWt5bGwtbG9hZGluZy1sYXp5IgogIC0gImpla3lsbC1yZWRpcmVjdC1mcm9tIgogIC0gInByZW1vbml0aW9uIgogIC0gImpla3lsbC10YXJnZXQtYmxhbmsiCiAgLSAiamVreWxsLXRpdGxlcy1mcm9tLWhlYWRpbmdzIgogIC0gImpla3lsbC1wb3N0ZmlsZXMiCiAjIC0gImNoZWVzeS1nYWxsZXJ5IgogIC0gImNsYXNzaWZpZXItcmVib3JuIgogIC0gamVreWxsLXJlbW90ZS10aGVtZQoKY29sbGVjdGlvbnM6CiAgYXV0aG9yczoKICAgIG91dHB1dDogdHJ1ZQogIGdhbGxlcmllczoKICAgIGdhbGxlcnktZWxsaWU6CiAgICAgIG91dHB1dDogdHJ1ZQoKCgoAAAAAAAAAABIrAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKSsAAAAAAAApKwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown pri",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdownp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"paac",
+				"Package Control: Install Package"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"th",
+				"Monokai Pro: select theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/stephen/Documents/sites/schwetz.au",
+		"/Users/stephen/Documents/sites/schwetz.au/_authors",
+		"/Users/stephen/Documents/sites/schwetz.au/_data",
+		"/Users/stephen/Documents/sites/schwetz.au/_layouts"
+	],
+	"file_history":
+	[
+		"/Users/stephen/Documents/sites/schwetz.au/_includes/gallery.html",
+		"/Users/stephen/Documents/sites/schwetz.au/_config.yml",
+		"/Users/stephen/git/beautiful-jekyll/_layouts/home.html",
+		"/Users/stephen/git/beautiful-jekyll/_authors/stephen.md",
+		"/Users/stephen/git/beautiful-jekyll/_layouts/author.html",
+		"/Users/stephen/git/beautiful-jekyll/_includes/header.html",
+		"/Users/stephen/git/beautiful-jekyll/.gitignore",
+		"/Users/stephen/Documents/sites/schwetz.au/kb/index.html",
+		"/Users/stephen/Documents/sites/schwetz.au/_includes/image-gallery.html",
+		"/Users/stephen/Documents/sites/schwetz.au/_data/authors.yml",
+		"/Users/stephen/Library/Application Support/Sublime Text/Packages/Jekyll/Jekyll.sublime-settings",
+		"/Users/stephen/Library/Application Support/Sublime Text/Packages/User/Jekyll.sublime-settings",
+		"/Users/stephen/Documents/sites/schwetz.au/_includes/album.html",
+		"/Users/stephen/Documents/sites/schwetz.au/_fotos/index.md",
+		"/Users/stephen/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/Users/stephen/Documents/sites/schwetz.au/_authors/lilian.md",
+		"/Users/stephen/Documents/sites/schwetz.au/_layouts/author.html",
+		"/Users/stephen/Documents/sites/schwetz.au/_authors/index.html",
+		"/Users/stephen/Documents/sites/schwetz.au/Gemfile",
+		"/Users/stephen/Documents/sites/schwetz.au/_layouts/gallery.htm",
+		"/Users/stephen/Documents/sites/schwetz.au/_layouts/post.html",
+		"/Users/stephen/Documents/sites/schwetz.au/collections.yml",
+		"/Users/stephen/Documents/sites/schwetz.au/_authors/stephen.md",
+		"/Users/stephen/Documents/sites/schwetz.au/_data/navbar.yml",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/_config.yml",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/Gemfile",
+		"/Users/stephen/Documents/beautiful-jekyll/_posts/2020-02-26-flake-it-till-you-make-it.md",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/index.html",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/feed.xml",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/tags.html",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/kb/index.html",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/Update beautiful-jekyll-theme.gemspec ",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/4o4.html",
+		"/Users/stephen/Documents/Tools/Sites/cv.schwetz.au/_config.yml",
+		"/Users/stephen/Documents/Tools/Sites/cv.schwetz.au/_data/data.yml",
+		"/Users/stephen/Documents/Tools/Sites/sschwetz.github.io/staticman.yml",
+		"/Users/stephen/Documents/Tools/Sites/cv.schwetz.au/_includes/contact.html",
+		"/Users/stephen/Documents/Tools/Sites/cv.schwetz.au/index.html",
+		"/Users/stephen/Documents/Tools/Sites/cv.schwetz.au/_includes/sidebar.html",
+		"/Users/stephen/Documents/Tools/Sites/online-cv/README.md",
+		"/Users/stephen/Documents/sschwetz.github.io/index.html",
+		"/Users/stephen/Documents/sschwetz.github.io/_config.yml",
+		"/Users/stephen/Library/Application Support/abnerworks.Typora/themes/typora-notion-theme/themes/enhanced/notion-darker-enhanced.css",
+		"/Users/stephen/Documents/sschwetz.github.io/.gitignore",
+		"/Users/stephen/Library/Application Support/abnerworks.Typora/themes/base.user.css",
+		"/Users/stephen/Library/Application Support/abnerworks.Typora/themes/typora-notion-theme/themes/enhanced/notion-light-enhanced.css",
+		"/Users/stephen/Library/Application Support/abnerworks.Typora/themes/typora-notion-theme/themes/enhanced/notion-dark-enhanced.css",
+		"/Users/stephen/Library/Application Support/abnerworks.Typora/themes/github-dark-default.css",
+		"/Users/stephen/Library/Application Support/abnerworks.Typora/themes/themeable-light.user.css",
+		"/Users/stephen/Library/Application Support/abnerworks.Typora/themes/themeable-dark.css",
+		"/Users/stephen/Library/Application Support/abnerworks.Typora/themes/github-dark-high-contrast.css",
+		"/Users/stephen/Documents/Tools/Knowledge Base/.gitignore",
+		"/Users/stephen/Documents/Tools/Knowledge Base/:Users:stephen:Library:Application Support:abnerworks.Typora",
+		"/Users/stephen/Documents/Tools/.gitignore",
+		"/Users/stephen/Documents/Knowledge Base/List of KB Articles.md",
+		"/Users/stephen/Documents/Knowledge Base/VMWare/NSX-T/KB0003 - Verify the Tier-0 Logical Router and TO.md",
+		"/Users/stephen/Documents/Knowledge Base/VMWare/NSX-T/KB0004 - Deploying a Three-Node NSX Management Cluster.md",
+		"/Users/stephen/Documents/Knowledge Base/VMWare/NSX-T/KB0002 - Avoiding Password Expiry in NSX Managers and Edges.md",
+		"/Users/stephen/Documents/Knowledge Base/VMWare/NSX-T/KB0001 - Log Rotate Fails for :var:log:vmware on NSX-T Manager and Edge Nodes.md",
+		"/Users/stephen/Library/Application Support/Sublime Text/Packages/MarkdownEditing/README.md",
+		"/Users/stephen/Documents/HPE/1. Knowledge Base/nsx-t/3.1/Stephen's Knowledge Base",
+		"/Users/stephen/Documents/HPE/1. Knowledge Base/nsx-t/3.1/KB0001 - NSX-T Manager High Disk Utilisation.md",
+		"/Users/stephen/Documents/HPE/1. Knowledge Base/nsx-t/3.1/test.md",
+		"/Users/stephen/Desktop/todo/home_archive.txt",
+		"/Users/stephen/Desktop/todo.txt",
+		"/Users/stephen/Library/Application Support/Sublime Text/Packages/User/Theme - Monokai Pro.sublime-settings",
+		"/Users/stephen/Documents/Programming/Rust/learning_rust/.gitignore",
+		"/Users/stephen/Documents/Programming/Rust/learning_rust/src/main.rs",
+		"/Users/stephen/Documents/Programming/Rust/learning_rust/lessons/helloworld.rs",
+		"/Users/stephen/Documents/Programming/Rust/learning_rust/Rust By Example/Chapter 1/1-2_formattedprint.rs",
+		"/Users/stephen/Documents/Programming/Rust/LearningRust/src/main.rs",
+		"/Users/stephen/Downloads/Passwords.csv"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/gallery.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///Users/stephen/Documents/sites/schwetz.au/_layouts/gallery.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_authors/stephen.md",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///Users/stephen/Documents/sites/schwetz.au/_authors/stephen.md",
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_galleries/gallery-ellie/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///Users/stephen/Documents/sites/schwetz.au/_galleries/gallery-ellie/index.md",
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11026,
+								11026
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///Users/stephen/Documents/sites/schwetz.au/_config.yml",
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5002.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 323.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "schwetz.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
