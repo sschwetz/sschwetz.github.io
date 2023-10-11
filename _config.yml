@@ -267,8 +267,8 @@ date_format: "%-d %B, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Sydney"
-markdown: GFM
-highlighter: rouge  
+markdown: kramdown
+highlighter: coderay  
 permalink: /:year-:month-:day-:title/
 paginate: 10
 
@@ -286,7 +286,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post-author"
+      layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
@@ -294,14 +294,20 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-   
   - 
     scope:
       path: "/kb"
       type: page
     values:
       layout: page
-      permalink: /kb/:slug
+      permalink: /kb/:page:output_ext
+  - 
+    scope:
+      path: ""
+      type: author
+    values:
+      layout: author
+      permalink: /authors/:slug
 
 
 
