@@ -3,6 +3,7 @@
 lang: en-AU
 layout: post
 social-share: false
+permalink: /kb/:title:output_ext
 
 typora-copy-images-to: ../assets/img/${filename}
 typora-root-url: ../
@@ -20,7 +21,7 @@ updated:
 cover-img:
 thumbnail-img:
 full-width: false
-permalink: /kb/kb0009.html
+
 
 share-title:How to enable interface graphing on IMC
 share-description: IMC is an HPE product for monitoring and managing network devices.\
@@ -30,7 +31,7 @@ tags:
   - knowledgebase
   - imc
   - aruba
-category: knowledgebase
+category: kb
 comments: true
 ---
 
