@@ -25,8 +25,6 @@ share-title:
 share-description:
 share-img:
 
-permalink: /kb/:page:output_ext
-
 tags:
   - knowledge base
   - hpe

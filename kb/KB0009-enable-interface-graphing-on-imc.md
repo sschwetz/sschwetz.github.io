@@ -32,7 +32,6 @@ tags:
   - aruba
 category: kb
 comments: true
-permalink: /kb/:page:output_ext
 
 
 ---
