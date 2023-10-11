@@ -267,7 +267,7 @@ date_format: "%-d %B, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Sydney"
-markdown: kramdown
+markdown: GFM
 highlighter: coderay  
 permalink: /:year-:month-:day-:title/
 paginate: 10
