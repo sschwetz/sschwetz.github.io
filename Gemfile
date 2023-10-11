@@ -6,7 +6,6 @@ gem "jekyll"
 gem "jekyll-remote-theme"
 gem "rmagick" 
 gem "exifr"
-gem "therubyracer"
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -19,7 +18,6 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "classifier-reborn"
   gem 'jekyll-gallery-generator'
-  gem "jekyll-minifier"
 end
 
 #gemspec
