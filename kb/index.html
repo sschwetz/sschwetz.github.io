@@ -5,12 +5,12 @@ layout: page
 
 {% for page in site.pages %}
   {% if page.categories contains 'kb' %}
-    <div class="item">
+    <p class="item">
       <a href="{{ page.url }}">
         {{page.title}}: {{ page.subtitle }}
       </a>
 
       {% if page.share-description %}<br/>{{page.share-description}}{% endif %}
-    </div>
+    </p>
   {% endif %}
 {% endfor %}
