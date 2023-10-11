@@ -272,12 +272,12 @@ highlighter: coderay
 permalink: /:year-:month-:day-:title/
 paginate: 10
 
-kramdown:
-  input: Kramdown
-  syntax_highlighter: coderay
-  syntax_highlighter_opts:
-    line_numbers: table
-    bold_every: 5
+#kramdown:
+#  input: Kramdown
+#  syntax_highlighter: coderay
+#  syntax_highlighter_opts:
+#    line_numbers: table
+#    bold_every: 5
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
