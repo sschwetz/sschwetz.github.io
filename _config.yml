@@ -269,7 +269,7 @@ date_format: "%-d %B, %Y"
 timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: coderay  
-permalink: /:title
+#permalink: /:title/
 paginate: 10
 
 #kramdown:
@@ -289,7 +289,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      permalink: /:year-:month-:day-:title/
+      permalink: /:year/:month/:day/:title:output_ext
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
@@ -302,6 +302,16 @@ defaults:
     values:
       layout: author
       permalink: /authors/:slug
+  -
+    scope:
+      path: "kb"
+      type: ""
+    values:
+      layout: page
+      comments: true
+      social-share: true
+      permalink: /kb/:title:output_ext
+
 
 
 
