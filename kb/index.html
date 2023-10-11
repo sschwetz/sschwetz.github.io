@@ -10,7 +10,7 @@ layout: page
         {{page.title}}: {{ page.subtitle }}
       </a>
 
-      <p>{{page.description}}</p>
+      {% if page.share-description %}<br/>{{page.share-description}}{% endif %}
     </div>
   {% endif %}
 {% endfor %}
