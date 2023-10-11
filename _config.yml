@@ -268,12 +268,16 @@ date_format: "%-d %B, %Y"
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Sydney"
 markdown: kramdown
-highlighter: rouge
+highlighter: coderay
 permalink: /:year-:month-:day-:title/
 paginate: 10
 
 kramdown:
-  input: GFM
+  input: Kramdown
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: table
+    bold_every: 5
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -325,6 +329,7 @@ plugins:
 collections:
   authors:
     output: true
+
 
 
 gallery:
