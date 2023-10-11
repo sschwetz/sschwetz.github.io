@@ -27,10 +27,10 @@ share-description: IMC is an HPE product for monitoring and managing network dev
 share-img:
 
 tags:
-  - Knowledgebase
-  - IMC
-  - Aruba
-category: Knowledgebase
+  - knowledgebase
+  - imc
+  - aruba
+category: knowledgebase
 comments: true
 ---
 
