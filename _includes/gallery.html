@@ -1,0 +1,16 @@
+
+<div class="gallery-container">
+ {% assign sorted_array = site.images | sort: "title" %}
+ {% for image in sorted_array %}
+   <div class="gallery-item">
+     <div class="gallery-item__image-block">
+       
+       <a href="">
+         <img class="gallery-item__image" src="thumbs/{{ image.image }} 
+           alt="{{image.title}} >
+       </a>    
+     </div>
+     <p class="gallery-item__title">{{ image.title }}</p>
+   </div>
+ {% endfor %}
+</div>
