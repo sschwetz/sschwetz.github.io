@@ -3,7 +3,6 @@
 lang: en-AU
 layout: post
 social-share: false
-permalink: :title
 
 typora-copy-images-to: ../assets/img/${filename}
 typora-root-url: ../
@@ -14,9 +13,9 @@ typora-root-url: ../
 redirect_from:
 #*************************************
 
-title: 
-subtitle: 
-author:
+title: KB009
+subtitle: Enabling Interface Graphing on IMC
+author: stephen
 updated:
 cover-img:
 thumbnail-img:
@@ -33,6 +32,9 @@ tags:
   - aruba
 category: kb
 comments: true
+permalink: /kb/:page:output_ext
+
+
 ---
 
 ## TLDR - Here is a video

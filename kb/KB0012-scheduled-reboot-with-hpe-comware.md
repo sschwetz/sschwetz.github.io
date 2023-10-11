@@ -3,7 +3,6 @@
 lang: en-AU
 layout: page
 social-share: false
-permalink: :title
 
 typora-copy-images-to: ../assets/img/${filename}
 typora-root-url: ../
@@ -26,6 +25,8 @@ share-title:
 share-description:
 share-img:
 
+permalink: /kb/:page:output_ext
+
 tags:
   - knowledge base
   - hpe
@@ -33,6 +34,8 @@ tags:
   - comware
 category: kb
 comments: true
+
+
 ---
 
 Most network engineers that are familiar with cisco equipment are aware that you can schedule a reboot (reload). HPE Comware offers this facility in current v5 and v7 release trains.
