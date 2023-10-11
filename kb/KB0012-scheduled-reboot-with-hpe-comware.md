@@ -3,7 +3,7 @@
 lang: en-AU
 layout: page
 social-share: false
-permalink: /kb/:title:output_ext
+permalink: :title
 
 typora-copy-images-to: ../assets/img/${filename}
 typora-root-url: ../
