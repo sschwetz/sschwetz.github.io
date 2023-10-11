@@ -321,6 +321,7 @@ plugins:
   - "jekyll-postfiles"
   - "classifier-reborn"
   - "jekyll-remote-theme"
+  - "jekyll-minifier"
 
 collections:
   authors:
