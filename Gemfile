@@ -6,6 +6,7 @@ gem "jekyll"
 gem "jekyll-remote-theme"
 gem "rmagick" 
 gem "exifr"
+gem "therubyracer"
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
