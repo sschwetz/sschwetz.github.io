@@ -268,7 +268,7 @@ date_format: "%-d %B, %Y"
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Sydney"
 markdown: kramdown
-highlighter: coderay
+highlighter: coderay  
 permalink: /:year-:month-:day-:title/
 paginate: 10
 
@@ -295,12 +295,13 @@ defaults:
     values:
       layout: "page"
    
-  - scope:
-      path: ""
-      type: authors
+  - 
+    scope:
+      path: "/kb"
+      type: page
     values:
-      layout: author
-      permalink: /authors/:slug
+      layout: page
+      permalink: /kb/:slug
 
   - scope:
       path: "/kb"
