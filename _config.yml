@@ -303,13 +303,6 @@ defaults:
       layout: page
       permalink: /kb/:slug
 
-  - scope:
-      path: "/kb"
-      type: 
-    values:
-      layout: author
-      permalink: /kb/:page:output_ext
-
 
 
 # Exclude these files from production site
