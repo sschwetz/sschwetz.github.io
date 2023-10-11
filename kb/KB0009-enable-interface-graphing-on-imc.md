@@ -22,7 +22,7 @@ thumbnail-img:
 full-width: false
 
 
-share-title:How to enable interface graphing on IMC
+share-title: How to enable interface graphing on IMC
 share-description: IMC is an HPE product for monitoring and managing network devices.\
 share-img:
 
