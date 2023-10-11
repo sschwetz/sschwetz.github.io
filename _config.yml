@@ -269,7 +269,7 @@ date_format: "%-d %B, %Y"
 timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: coderay  
-#permalink: /:title/
+permalink: /:year-:month-:day-:title/
 paginate: 10
 
 #kramdown:
@@ -295,7 +295,6 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-      permalink: /:year-:month-:day-:title/
   - 
     scope:
       path: ""
