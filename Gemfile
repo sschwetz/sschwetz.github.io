@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "classifier-reborn"
   gem 'jekyll-gallery-generator'
   gem "jemoji"
+  gem "jekyll-commonmark-ghpages"
 
 end
 

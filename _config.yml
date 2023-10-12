@@ -268,12 +268,14 @@ date_format: "%-d %B, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Sydney"
-markdown: "GFM"
+markdown: "CommonMarkGhPages"
 highlighter: "rouge"  
 permalink: "/:year-:month-:day-:title/"
 paginate: 10
 
-
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -334,6 +336,7 @@ plugins:
   - "classifier-reborn"
   - "jekyll-remote-theme"
   - "jemoji"
+  - 'jekyll-commonmark-ghpages'
 
 collections:
   authors:
