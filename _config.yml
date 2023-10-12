@@ -28,7 +28,7 @@ author: Stephen Schwetz
 navbar-links:
   Weather: "weather"
   Tools:
-    - "IT KB": kb/
+    - "IT KB": "kb"
   About: 
     - Us: "about-us"
     - Stephen: "about-stephen"
@@ -85,7 +85,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-  mastodon: neurodiversity-in.au/@stephen
+  mastodon: "neurodiversity-in.au/@stephen"
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
@@ -95,7 +95,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-#rss-description: This website is a virtual proof that I'm awesome
+rss-description: "The Schwarrisons"
 
 ###########################
 # --- General options --- #
@@ -337,6 +337,7 @@ plugins:
   - "jekyll-postfiles"
   - "classifier-reborn"
   - "jekyll-remote-theme"
+  - "jemoji
 
 collections:
   authors:

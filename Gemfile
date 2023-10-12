@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "classifier-reborn"
   gem 'jekyll-gallery-generator'
+  gem "jemoji"
 
 end
 
