@@ -23,7 +23,7 @@ thumbnail-img:
 full-width: false
 
 share-title:
-share-description:
+share-description: 
 share-img:
 
 tags:
@@ -31,6 +31,3 @@ tags:
 categories: kb
 comments: true
 ---
-
-
-
