@@ -275,7 +275,6 @@ paginate: 10
 
 commonmark:
   options: 
-    - UNSAFE" 
     - "SMART" 
     - "FOOTNOTES"
   extensions: 
@@ -283,9 +282,6 @@ commonmark:
     - "autolink"  
     - "table" 
     - "tagfilter"
-    - "superscript"
-    - "subscript"
-    - "emoji"
 
 
 # Default YAML values (more information on Jekyll's site)
@@ -346,7 +342,7 @@ plugins:
   - "jekyll-postfiles"
   - "classifier-reborn"
   - "jekyll-remote-theme"
- #:wq - "jemoji"
+  - "jemoji"
   - 'jekyll-commonmark-ghpages'
 
 collections:
