@@ -7,6 +7,8 @@ typora-root-url: ../
 thumbnail: /assets/logos/nsx-icon.png
 cover-img: /assets/logos/nsx.png
 
+
+
 lang: en-AU
 layout: page
 full-width: true
