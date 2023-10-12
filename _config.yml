@@ -9,7 +9,7 @@ remove-ads: true
 url: "https://schwetz.au"
 baseurl: 
 LSI: true
-remote_theme: sschwetz/beautiful-jekyll
+remote_theme: "sschwetz/beautiful-jekyll"
 
 ############################
 # --- Required options --- #
@@ -19,7 +19,7 @@ remote_theme: sschwetz/beautiful-jekyll
 title: "Autistic Pride"
 
 # Your name to show in the footer
-author: Stephen Schwetz
+author: "Stephen Schwetz"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -28,14 +28,15 @@ author: Stephen Schwetz
 navbar-links:
   Weather: "weather"
   Tools:
-    - "IT KB": "kb"
+    - Knowledge Base: "kb"
   About: 
     - Us: "about-us"
     - Stephen: "about-stephen"
     - Lilian: "about-lilian"
+    - Stupid Ellie: "ellie"
   Projects:
     - Neurodiversity in Australia: "https://neurodiversity-in.au"
-  "Galleries": "galleries"
+  Galleries: "galleries"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   
@@ -66,14 +67,14 @@ round-avatar: true
 social-network-links:
   email: "stephen@schwetz.au"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: sschwetz
-  github: sschwetz
-  twitter: sschwetz
+  facebook: "sschwetz"
+  github: "sschwetz"
+  twitter: "sschwetz"
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: therealstephen
+  linkedin: "therealstephen"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -85,7 +86,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-  mastodon: "neurodiversity-in.au/@stephen"
+  mastodon: "@stephen@neurodiversity-in.au"
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
@@ -267,17 +268,12 @@ date_format: "%-d %B, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Sydney"
-markdown: kramdown
-highlighter: coderay  
-permalink: /:year-:month-:day-:title/
+markdown: "GFM"
+highlighter: "rouge"  
+permalink: "/:year-:month-:day-:title/"
 paginate: 10
 
-#kramdown:
-#  input: Kramdown
-#  syntax_highlighter: coderay
-#  syntax_highlighter_opts:
-#    line_numbers: table
-#    bold_every: 5
+
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -289,7 +285,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      permalink: /:year/:month/:day/:title:output_ext
+      permalink: "/:year/:month/:day/:title:output_ext"
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
@@ -298,19 +294,19 @@ defaults:
   - 
     scope:
       path: ""
-      type: author
+      type: "author"
     values:
-      layout: author
-      permalink: /authors/:slug
+      layout: "author"
+      permalink: "/authors/:slug"
   -
     scope:
       path: "/kb"
       type: ""
     values:
-      layout: page
-      comments: true
-      social-share: true
-      permalink: /kb/:title:output_ext
+      layout: "page"
+      comments: "true"
+      social-share: "true"
+      permalink: "/kb/:title:output_ext"
 
 
 
@@ -337,7 +333,7 @@ plugins:
   - "jekyll-postfiles"
   - "classifier-reborn"
   - "jekyll-remote-theme"
-  - "jemoji
+  - "jemoji"
 
 collections:
   authors:
@@ -346,11 +342,11 @@ collections:
 
 
 gallery:
-  dir: galleries               # Path to the gallery
+  dir: "galleries"               # Path to the gallery
   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
   title: "Photo Galleries"           # Title for gallery index page
   title_prefix: "Photos: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
-  sort_field: "date_time"   # How to sort galleries on the index page.
+  sort_field: "title"   # How to sort galleries on the index page.
                             # Possible values are: title, date_time, best_image
   thumbnail_size:
     x: 400                  # max width of thumbnails (in pixels)
