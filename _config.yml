@@ -271,6 +271,8 @@ timezone: "Australia/Sydney"
 markdown: "CommonMarkGhPages"
 highlighter: "rouge"  
 permalink: "/:year-:month-:day-:title/"
+
+paginate:off
 paginate: 5
 
 commonmark:
