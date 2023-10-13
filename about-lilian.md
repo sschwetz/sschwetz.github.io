@@ -9,7 +9,7 @@ typora-root-url: ../
 
 
 #*************************************
-redirect_from:
+redirect_from: 
 #*************************************
 
 title: All About Lilian
