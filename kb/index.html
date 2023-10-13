@@ -8,9 +8,9 @@ title: Knowledge Base
 {% assign pages = paginator.pages | default: page.categories contains 'kb' %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
-<ul class="pages-list list-unstyled" role="list">
+<ul class="posts-list list-unstyled" role="list">
   {% for page in pages %}
-  <li class="page-preview">
+  <li class="post-preview">
     <article>
 
       {%- capture thumbnail -%}
@@ -29,7 +29,7 @@ title: Knowledge Base
 
       {% if site.feed_show_excerpt == false %}
       {% if thumbnail != "" %}
-      <div class="page-image page-image-normal">
+      <div class="post-image post-image-normal">
         <a href="{{ page.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="page thumbnail">
         </a>
@@ -38,16 +38,16 @@ title: Knowledge Base
       {% endif %}
 
       <a href="{{ page.url | absolute_url }}">
-        <h2 class="page-title">{{ page.title | strip_html }}</h2>
+        <h2 class="post-title">{{ page.title | strip_html }}</h2>
 
         {% if page.subtitle %}
-          <h3 class="page-subtitle">
+          <h3 class="post-subtitle">
           {{ page.subtitle | strip_html }}
           </h3>
         {% endif %}
       </a>
       
-      <p class="page-meta">
+      <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
         pageed on {{ page.date | date: date_format }}
         {% if page.author %} by: 
@@ -58,7 +58,7 @@ title: Knowledge Base
       </p>
 
       {% if thumbnail != "" %}
-      <div class="page-image page-image-small">
+      <div class="post-image post-image-small">
         <a href="{{ page.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="page thumbnail">
         </a>
@@ -67,14 +67,14 @@ title: Knowledge Base
 
       {% unless site.feed_show_excerpt == false %}
       {% if thumbnail != "" %}
-      <div class="page-image page-image-short">
+      <div class="post-image post-image-short">
         <a href="{{ page.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="page thumbnail">
         </a>
       </div>
       {% endif %}
 
-      <div class="page-entry">
+      <div class="post-entry">
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
         {{ page.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = page.excerpt | number_of_words %}
@@ -106,13 +106,13 @@ title: Knowledge Base
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
-  <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer pages</a>
+  <li class="post-item previous">
+    <a class="post-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer pages</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
-  <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older pages &rarr;</a>
+  <li class="post-item next">
+    <a class="post-link" href="{{ paginator.next_page_path | absolute_url }}">Older pages &rarr;</a>
   </li>
   {% endif %}
 </ul>

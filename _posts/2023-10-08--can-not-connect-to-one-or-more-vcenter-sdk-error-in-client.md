@@ -16,11 +16,11 @@ cover-img: /assets/logos/esx.png
 thumbnail: /assets/logos/exi-icon.png
 
 tags: 
-  - KB0020
-  - ESX
-  - vCenter
-  - VCSA
-  - Knowledge Base
+  - kb0020
+  - esx
+  - vcenter
+  - vcsa
+  -knowledgebase
   - KB
 
 updated:

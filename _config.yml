@@ -271,6 +271,7 @@ timezone: "Australia/Sydney"
 markdown: "CommonMarkGhPages"
 highlighter: "rouge"  
 permalink: "/:year-:month-:day-:title/"
+paginate: 5
 
 commonmark:
   options: 
@@ -282,9 +283,15 @@ commonmark:
     - "table" 
     - "tagfilter"
 
-############################################################
-# Site configuration for the Jekyll 3 Pagination Gem
-# The values here represent the defaults if nothing is set
+###############################################################################
+# Site configuration for the Jekyll 3 Pagination Gem.                         #
+# The values here represent the defaults if nothing is set                    #
+#                                                                             #
+#     This plugin is not supported on github pages.                           #
+# You will also have to disable jekyll-paginate and enable jekyll-oaginate-v2 #
+# in the plugins configuration                                                #
+###############################################################################
+
 pagination:
   enabled: true
   debug: false
@@ -352,6 +359,7 @@ exclude:
   - docs/
 
 plugins:
+#  - jeykall-paginate
   - "jekyll-paginate-v2"
   - "jekyll-sitemap"
   - "jekyll-loading-lazy"

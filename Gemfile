@@ -11,6 +11,7 @@ gem "exifr"
 
 
 group :jekyll_plugins do
+  gem "jekyll-paginate"
   gem "jekyll-paginate-v2"
   gem "jekyll-sitemap"
   gem "jekyll-loading-lazy"
@@ -23,8 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-gallery-generator'
   gem "jemoji"
   gem "jekyll-commonmark-ghpages"
-
 end
 
-#gemspec
+gemspec
 
