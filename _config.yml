@@ -357,6 +357,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/
 
 plugins:
 #  - jeykall-paginate
