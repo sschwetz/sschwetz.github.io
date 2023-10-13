@@ -11,7 +11,7 @@ gem "exifr"
 
 
 group :jekyll_plugins do
-  gem "jekyll-paginate"
+  gem "jekyll-paginate-v2"
   gem "jekyll-sitemap"
   gem "jekyll-loading-lazy"
   gem "jekyll-redirect-from"

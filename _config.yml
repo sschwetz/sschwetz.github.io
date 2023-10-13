@@ -271,7 +271,6 @@ timezone: "Australia/Sydney"
 markdown: "CommonMarkGhPages"
 highlighter: "rouge"  
 permalink: "/:year-:month-:day-:title/"
-paginate: 10
 
 commonmark:
   options: 
@@ -283,6 +282,27 @@ commonmark:
     - "table" 
     - "tagfilter"
 
+############################################################
+# Site configuration for the Jekyll 3 Pagination Gem
+# The values here represent the defaults if nothing is set
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 5
+  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail: 
+    before: 2
+    after: 2
+  extension: html
+  indexpage: 'index'
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -332,7 +352,7 @@ exclude:
   - docs/
 
 plugins:
-  - "jekyll-paginate"
+  - "jekyll-paginate-v2"
   - "jekyll-sitemap"
   - "jekyll-loading-lazy"
   - "jekyll-redirect-from"
