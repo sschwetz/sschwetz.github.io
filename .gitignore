@@ -33,3 +33,6 @@ Temporary Items
 gemfiles
 Gemfile.locl
 vendor
+
+*.sublime-workspace
+*.sublime-project
