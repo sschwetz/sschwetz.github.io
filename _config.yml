@@ -282,6 +282,10 @@ commonmark:
     - "autolink"  
     - "table" 
     - "tagfilter"
+    - "tasklist"
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
 ###############################################################################
 # Site configuration for the Jekyll 3 Pagination Gem.                         #
