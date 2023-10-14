@@ -348,7 +348,8 @@ defaults:
       social-share: "true"
       permalink: "/kb/:title:output_ext"
 
-
+emoji:
+  src: "/assets/img/emoji"
 
 
 # Exclude these files from production site
