@@ -9,7 +9,7 @@ list-category: kb
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
 	{% for page in site.pages %}
-  	{% if page.categories:  contains 'kb' %}
+  	{% if page.categories contains 'kb' %}
   
   		<li class="post-preview">
   	  	<article>
