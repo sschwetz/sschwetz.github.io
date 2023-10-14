@@ -34,5 +34,5 @@ gemfiles
 Gemfile.locl
 vendor
 
-*.sublime-workspace
-*.sublime-project
+schwetz.sublime-workspace
+schwetz.sublime-project
