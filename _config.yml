@@ -170,7 +170,7 @@ site-css:
   - "/assets/css/skin-switch.css"
   
 navbar-extra:
-  - /assets/navbar/light-dark.html
+  - "/assets/navbar/light-dark.html"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
