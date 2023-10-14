@@ -46,7 +46,7 @@ Due to the simplicity of setup and lack of infrastructure, most smaller sites wi
 
 Standard security is that you create a group to for the function that you wish to protect, assign your users to the new group and then use the group that you have created to secure the required role /policy
 
-![img](assets/img/fortigate-ssl-group-menu.png)
+![img](../assets/img/fortigate-ssl-group-menu.png)
 
 To Administer groups from the lefthand navigation menu select **Users & Authentication -> User Groups.** I prefer to create my groups first and then add my users to the group. You can also create the user first and then add them to the group, it’s a personal preference. If you are utilising Radius you need to create a local group and then link it through the UI to the group returned from your authentication/ accounting Field.
 
