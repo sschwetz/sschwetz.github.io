@@ -18,7 +18,7 @@ redirect_from:
 
 ## The Issues.
 
-As you may recall, I am a [type 1 diabetic](https://web.archive.org/web/20211025115019/https://wordpress.schwetz.com.au/2021/07/24/my-journey-begins/), and due to my health insurance covering an insulin pump, I thought I would look at how these work out for my life.
+As you may recall, I am a [type 1 diabetic](/2021/07/24/my-journey-begins/), and due to my health insurance covering an insulin pump, I thought I would look at how these work out for my life.
 
 I have spent the last 7 months struggling with managing my diabetes, I was finding that my ADHD was interfering with all the moving parts in proper management. I would take BGLs, eat and then forget the insulin. I would take the BGLs and insulin and then forget to eat.)
 
