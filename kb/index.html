@@ -78,9 +78,9 @@ list-category: kb
 
   		    <div class="post-entry">
 	  	      {% assign excerpt_length = site.excerpt_length | default: 50 %}
-	    	    {{ page.excerpt | strip_html | truncatewords: excerpt_length }}
+	    	    {{ page.content | strip_html | truncatewords: excerpt_length }}
 	      	
-	        	{% if page.content != page.excerpt %}
+	        	{% if page.content != page.excerpts	 %}
 	          	<a href="{{ page.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
 		        {% endif %}
 		      </div>
