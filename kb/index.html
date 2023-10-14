@@ -6,11 +6,8 @@ pagination:
 list-category: kb
 ---
 
-layout: page
----
-
 {% for page in site.pages %}
-  {% if page.categories contains page.list-category %}
+  {% if page.categories contains list-category %}
     <p class="item">
       <a href="{{ page.url }}">
         {{page.title}}: {{ page.subtitle }}
