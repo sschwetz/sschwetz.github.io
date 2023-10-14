@@ -7,7 +7,7 @@ list-category: kb
 ---
 
 {% for page in site.pages %}
-  {% if page.categories contains list-category %}
+  {% if page.categories:  contains 'kb' %}
     <p class="item">
       <a href="{{ page.url }}">
         {{page.title}}: {{ page.subtitle }}
