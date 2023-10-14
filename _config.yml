@@ -274,6 +274,7 @@ permalink: "/:year-:month-:day-:title/"
 
 commonmark:
   options: 
+    - "UNSAFE"
     - "SMART" 
     - "FOOTNOTES"
   extensions: 
