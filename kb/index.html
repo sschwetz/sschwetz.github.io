@@ -11,7 +11,7 @@ list-category: kb
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
 	
-	{% assign sorted_pages = site.posts | sort: 'title' %}
+	{% assign sorted_pages = site.pages | sort: 'title' %}
 	{% for page in sorted_pages %}
   	{% if page.categories contains 'kb' %}
   
