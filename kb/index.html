@@ -8,7 +8,7 @@ list-category: kb
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-	{% for page in site.pages %}
+	{% for page in site.pages sort_by:title case_sensitive:true %}
   	{% if page.categories contains 'kb' %}
   
   		<li class="post-preview">
