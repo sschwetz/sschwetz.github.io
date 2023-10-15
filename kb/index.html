@@ -9,15 +9,12 @@ list-category: kb
 cover-img: '/assets/img/matrix.jpeg'
 ---
 
-
-
-{% assign pages = site.posts | sort: 'title' %}
+{% assign pages = paginator.posts | default: site.posts | sort: 'title' %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
 	
-	{% assign sorted_pages = site.pages | sort: 'title' %}
-	{% for page in sorted_pages %}
+	{% for page in pages %}
   	{% if page.categories contains 'kb' %}
   
   		<li class="post-preview">
