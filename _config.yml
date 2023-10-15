@@ -168,6 +168,7 @@ footer-hover-col: "#0085A1"
 # For any  visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 site-css:
   - "/assets/css/skin-switch.css"
+  - "/assets/css/setfonts.css"
   
 # add any customisation to the navbar. This will be placed at the end for large displays and before the menu bar on small diaplays
 navbar-extra:
