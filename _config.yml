@@ -328,7 +328,7 @@ defaults:
       path: "/kb"
       type: ""
     values:
-      layout: "page"
+      layout: "post"
       comments: "true"
       social-share: "true"
       permalink: ":title:output_ext"
