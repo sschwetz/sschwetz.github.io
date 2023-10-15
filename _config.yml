@@ -323,6 +323,33 @@ pagination:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
+  - 
+    scope:
+      path: "/kb"
+      type: ""
+    values:
+      layout: "page"
+      comments: "true"
+      social-share: "true"
+      permalink: ":title:output_ext"
+  -
+    scope:
+      path: "/journal/stephen/"
+      type: ""
+    values:
+      layout: "post"
+      comments: "true"
+      social-share: "true"
+      permalink: ":title:output_ext"
+  -
+    scope:
+      path: "/journal/lilian"
+      type: ""
+    values:
+      layout: "post"
+      comments: "false"
+      social-share: "false"
+      permalink: ":title:output_ext"
   -
     scope:
       path: ""
@@ -344,33 +371,6 @@ defaults:
     values:
       layout: "author"
       permalink: "/authors/:slug"
-  -
-    scope:
-      path: "/kb"
-      type: ""
-    values:
-      layout: "page"
-      comments: "true"
-      social-share: "true"
-      permalink: "/kb/:title:output_ext"
-  -
-    scope:
-      path: "/journal/stephen/"
-      type: ""
-    values:
-      layout: "post"
-      comments: "true"
-      social-share: "true"
-      permalink: "/journal/stephen/:title:output_ext"
-  -
-    scope:
-      path: "/journal/lilian"
-      type: ""
-    values:
-      layout: "post"
-      comments: "false"
-      social-share: "false"
-      permalink: "/journal/lilian/:title:output_ext"
 
 emoji:
   src: "/assets/img/emoji"
