@@ -9,7 +9,7 @@ remove-ads: true
 url: "https://schwetz.au"
 baseurl: 
 lsi: true
-remote_theme: "sschwetz/beautiful-jekyll"
+remote_theme: "sschwetz/beautiful-jekyll" 
 
 ############################
 # --- Required options --- #
