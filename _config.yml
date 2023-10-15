@@ -169,6 +169,7 @@ footer-hover-col: "#0085A1"
 site-css:
   - "/assets/css/skin-switch.css"
   
+# add any customisation to the navbar. This will be placed at the end for large displays and before the menu bar on small diaplays
 navbar-extra:
   - "light-dark.html"
 
@@ -275,6 +276,7 @@ markdown: "CommonMarkGhPages"
 highlighter: "rouge"  
 permalink: "/:year-:month-:day-:title/"
 
+#configure commonmark generator
 commonmark:
   options: 
     - "UNSAFE"
@@ -303,9 +305,9 @@ pagination:
   enabled: true
   debug: false
   collection: 'posts'
-  per_page: 5
+  per_page: 10
   permalink: '/page/:num/' # Pages are index.html inside this folder (default)
-  title: ':title - page :num'
+  title: ':title'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
