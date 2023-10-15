@@ -18,12 +18,12 @@ author: Lilian
 comments: true
 updated:
 tags:
-  -lilian
-  -school
-  -term4
-  -firstday
-  -hewo
-  -bwe
+  - lilian
+  - school
+  - term4
+  - firstday
+  - hewo
+  - bwe
 ---
 
 ## Lilian's Life - Day 1

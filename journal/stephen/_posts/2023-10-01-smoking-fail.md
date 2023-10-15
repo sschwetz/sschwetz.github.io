@@ -9,6 +9,8 @@ subtitle: Not that successful
 author: Stephen
 tags: [journal,2023,October]
 comments: true
+redirect-from:
+  - /2023/10/01/smoking-fail.html
 ---
 
 Well, so far, the quitting smoking plan has not been a success. In a moment of weakness, I bought another packet of darts, so I will eek these out and try again when they run out. I am trying not to consider this a failure; I must try again.

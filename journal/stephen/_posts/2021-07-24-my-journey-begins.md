@@ -12,6 +12,7 @@ comments: true
 redirect_from:
   - /2021/07/24/my-journey-begins/
   - /2021/07/24/my-journey-begins
+  - /2021/07/24/my-journey-begins.html
 ---
 
 This has taken some time to manage to get the free time to write this; work, kids and my personal life have all been at the forefront of the last 6 months. I am writing this down now, trying to remember the timeline but it is a bit hazy.

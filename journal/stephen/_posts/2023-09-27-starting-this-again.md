@@ -9,6 +9,8 @@ subtitle: There's lots to learn!
 author: Stephen
 tags: [journal,2023,September]
 comments: true
+redirect-from:
+  - /2023/09/29/broken-brain.html
 ---
 
 Today was a quiet day at work for once, but unfortunately, it was meeting day.

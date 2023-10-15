@@ -12,7 +12,10 @@ comments: true
 redirect_from:
   - /2021/07/25/it-was-colder-than-siberia/
   - /2021/07/25/it-was-colder-than-siberia
-cover-img: /_posts/assets/img/2021-07-25-it-was-colder-then-siberia/soccer.png
+cover-img: /assets/img/2021-07-25-it-was-colder-then-siberia/soccer.png
+
+redirect-from:
+  - /2021/07/25/it-was-colder-then-siberia.html
 ---
 
 Last night, we had a cold change come through, and it was a doozy, with a maximum wind gust of 76 km per hour. These winds carried on into the morning, whilst nowhere near as strong, were still high and bitterly cold

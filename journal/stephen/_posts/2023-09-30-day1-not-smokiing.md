@@ -9,6 +9,8 @@ subtitle: Day One
 author: Stephen
 tags: [journal,2023,September]
 comments: true
+redirect-from: 
+  - /2023/09/30/day1-not-smokiing.html
 ---
 
 My mood for the last couple of days has not been fantastic, so who knows how well this will be, but I have decided that it is time to attempt to quit smoking. The not quitting part will be easy, I have done it multiple times before, but I fear that the depression and negative self-talk will be a lot harder.

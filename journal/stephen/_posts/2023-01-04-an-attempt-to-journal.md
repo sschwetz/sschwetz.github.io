@@ -9,6 +9,8 @@ subtitle:
 author: Stephen
 tags: [journal,2023,january]
 comments: true
+redirect-from:
+  - /2023/09/27/starting-this-again.html
 ---
 
 I am not writing this in the vanity that one person will read it and find anything of use. This is an attempt to actually track my mental health and see if it is improving.

@@ -352,6 +352,24 @@ defaults:
       comments: "true"
       social-share: "true"
       permalink: "/kb/:title:output_ext"
+  -
+    scope:
+      path: "/journal/stephen/"
+      type: ""
+    values:
+      layout: "post"
+      comments: "true"
+      social-share: "true"
+      permalink: "/journal/stephen/:title:output_ext"
+  -
+    scope:
+      path: "/journal/lilian"
+      type: ""
+    values:
+      layout: "post"
+      comments: "false"
+      social-share: "false"
+      permalink: "/journal/lilian/:title:output_ext"
 
 emoji:
   src: "/assets/img/emoji"
