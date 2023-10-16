@@ -325,7 +325,7 @@ pagination:
 defaults:
   - 
     scope:
-      path: "/kb"
+      path: "/kb/"
       type: ""
     values:
       layout: "post"
