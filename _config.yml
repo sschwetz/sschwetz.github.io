@@ -331,7 +331,7 @@ defaults:
       layout: "post"
       comments: "true"
       social-share: "true"
-      permalink: ":title/"
+      permalink: "/kb/:title/"
   -
     scope:
       path: "/journal/stephen/"
@@ -340,7 +340,7 @@ defaults:
       layout: "post"
       comments: "true"
       social-share: "true"
-      permalink: ":year/:month/:day/:title/"
+      permalink: "/journal/stephen/:year/:month/:day/:title/"
   -
     scope:
       path: "/journal/lilian/"
@@ -349,7 +349,7 @@ defaults:
       layout: "post"
       comments: "false"
       social-share: "false"
-      permalink: ":year/:month/:day/:title/"
+      permalink: "/journal/lilian/:year/:month/:day/:title/"
   -
     scope:
       path: ""
