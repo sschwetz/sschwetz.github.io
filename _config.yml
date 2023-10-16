@@ -331,7 +331,7 @@ defaults:
       layout: "post"
       comments: "true"
       social-share: "true"
-      permalink: ":title"
+      permalink: ":title/"
   -
     scope:
       path: "/journal/stephen/"
@@ -340,7 +340,7 @@ defaults:
       layout: "post"
       comments: "true"
       social-share: "true"
-      permalink: ":title"
+      permalink: ":year/:month/:day/:title/"
   -
     scope:
       path: "/journal/lilian/"
@@ -349,7 +349,7 @@ defaults:
       layout: "post"
       comments: "false"
       social-share: "false"
-      permalink: ":title"
+      permalink: ":year/:month/:day/:title/"
   -
     scope:
       path: ""
@@ -358,7 +358,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      permalink: "/:year/:month/:day/:title"
+      permalink: "/:year/:month/:day/:title/"
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
@@ -370,7 +370,7 @@ defaults:
       type: "author"
     values:
       layout: "author"
-      permalink: "/authors/:slug"
+      permalink: "/authors/:slug/"
 
 emoji:
   src: "/assets/img/emoji"
