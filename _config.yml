@@ -406,7 +406,7 @@ plugins:
 collections:
   authors:
     output: true
-  neurodiversity-in.au:
+  neurodiversity:
     faq:
 
 
