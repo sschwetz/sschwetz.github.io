@@ -3,10 +3,12 @@
 lang: en-AU
 layout: page
 social-share: true
-comments: true
+comments: false
+catagories: neurodiversity-in.au
 
 typora-copy-images-to: ../assets/img/${filename}
 typora-root-url: ../
+
 #**************************************
 
 #*************************************
@@ -18,8 +20,8 @@ title: Neurodiversity FAQ
 subtitle: The answers to your hard hitting questions
 author: Stephen
 updated: 
-cover-img: 
-thumbnail-img: 
+cover-img: /assets/logos/neurodiversity.png
+thumbnail-img: /assets/logos/neurodiversity-icon.png
 full-width: false
 
 share-title: 
@@ -27,7 +29,7 @@ share-description:
 share-img: 
 
 tags:
-  -
+  - mastodon
 ---
 
 
