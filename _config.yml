@@ -275,7 +275,7 @@ date_format: "%-d %B, %Y"
 timezone: "Australia/Sydney"
 markdown: "CommonMarkGhPages"
 highlighter: "rouge"  
-permalink: "/:year-:month-:day-:title/"
+permalink: "/:year-:month-:day-:title"
 
 #configure commonmark generator
 commonmark:
@@ -307,7 +307,7 @@ pagination:
   debug: false
   collection: 'posts'
   per_page: 10
-  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  permalink: '/page/:num' # Pages are index.html inside this folder (default)
   title: ':title'
   limit: 0
   sort_field: 'date'
@@ -325,31 +325,31 @@ pagination:
 defaults:
   - 
     scope:
-      path: "/kb/"
+      path: "/kb"
       type: ""
     values:
       layout: "post"
       comments: "true"
       social-share: "true"
-      permalink: "/kb/:title/"
+      permalink: "/kb/:title"
   -
     scope:
-      path: "/journal/stephen/"
+      path: "/journal/stephen"
       type: ""
     values:
       layout: "post"
       comments: "true"
       social-share: "true"
-      permalink: "/journal/stephen/:year/:month/:day/:title/"
+      permalink: ":year/:month/:day/:title"
   -
     scope:
-      path: "/journal/lilian/"
+      path: "/journal/lilian"
       type: ""
     values:
       layout: "post"
       comments: "false"
       social-share: "false"
-      permalink: "/journal/lilian/:year/:month/:day/:title/"
+      permalink: ":year/:month/:day/:title"
   -
     scope:
       path: ""
@@ -358,7 +358,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      permalink: "/:year/:month/:day/:title/"
+      permalink: ":year/:month/:day/:title"
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
@@ -370,7 +370,7 @@ defaults:
       type: "author"
     values:
       layout: "author"
-      permalink: "/authors/:slug/"
+      permalink: "/authors/:slug"
 
 emoji:
   src: "/assets/img/emoji"

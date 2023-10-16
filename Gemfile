@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem 'jekyll-gallery-generator'
   gem "jemoji"
   gem "jekyll-commonmark-ghpages"
+  gem "jekyll-remote-theme"
 end
 
 #gemspec
