@@ -1,7 +1,7 @@
 ---
 full-width: true
 
-typora-copy-images-to: /assets/img/ellie
+typora-copy-images-to: /assets/img/$(filename)
 typora-root-url: ./
 
 lang: en-AU
@@ -45,7 +45,7 @@ images:
 
 
 
-# Ellie the Stupid
+![ellie_10](/assets/img/$(filename)/ellie_10.jpeg)
 
 Hi! I’m Ellie, and this is my blog page. Here, you can follow the comings and goings of Myself, Ellie the Stupid. I am Emma’s pride, joy, and the bane of everyone else’s existence. To Emma, I am a sweet angel full of love, and to everyone else, I am just a Rat-Dog who is never afforded the respect I deserve.
 
@@ -63,5 +63,5 @@ Come back occasionally and stay updated on how annoying I can be.
 | **Favourite Person** | Lilian                                                       |
 | **Favourite Doggo**  | Bluebell                                                     |
 
-## Photo Gallery
+## [Photo Gallery](/galleries/ellie-the-stupid)
 
