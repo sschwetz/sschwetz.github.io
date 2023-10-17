@@ -1,0 +1,36 @@
+---
+layout: page
+full-width: true
+---
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+</style>
+<a href="/{{ site.gallery.dir }}">
+  <span class="fa-stack fa-lg" aria-hidden="true">
+    <i class="fas fa-circle fa-stack-2x"></i>
+    <i class="fas fa-arrow-left fa-stack-1x fa-inverse"></i>
+  </span>
+</a>
+<hr />
+{% for image in page.images %}
+    <div class="gallery-image-wrapper">
+        <a name="{{ image.name }}"></a>
+        <a href="{{ image.name }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
+            <img class="gallery-image" src="thumbs/{{ image.name }}" />
+        </a>
+    </div>
+{% endfor %}
