@@ -402,6 +402,7 @@ plugins:
   - "jekyll-remote-theme"
   - "jemoji"
   - 'jekyll-commonmark-ghpages'
+  - 'jekyll-gallery-generator'
 
 collections:
   authors:
