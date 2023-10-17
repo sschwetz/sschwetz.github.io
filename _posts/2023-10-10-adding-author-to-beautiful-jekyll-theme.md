@@ -24,8 +24,8 @@ tags:
 category: 
 comments: true
 
-cover-img: /assets/img/jeykll-logo.png
-thumbnail-img:
+cover-img: /assets/img/logos/jeykll-logo.png
+thumbnail-img: /assets/img/logos/jeykll-icon.png
 ---
 
 As this site is for all four of us to add if we feel the need to, I needed an excellent way of showing the reader of the area who the author of the post is. Whilst my theme of choice is [Beautiful Jekyll,](https://beautifuljekyll.com) it has been designed with only a single writer or entity having a creative licence on a page.

@@ -9,8 +9,8 @@ subtitle: a quick howto
 tags: [technical,systemd,avahi,2023,October]
 comments: true
 author: Stephen
-thumbnail: /assets/img/containers.png
-cover-img: /assets/img/lxc-containers.jpg
+thumbnail: /assets/img/logos/containers.png
+cover-img: /assets/img/logos/lxc-containers.jpg
 ---
 
 For my compute, I prefer to run proxmox and it allows you to run containers via LXC. These will use the currently running kernel and boot close to instantly, with a much lower overhead than a KVM-based VM.

@@ -8,8 +8,8 @@ title: Running Jekyll with systemd
 tags: [technical,jekyll,2023,October]
 comments: true
 author: Stephen
-thumbnail: /assets/img/jekyll-icon.png
-cover-img: /assets/img/jeykll-logo.png
+thumbnail: /assets/img/logos/jekyll-icon.png
+cover-img: /assets/img/logos/jeykll-logo.png
 updated: 2023-10-07
 ---
 
