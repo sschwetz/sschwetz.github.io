@@ -14,7 +14,17 @@ typora-root-url: ../
 redirect_from:
 #*************************************
 
+title: 
+subtitle: 
+author: 
+updated: 
+cover-img: 
+thumbnail-img: 
+full-width: false
 
+share-title: 
+share-description: 
+share-img: 
 
 tags:
   -
