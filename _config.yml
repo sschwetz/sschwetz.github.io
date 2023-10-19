@@ -440,7 +440,6 @@ gallery:
 #        desc: "Gallery Description" # Info fields can be used in custom templates.
 
 
-
 compress_html:
   clippings: all
   comments: [""]
@@ -458,7 +457,6 @@ compress_html:
   blanklines: false
   ignore:
     envs: []
->>>>>>> minify-html
 
 ############################################################
 # Site configuration for the WebP Generator Plugin
