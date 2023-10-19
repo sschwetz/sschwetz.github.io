@@ -403,6 +403,7 @@ plugins:
   - "jemoji"
   - 'jekyll-commonmark-ghpages'
   - 'jekyll-gallery-generator'
+  - "jekyll-webp"
 
 collections:
   authors:
@@ -438,3 +439,11 @@ gallery:
 #      info:
 #        desc: "Gallery Description" # Info fields can be used in custom templates.
 
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []

@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-commonmark-ghpages"
   gem "jekyll-remote-theme"
+  gem "jekyll-webp"
 end
 
 #gemspec
