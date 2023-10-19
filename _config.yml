@@ -373,7 +373,7 @@ defaults:
       permalink: "/authors/:slug"
 
 emoji:
-  src: "/assets/img/emoji"
+  src: "/assets/img/"
 
 
 # Exclude these files from production site
