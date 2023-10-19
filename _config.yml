@@ -404,6 +404,7 @@ plugins:
   - 'jekyll-commonmark-ghpages'
   - 'jekyll-gallery-generator'
   - "jekyll-webp"
+  - "jekyll-asset-post-processor"
 
 collections:
   authors:
@@ -496,3 +497,7 @@ webp:
   # Default transforms `image.png` to `image.webp`, while changing to true transforms `image.png` to `image.png.webp`
   append_ext: true
 ##################
+
+asset-post-processor:
+    - staging_path: "_staging"
+    - destination_path: "assets"

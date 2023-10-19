@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-commonmark-ghpages"
   gem "jekyll-remote-theme"
   gem "jekyll-webp"
+  gem "jekyll-asset-post-processor"
 end
 
 #gemspec
