@@ -14,6 +14,6 @@ RewriteCond %{REQUEST_FILENAME} (.*)\.(jpe?g|png)$
 RewriteCond %1\.webp -f
 
 # serve up webp instead
-RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
+RewriteRule (.+)\.(jpe?g|png|gif|ti?f)$ $1.webp [T=image/webp,E=accept:1]
 
 AddType image/webp .webp
