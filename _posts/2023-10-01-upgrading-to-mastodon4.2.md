@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: Upgrading to Mastodon 4.2
 subtitle: a quick howto
-author: Stephen
+author: Stephen Schwetz
 tags: [technical,mastodon,2023,October]
 comments: true
 cover-img: /assets/logos/mastodon.png

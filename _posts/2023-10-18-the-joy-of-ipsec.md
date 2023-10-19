@@ -16,7 +16,7 @@ redirect_from:
 
 title: Why IPSEC Sucks
 subtitle: otherwise known as I hate this stack to the moon and back
-author:  Stephen
+author:  Stephen Schwetz
 updated: 
 cover-img: 
 thumbnail-img: 

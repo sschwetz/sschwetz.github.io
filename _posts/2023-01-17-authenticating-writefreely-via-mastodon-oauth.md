@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: Authenticating Writefreely via Mastodon
 subtitle: OAUTH Baby!!
-author: Stephen
+author: Stephen Schwetz
 tags: [writefreely,mastodon,technical,2023,january]
 comments: true
 redirect_from:

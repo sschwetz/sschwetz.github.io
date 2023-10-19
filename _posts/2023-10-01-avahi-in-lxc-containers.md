@@ -8,7 +8,7 @@ title: Running avahi-daemon in LXC
 subtitle: a quick howto
 tags: [technical,systemd,avahi,2023,October]
 comments: true
-author: Stephen
+author: Stephen Schwetz
 thumbnail: /assets/logos/containers.png
 cover-img: /assets/logos/lxc-containers.jpg
 ---

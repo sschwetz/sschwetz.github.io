@@ -7,7 +7,7 @@ lang: en-AU
 layout: post
 title: Installing PixelFed onto Ubuntu 22.04
 subtitle: 
-author: Stephen
+author: Stephen Schwetz
 tags: [fediverse,pixelfed,2022,December]
 comments: true
 redirect_from:

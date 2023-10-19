@@ -14,7 +14,7 @@ redirect_from:
 
 title: Adding author field to jeykll to allow a multi author blog
 subtitle: 
-author: Stephen
+author: Stephen Schwetz
 updated:
 tags:
   - Beautiful Jekyll
