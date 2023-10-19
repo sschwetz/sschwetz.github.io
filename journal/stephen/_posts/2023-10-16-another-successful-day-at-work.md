@@ -16,7 +16,7 @@ redirect_from:
 
 title: Another Successful day at work
 subtitle: Only four more until the weekend
-author: Stephen
+author: Stephen Schwetz
 updated: 
 cover-img: 
 thumbnail-img: 

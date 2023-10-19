@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: My Journey Begins
 subtitle: 
-author: Stephen
+author: Stephen Schwetz
 tags: [diabetes,2021,July]
 comments: true
 redirect_from:

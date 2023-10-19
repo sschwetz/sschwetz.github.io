@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: An Attempt to Journal
 subtitle: 
-author: Stephen
+author: Stephen Schwetz
 tags: [journal,2023,january]
 comments: true
 redirect-from:

@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: Attempt 3 of Quitting Smoking
 subtitle: Day One
-author: Stephen
+author: Stephen Schwetz
 tags: [journal,2023,September]
 comments: true
 redirect-from: 

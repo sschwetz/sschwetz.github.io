@@ -6,7 +6,7 @@ lang: en-AU
 layout: post
 title: It was colder than Siberia
 subtitle: enabling night shift
-author: Stephen
+author: Stephen Schwetz
 tags: [gala day, kahiba, soccer,2022,July]
 comments: true
 redirect_from:
