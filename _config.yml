@@ -370,7 +370,7 @@ defaults:
       type: "author"
     values:
       layout: "author"
-      permalink: "/authors/:slug/"
+      permalink: "/authors/:slug"
 
 emoji:
   src: "/assets/img/emoji"
