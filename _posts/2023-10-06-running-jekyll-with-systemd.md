@@ -8,7 +8,7 @@ title: Running Jekyll with systemd
 tags: [technical,jekyll,2023,October]
 comments: true
 author: Stephen Schwetz
-thumbnail-img: /assets/logos/jekyll-icon.png
+thumbnail: /assets/logos/jekyll-icon.png
 cover-img: /assets/logos/jeykll-logo.png
 updated: 2023-10-07
 ---
