@@ -398,7 +398,6 @@ plugins:
   - "jekyll-redirect-from"
   - "premonition"
   - "jekyll-target-blank"
-  - "jekyll-titles-from-headings"
   - "jekyll-postfiles"
   - "classifier-reborn"
   - "jekyll-remote-theme"
