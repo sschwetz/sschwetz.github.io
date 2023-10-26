@@ -370,7 +370,7 @@ defaults:
       type: ""
     values:
       layout: "pages"
-      permalink: "/docs/:title/"
+      permalink: ":title/"
 
 emoji:
   src: "/assets/img/"
