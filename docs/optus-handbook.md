@@ -20,7 +20,7 @@ author: Stephen Schwetz
 updated: 
 cover-img: /assets/logos/optus.png
 thumbnail: /assets/logos/optus-icon.png
-full-width: false
+full-width: yes
 
 share-title: 
 share-description: 
@@ -32,7 +32,7 @@ tags:
   - OSS
   - Cloud
 
-toc: true
+toc: false
 ---
 
 ### Revision History
