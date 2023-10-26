@@ -2,6 +2,6 @@
   AuthType DIGEST
   AuthDigestDomain "schwetz.au"
   AuthDigestProvider file
-  AuthUserFile "../_digestpw/htdigest/htdigest"
+  AuthUserFile "/home/jekyll/_digestpw/htdigest/htdigest"
   Require valid-user
 </Files>
