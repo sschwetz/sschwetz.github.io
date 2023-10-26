@@ -1,0 +1,8 @@
+<Files *>
+  AuthType DIGEST
+  AuthDigestNonceLifetime 1
+  AuthDigestDomain "schwetz.au"
+  AuthDigestProvider file
+  AuthUserFile "/home/jekyll/_data/htdigest"
+  Require valid-user
+</Files>
