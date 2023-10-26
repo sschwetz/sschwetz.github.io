@@ -406,6 +406,7 @@ plugins:
   - 'jekyll-commonmark-ghpages'
   - 'jekyll-gallery-generator'
   - "jekyll-webp"
+  - 'jekyll-toc'
 
 collections:
   authors:
