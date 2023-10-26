@@ -17,6 +17,7 @@ group :jekyll_plugins do
   gem "premonition"
   gem "jekyll-target-blank"
   gem 'jekyll-postfiles'
+  gem "jekyll-titles-from-headings"
   gem "classifier-reborn"
   gem 'jekyll-gallery-generator'
   gem "jemoji"
