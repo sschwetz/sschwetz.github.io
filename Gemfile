@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem "classifier-reborn"
   gem 'jekyll-gallery-generator'
   gem "jemoji"
-  gem "jekyll-commonmark-ghpages"
+#  gem "jekyll-commonmark-ghpages"
   gem "jekyll-remote-theme"
   gem "jekyll-webp"
   gem 'jekyll-toc'

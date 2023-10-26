@@ -273,10 +273,17 @@ date_format: "%-d %B, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Australia/Sydney"
-markdown: "CommonMarkGhPages"
+#markdown: "CommonMarkGhPages"
+markdown: kramdown
 highlighter: "rouge"  
 permalink: "/:year-:month-:day-:title/"
 
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+  
 #configure commonmark generator
 commonmark:
   options: 
@@ -408,7 +415,7 @@ plugins:
   - "classifier-reborn"
   - "jekyll-remote-theme"
   - "jemoji"
-  - 'jekyll-commonmark-ghpages'
+#  - 'jekyll-commonmark-ghpages'
   - 'jekyll-gallery-generator'
   - "jekyll-webp"
   - 'jekyll-toc'
@@ -457,15 +464,6 @@ compress_html:
   ignore:
     envs: []
     
-compress_html:
-  clippings: all
-  comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-  profile: false
-  blanklines: false
-  ignore:
-    envs: []
-
 ############################################################
 # Site configuration for the WebP Generator Plugin
 # The values here represent the defaults if nothing is set
