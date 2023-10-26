@@ -15,7 +15,7 @@ redirect_from:
 title: Adding author field to jeykll to allow a multi author blog
 subtitle: 
 author: Stephen Schwetz
-updated:
+updated: 2023-10-27
 tags:
   - Beautiful Jekyll
   - Jekyall
@@ -36,4 +36,6 @@ The issue that we ran into was that even if we added the page author by includin
 
 So last night, with a bit of reading, a bit of learning, and a lot of mistakes later, the blog now will tell you the author of the page taken from its front matter and shows after the date of the post. The changes are found on my github on the repo [sschwetz\beautiful-jekyll](https://github.com/sschwetz/beautiful-jekyll) with [this commit]((https://github.com/daattali/beautiful-jekyll/compare/master...sschwetz:beautiful-jekyll:master) showing the required changes to get this working.
 
-I have submitted a pull request to the upstream, and I will work towards it being accepted.
+###### Update
+
+Today it happened, it took some tweaking and making simpler and easier to use, but my first ever pull request has been merged into a project. I have started to learn how jekyll and liquid work and intend to keep adding to my fork of the project. You will see it grow as time goes on.
