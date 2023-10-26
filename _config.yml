@@ -359,18 +359,19 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       permalink: ":year/:month/:day/:title/"
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "page"
   - 
     scope:
       path: "/docs"
       type: ""
     values:
-      layout: "pages"
+      layout: "page"
       permalink: ":title/"
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
+
 
 emoji:
   src: "/assets/img/"
