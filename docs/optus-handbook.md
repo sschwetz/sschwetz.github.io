@@ -18,8 +18,8 @@ title: Optus Survival Guide
 subtitle: OSS Cloud Version 2.0
 author: Stephen Schwetz
 updated: 
-cover-img: 
-thumbnail-img: 
+cover-img: /assets/logos/optus.svg
+thumbnail-img: /assets/logos/optus.svg
 full-width: false
 
 share-title: 
@@ -32,7 +32,7 @@ tags:
   - OSS
   - Cloud
 
-toc: false
+toc: true
 ---
 
 ### Revision History
