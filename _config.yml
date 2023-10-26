@@ -332,6 +332,7 @@ defaults:
       comments: "true"
       social-share: "true"
       permalink: "/kb/:title/"
+      readtime: true
   -
     scope:
       path: "/journal/stephen"
@@ -341,6 +342,7 @@ defaults:
       comments: "true"
       social-share: "true"
       permalink: ":year/:month/:day/:title/"
+      readtime: true
   -
     scope:
       path: "/journal/lilian"
@@ -350,6 +352,7 @@ defaults:
       comments: "false"
       social-share: "false"
       permalink: ":year/:month/:day/:title/"
+      readtime: true
   -
     scope:
       path: ""
@@ -359,6 +362,7 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       permalink: ":year/:month/:day/:title/"
+      readtime: true
   - 
     scope:
       path: "/docs"
@@ -366,6 +370,7 @@ defaults:
     values:
       layout: "page"
       permalink: ":title/"
+      readtime: true
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
