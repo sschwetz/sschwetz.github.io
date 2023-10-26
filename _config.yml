@@ -419,6 +419,7 @@ plugins:
   - 'jekyll-gallery-generator'
   - "jekyll-webp"
   - 'jekyll-toc'
+  - 'kramdown-parser-gfm'
 
 collections:
   authors:
