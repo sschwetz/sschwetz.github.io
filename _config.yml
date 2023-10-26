@@ -366,11 +366,11 @@ defaults:
       layout: "page"
   - 
     scope:
-      path: ""
-      type: "author"
+      path: "/docs"
+      type: ""
     values:
-      layout: "author"
-      permalink: "/authors/:slug"
+      layout: "pages"
+      permalink: "/docs/:title/"
 
 emoji:
   src: "/assets/img/"
