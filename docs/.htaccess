@@ -1,5 +1,6 @@
 <Files *>
   AuthType DIGEST
+  AuthName "Private Documents"
   AuthDigestDomain "schwetz.au"
   AuthDigestProvider file
   AuthUserFile "/home/jekyll/_digestpw/htdigest/htdigest"
