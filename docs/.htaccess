@@ -3,6 +3,6 @@
   AuthName "Private Documents"
   AuthDigestDomain "schwetz.au"
   AuthDigestProvider file
-  AuthUserFile "/home/jekyll/_digestpw/htdigest/htdigest"
+  AuthUserFile "/home/jekyll/_digestpw/htdigest"
   Require valid-user
 </Files>
