@@ -5,8 +5,8 @@ layout: page
 social-share: true
 comments: false
 
-typora-copy-images-to: ../../assets/img/optus-handbook
-typora-root-url: ../../
+typora-copy-images-to: ../assets/img/optus-handbook
+typora-root-url: ../
 #**************************************
 
 #*************************************
@@ -111,7 +111,7 @@ CSN has 2 POPs that will permit access via the Forticlient
 
 1. Fill out the required setup details on the create connection screen.
 
-   ![image-20230914051033061](/assets/img/optus-handbook/image-20230914051033061.png)
+   ![image-20230914051033061](/assets/img/optus-handbook/image-20230914051033061.png){: .center-image }
 
 1. Click Save. This will then return you to the connection screen
 
@@ -121,11 +121,11 @@ CSN has 2 POPs that will permit access via the Forticlient
 
 1. Fill out the Username and Password field.  If you have a yubikey you can supply your 2FA one-time password by putting your password in and then pressing <kbd>,</kbd> and then supplying the one-time password.
 
-![image-20230912103453510](/assets/img/optus-handbook/image-20230912103453510.png)
+![image-20230912103453510](/assets/img/optus-handbook/image-20230912103453510.png){: .center-image }
 
 2. Click Connect, and the VPN will connect.
 
-![image-20230912110727104](/assets/img/optus-handbook/image-20230912110727104.png)
+![image-20230912110727104](/assets/img/optus-handbook/image-20230912110727104.png){: .center-image }
 
 ---
 
@@ -202,13 +202,13 @@ Most of this environment will be replaced by the dCHI environment, but portions 
 
 The solution uses HPE SimpliVity Hyperconverged Infrastructure (HCI), which combines the entire IT stack into a single hyperconverged node, providing the agility and economics of the cloud with enterprise-grade performance and data protection. Optus utilises the all-flash, scalable, pre-integrated building blocks to host newly built OSS virtualised application workloads across the two data centres. 
 
-![Optus OSS Infrastructure Diagrams v0.4](/assets/img/optus-handbook/Optus%20OSS%20Infrastructure%20Diagrams%20v0.4.png)
+![Optus OSS Infrastructure Diagrams v0.4](/assets/img/optus-handbook/Optus%20OSS%20Infrastructure%20Diagrams%20v0.4.png){: .center-image }
 
 ### NPTE
 
 The Non-Production Test Environment (NPTE) is another component of the solution, which has been deployed in the Rosebery data centre. The NPTE environment has a mixed role, it is used to host Non-Production Optus vm workloads, as well as being used by HPE TSMC to test the installation of software updates and patches on like for like infrastructure. The NPTE environment will mimic the infrastructure and configuration of the Production Blacktown and Mascot solutions.
 
-![Optus NPTE Diagrams v0.5](/assets/img/optus-handbook/Optus%20NPTE%20Diagrams%20v0.5.png)
+![Optus NPTE Diagrams v0.5](/assets/img/optus-handbook/Optus%20NPTE%20Diagrams%20v0.5.png){: .center-image }
 
 ---
 
@@ -220,11 +220,11 @@ The new HPE Nimble Storage dHCI solution will integrate with the existing Vmware
 
 ## DHCI Network Block Diagram
 
-![image-20230913210159838](/assets/img/optus-handbook/image-20230913210159838.png)
+![image-20230913210159838](/assets/img/optus-handbook/image-20230913210159838.png){: .center-image }
 
 ## dHCI Logical Networking
 
-![image-20230913205545224](/assets/img/optus-handbook/image-20230913205545224.png)
+![image-20230913205545224](/assets/img/optus-handbook/image-20230913205545224.png){: .center-image }
 
 
 
@@ -232,11 +232,11 @@ The new HPE Nimble Storage dHCI solution will integrate with the existing Vmware
 
 #  Production Network
 
-![Optus Physical Networking Prod](/assets/img/optus-handbook/Optus%20Physical%20Networking%20Prod.png)
+![Optus Physical Networking Prod](/assets/img/optus-handbook/Optus%20Physical%20Networking%20Prod.png){: .center-image }
 
 ## Blacktown Production & DMZ
 
-![image-20230911151442356](/assets/img/optus-handbook/image-20230911151442356.png)
+![image-20230911151442356](/assets/img/optus-handbook/image-20230911151442356.png){: .center-image }
 
 ### Switches
 
@@ -271,7 +271,7 @@ The new HPE Nimble Storage dHCI solution will integrate with the existing Vmware
 
 ## Mascot GEO
 
-![Optus GEO-MB](/assets/img/optus-handbook/Optus%20GEO-MB.png)
+![Optus GEO-MB](/assets/img/optus-handbook/Optus%20GEO-MB.png){: .center-image }
 
 ### Routing 
 
@@ -669,7 +669,7 @@ BGP peering is established to provide the higher layer routing function of EVPN.
 
 ### TLDR - How it Works
 
-![Optus Networking - NSX](/assets/img/optus-handbook/Optus%20Networking%20-%20NSX.png)
+![Optus Networking - NSX](/assets/img/optus-handbook/Optus%20Networking%20-%20NSX.png){: .center-image }
 
 
 
@@ -685,7 +685,7 @@ Host Overlay is a transport VLAN used for host-to-host communication between gue
 
 ### Edge Nodes
 
-![NSX - Edge Nodes](/assets/img/optus-handbook/NSX%20-%20Edge%20Nodes.png)
+![NSX - Edge Nodes](/assets/img/optus-handbook/NSX%20-%20Edge%20Nodes.png){: .center-image }
 
 ### The Geneve Protocol
 
@@ -696,7 +696,7 @@ The GENEVE header looks a lot like VXLAN and has the following structure:
 * A small fixed tunnel header is used to provide control information, as well as a base level of functionality and interoperability.
 * Variable length options are available for making possible to implement future innovations.
 
-![Geneve Protocol](/assets/img/optus-handbook/Geneve%20Protocol.png)
+![Geneve Protocol](/assets/img/optus-handbook/Geneve%20Protocol.png){: .center-image }
 
 The size of the GENEVE header is variable.
 
@@ -710,7 +710,7 @@ Transport zones define the limits of logical networks distribution. Each transpo
 
 ### Routing in NSX
 
-![NSX Routing](/assets/img/optus-handbook/NSX%20Routing.png)
+![NSX Routing](/assets/img/optus-handbook/NSX%20Routing.png){: .center-image }
 
 NSX-T uses a two-tier distributed routing model for resolving issues explained above. Both Tier0 and Tier1 are created on the Transport nodes, the latter of which is not necessary, but is intended for improving scalability.
 
@@ -737,7 +737,7 @@ The process of creating and applying the rules is quite similar for both NSX-v a
 
 ## Production
 
-![Optus Logical Networking](/assets/img/optus-handbook/Optus%20Logical%20Networking.png)
+![Optus Logical Networking](/assets/img/optus-handbook/Optus%20Logical%20Networking.png){: .center-image }
 
 ### Blacktown
 
@@ -802,7 +802,7 @@ The lab was the original location for NSX-T to be installed and has a couple of 
 
 
 
-![image-20230913180257638](/assets/img/optus-handbook/image-20230913180257638.png)
+![image-20230913180257638](/assets/img/optus-handbook/image-20230913180257638.png){: .center-image }
 
 ### Rosebury
 
@@ -820,7 +820,7 @@ The lab was the original location for NSX-T to be installed and has a couple of 
 
 # RTAP
 
-![RTAP](/assets/img/optus-handbook/RTAP.png)
+![RTAP](/assets/img/optus-handbook/RTAP.png){: .center-image }
 
 
 
