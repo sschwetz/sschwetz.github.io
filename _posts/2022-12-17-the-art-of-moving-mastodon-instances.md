@@ -18,21 +18,21 @@ So you decided to jump from Twitter to Mastodon, and you thought you chose the r
 
 ## Setup your New Account
 
-![(Screenshot of Mastodon showing Menu](../assets/img/f4f6732619c7a616cf5f38ae28e4.png)
+![(Screenshot of Mastodon showing Menu](/assets/img/f4f6732619c7a616cf5f38ae28e4.png){: .center-image }
 
 Once you have created and logged into your account, open preferences, then select Account and then Account settings.
 
-![Moving from a different account screenshot](../assets/img/1a7c5aa0f4dc164a35e44757f993.png)
+![Moving from a different account screenshot](/assets/img/1a7c5aa0f4dc164a35e44757f993.png)
 
 In the middle of the screen, There will be an option for Moving from a different account. Click on create an account alias.
 
-![Handle of the old account screenshot](../assets/img/44b4bea1f8b86c332c0c91d38c40.png)
+![Handle of the old account screenshot](/assets/img/44b4bea1f8b86c332c0c91d38c40.png){: .center-image }
 
 Once this has been completed, change to your new instance.
 
 ## Exporting your Data
 
-![Screenshot showing exporting data menu selection](../assets/img/c8070a3a4a52e2077091ff62b5e2.png)
+![Screenshot showing exporting data menu selection](/assets/img/c8070a3a4a52e2077091ff62b5e2.png){: .center-image }
 
 Later on we will move you followers over, but Mastodon does not move the rest of your data. However, it does allow for you to download this data in a CSV format that you can then Import into your new Instance
 
@@ -45,7 +45,7 @@ The data that we will be able to export is:
 * Domain Blocks, and
 * Bookmarks.
 
-![Screenshot of extract data page.](../assets/img/a05c8f4743174554698feb99b84c.png)
+![Screenshot of extract data page.](/assets/img/a05c8f4743174554698feb99b84c.png){: .center-image }
 
 To download the csv archive, simply click on the Link to the right that has an arrow pointing into a filing tray with the word CSV on it.
 
@@ -53,7 +53,7 @@ If you wish, you can also download a full archive of your account, but currently
 
 ## Creating the move job
 
-![Account Settings selected via preferences](../assets/img/f4f6732619c7a616cf5f38ae28e4.png)
+![Account Settings selected via preferences](/assets/img/f4f6732619c7a616cf5f38ae28e4.png){: .center-image }
 
 From here you will look for the link under Move to a different account.
 
@@ -65,7 +65,7 @@ Put the password for your old account into the password box and click move follo
 
 ## Importing your data.
 
-![Import Preferences Menu](../assets/img/86b1633843dcf967c81f74f93ddb.png)
+![Import Preferences Menu](/assets/img/86b1633843dcf967c81f74f93ddb.png){: .center-image }
 
 From the import section select the type of data you are importing, under Data click choose file and choose the matching file you dowloaded earlier.
 
