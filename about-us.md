@@ -22,7 +22,7 @@ redirect_from:
 
 Welcome to the humble online presence of the Schwarrisons. We are a family of 4, with all 4 members being Autistic, and three of us also have ADHD. Add into this some bad work experiences, some PTSD and other mental health issues we try to highlight here what makes us, well US. We also have a poodle called Ellie who thinks that she is the warrior of the family.
 
-<img src="/assets/img/twitter_EyN4-NtWQAUQ4xs.jpg" alt="small dog in fatigues with a mini AR15. Captioned: How my dog see himself when the doorbell rings" style="zoom:25%;" />
+<img src="/assets/img/twitter_EyN4-NtWQAUQ4xs.jpg" alt="small dog in fatigues with a mini AR15. Captioned: How my dog see himself when the doorbell rings" style="zoom:25%;" />{: .center-image }
 
 You will find a mashup of IT Knowledge from myself, as well as highlights that I have with the three most important people in my life. And you never know, they may make their own appearance here posting what they feel will help them find their way in life.
 
