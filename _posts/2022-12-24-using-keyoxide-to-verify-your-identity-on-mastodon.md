@@ -100,13 +100,13 @@ If you are using GnuPG do not attempt to use —send-keys to upload the keys, as
 
 Browse to [https://keys.openpgp.org](https://keys.openpgp.org/) and select upload
 
-![Screenshot of keys.openpgp.org](../assets/img/rEuBwXPnmx4GefNH-image-6669196.png)
+![Screenshot of keys.openpgp.org](/assets/img/rEuBwXPnmx4GefNH-image-6669196.png){: .center-image }
 
 You will then be presented with the upload screen, select the pubkey.asc file that was created earlier
 
 Once completed click on upload
 
-![Screenshot of keys.opengpg.org](../assets/img/O8FIHtiGc064oVOS-image-6669196.png)
+![Screenshot of keys.opengpg.org](/assets/img/O8FIHtiGc064oVOS-image-6669196.png){: .center-image }
 
 If the certificate has been changed you will need to send the verification email to each account and click on the link inside the email. Once this has been completed the key will be ready to be verified with Keyoxide.
 
@@ -116,12 +116,12 @@ To test browse to the url [https://keyoxide.org/hkp/](https://keyoxide.org/hkp/)
 
 
 
-![Screenshot of keys.opengpg.org](assets/img/0bHNLz00l2f9b8uV-image.png)
+![Screenshot of keys.opengpg.org](assets/img/0bHNLz00l2f9b8uV-image.png){: .center-image }
 
 ## Linking Mastodon and Keyoxide.
 
-![Screenshot of keys.opengpg.org](../assets/img/QT1Sl8jDyGjSswDY-image-6669196.png)
+![Screenshot of keys.opengpg.org](/assets/img/QT1Sl8jDyGjSswDY-image-6669196.png){: .center-image }
 
 To add the signature, edit your profile; this can be done by clicking edit profile next to your avatar above the toot composition box. Inside the profile, scroll  down to the Profile metadata and the fill in the first field with a description, I chose to use Cryptographically Verified. for the URL you need to put the url that you tested above, mine is: ([https://keyoxide.org/hkp/EA99B69EADBD4E5D65EBEF494140C46AF5E7D297](https://keyoxide.org/hkp/EA99B69EADBD4E5D65EBEF494140C46AF5E7D297))
 
-![Screenshot of keys.opengpg.org](../assets/img/NQ2CZdSkr86jzXgz-image-6669196.png)
+![Screenshot of keys.opengpg.org](/assets/img/NQ2CZdSkr86jzXgz-image-6669196.png){: .center-image }
