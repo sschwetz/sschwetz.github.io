@@ -135,7 +135,14 @@ edit_page_button: false
 navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "schwetz,schwarrisons,autism,adhd,blog,audhd,disability"
+
+# Enable the favicon for your website. This is the icon that appears on the tab of the web browser
+# To setup your favicon go to https://realfavicongenerator.net and follow the instructions, download the favions 
+# and place them into /assets/favicon.
+# if you change the favicon images, you must increment the revision to force sites to update.
+
+site.favicon-revision = 3
 
 ######################################
 # --- Colours / background image --- #
