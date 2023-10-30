@@ -408,6 +408,7 @@ exclude:
   - screenshot.png
 #  - docs/
   - vendor/
+  - journal/
 
 plugins:
 #  - jeykall-paginate
