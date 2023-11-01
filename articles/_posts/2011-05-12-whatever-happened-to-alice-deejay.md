@@ -16,7 +16,7 @@ redirect_from:
 
 title: Whatever happened to ...Alice Deejay
 subtitle: Was their one hit really Better Off Alone?
-author: 2011-05-12
+author: 
 updated: 
 cover-img: 
 thumbnail-img: 
