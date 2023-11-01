@@ -377,6 +377,16 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
       permalink: ":year/:month/:day/:title/"
       readtime: true
+   -
+    scope:
+      path: "/articles"
+      type: ""
+    values:
+      layout: "post"
+      comments: "false"
+      social-share: "false"
+      permalink: ":title/"
+      readtime: true
   - 
     scope:
       path: "/docs"
@@ -408,7 +418,6 @@ exclude:
   - screenshot.png
 #  - docs/
   - vendor/
-  - journal/
 
 plugins:
 #  - jeykall-paginate
