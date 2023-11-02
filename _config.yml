@@ -25,20 +25,7 @@ author: "Stephen Schwetz"
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Weather: "weather"
-  Tools:
-    - Knowledge Base: "kb"
-  About: 
-    - Us: "about-us"
-    - Stephen: "about-stephen"
-    - Lilian: "about-lilian"
-    - Stupid Ellie: "ellie"
-  Projects:
-    - Neurodiversity in Australia: "https://neurodiversity-in.au"
-  Galleries: "galleries"
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+#moved to _data
   
 
 ################
