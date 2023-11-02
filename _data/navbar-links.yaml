@@ -1,0 +1,15 @@
+Weather: "weather"
+Tools:
+  - Knowledge Base: "kb"
+About: 
+  - Us: "about-us"
+  - Stephen: "about-stephen"
+  - Lilian: "about-lilian"
+  - Stupid Ellie: "ellie"
+Memes:
+  - Bert is Evil: memes/bert-is-evil/
+Projects:
+  - Neurodiversity in Australia: "https://neurodiversity-in.au"
+Galleries: "galleries"
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
