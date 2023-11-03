@@ -323,8 +323,7 @@ pagination:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  - 
-    scope:
+  - scope:
       path: "/kb"
       type: ""
     values:
@@ -333,8 +332,7 @@ defaults:
       social-share: "true"
       permalink: "/kb/:title/"
       readtime: true
-  -
-    scope:
+  - scope:
       path: "/journal/stephen"
       type: ""
     values:
@@ -343,8 +341,7 @@ defaults:
       social-share: "true"
       permalink: ":year/:month/:day/:title/"
       readtime: true
-  -
-    scope:
+  - scope:
       path: "/journal/lilian"
       type: ""
     values:
