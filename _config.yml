@@ -288,7 +288,6 @@ commonmark:
     - "strikethrough" 
     - "autolink"  
     - "table" 
- #   - "tagfilter"
     - "tasklist"
   syntax_highlighter_opts:
     block:
@@ -356,6 +355,15 @@ defaults:
       readtime: true
    -
     scope:
+      path: "/memes"
+      type: ""
+    values:
+      layout: "page"
+      comments: "false"
+      social-share: "false"
+      permalink: ":title/"
+   -
+    scope:
       path: "/articles"
       type: ""
     values:
@@ -379,7 +387,7 @@ defaults:
       path: "/docs"
       type: ""
     values:
-      layout: "page"
+      layout: "post"
       permalink: ":title/"
       readtime: true
   -
@@ -403,11 +411,9 @@ exclude:
   - LICENSE
   - README.md
   - screenshot.png
-#  - docs/
   - vendor/
 
 plugins:
-#  - jeykall-paginate
   - "jekyll-paginate-v2"
   - "jekyll-sitemap"
   - "jekyll-loading-lazy"
@@ -419,7 +425,6 @@ plugins:
   - "classifier-reborn"
   - "jekyll-remote-theme"
   - "jemoji"
-#  - 'jekyll-commonmark-ghpages'
   - 'jekyll-gallery-generator'
   - "jekyll-webp"
   - 'jekyll-toc'
