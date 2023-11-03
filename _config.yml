@@ -354,7 +354,7 @@ defaults:
       readtime: true
   -
     scope:
-      path: "/memes"
+      path: "/memes" 
       type: ""
     values:
       layout: "page"
@@ -426,7 +426,6 @@ plugins:
   - "jemoji"
   - 'jekyll-gallery-generator'
   - "jekyll-webp"
-  - 'jekyll-toc'
   - 'kramdown-parser-gfm'
 
 collections:
