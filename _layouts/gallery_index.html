@@ -21,6 +21,11 @@ div.desc {
   text-align: center;
 }
 
+div.imagecount {
+  padding: 15px;
+  text-align: center;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -57,7 +62,8 @@ div.desc {
       <img src="{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}" 
       width="{{ site.gallery.thumbnail_size.x }}" height="{{ site.gallery.thumbnail_size.y }}">
     </a>
-    <div class="desc">{{ gallery["name"] }} {{ site.gallery.thumbnail_size.x }}</div>
+    <div class="desc">{{ gallery["name"] }}</div>
+    <div class="imagecount">{{ gallery["images"] | size }} image{% if gallery["images"].size != 1 %}s{% endif %}
   </div>
 </div>
 {% endfor %}
