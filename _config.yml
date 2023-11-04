@@ -434,8 +434,6 @@ collections:
   neurodiversity-in.au:
     faq:
 
-
-
 gallery:
   dir: "galleries"               # Path to the gallery
   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
