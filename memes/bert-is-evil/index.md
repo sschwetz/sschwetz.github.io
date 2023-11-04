@@ -18,7 +18,7 @@ title: Bert is Evil !
 subtitle: The Original Internet Meme
 author: 
 updated: 
-cover-img: 
+cover-img: /assets/img/bert-is-evil.jpg
 thumbnail-img: /assets/img/index/bertmug.gif
 full-width: false
 

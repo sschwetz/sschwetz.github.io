@@ -18,7 +18,7 @@ title: Intercepted E-mail Correspondence with Jeffrey Dahmer
 subtitle: Bert is Evil ! 
 author: Dino Ignacio
 updated: 
-cover-img: 
+cover-img: /assets/img/bert-is-evil.jpg
 thumbnail-img: /assets/img/index/bertmug.gif
 full-width: false
 
