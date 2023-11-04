@@ -66,9 +66,9 @@ div.desc {
   <div class="gallery">
     <a target="_blank" href="{{ image.name }}">
       <img src="{{ image.name }}" width="{{ site.gallery.thumbnail_size.x }}" 
-        height="{{ site.gallery.thumbnail_size.x }}">
+        height="{{ site.gallery.thumbnail_size.y }}">
     </a>
-    <div class="desc">{ image.name }}</div>
+    <div class="desc">{{ image.name }}</div>
   </div>
 </div>
 {% endfor %}
