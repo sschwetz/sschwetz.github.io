@@ -54,7 +54,7 @@ With all the recognition this site has gotten, we are still wondering when the C
 
 This website was such an experience from the day I first started it. It's been a fun 3 years. Thank you for the support.
 
-<p text-align: right>Dino Ignacio</p>
+<p style="text-align:right"> - Dino Ignacio</p>
 
 |                                                   |                                  |
 | :-----------------------------------------------: | :------------------------------: |
