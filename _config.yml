@@ -427,6 +427,7 @@ plugins:
   - 'jekyll-gallery-generator'
   - "jekyll-webp"
   - 'kramdown-parser-gfm'
+  - 'classifier-reborn'
 
 collections:
   authors:
