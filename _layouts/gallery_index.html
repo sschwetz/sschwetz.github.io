@@ -3,23 +3,61 @@ layout: page
 full-width: true
 ---
 <style TYPE="text/css">
-.gallery-wrapper {
-  width: 35em;
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
   text-align: center;
-  padding: 1em 0 4em 0;
 }
-.gallery-best-image{
-  max-height: 20em;
-  max-width: 20em;
+
+* {
+  box-sizing: border-box;
 }
-</style><span class="gallery-span">
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 {% for gallery in page.galleries %}
-<div class="gallery-wrapper">
-    <a href="{{ gallery['gallery'] }}">
-        <img class="gallery-best-image" src="{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}">
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ gallery['gallery'] }}">
+      <img src="{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}" 
+      width="{{ site.gallery.thumbnail_size.x }}" height="{{ site.gallery.thumbnail_size.y }}">
     </a>
-    <h3><a href="{{ gallery['gallery'] }}">{{ gallery["name"] }}</a></h3>
-    {{ gallery["images"] | size }} image{% if gallery["images"].size != 1 %}s{% endif %}
+    <div class="desc">{{ gallery["name"] }}</div>
+  </div>
 </div>
 {% endfor %}
-</span>
