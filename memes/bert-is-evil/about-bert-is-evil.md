@@ -62,5 +62,5 @@ This website was such an experience from the day I first started it. It's been a
 
 ---
 
- [Back](memes/bert-is-evil) 
+ [Back](index.html) 
 

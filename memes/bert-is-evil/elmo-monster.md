@@ -67,4 +67,4 @@ Maybe.
 
 ---
 
- [Back](memes/bert-is-evil/the-interviews-and-documents) 
+ [Back](the-interviews-and-documents) 

@@ -44,5 +44,5 @@ The following files may contain graphic information, please proceed with caution
 
 ---
 
- [Back](memes/bert-is-evil/) 
+ [Back](index.html) 
 
