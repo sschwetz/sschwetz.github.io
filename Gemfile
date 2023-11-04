@@ -26,8 +26,8 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-webp"
   gem 'jekyll-toc'
-  gem install classifier-reborn
-  gem install gsl
+  gem 'classifier-reborn'
+  gem 'gsl'
 end
 
 #gemspec
