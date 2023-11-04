@@ -6,7 +6,7 @@ social-share: true
 comments: false
 
 typora-copy-images-to: ../assets/img/${filename}
-typora-root-url: ../
+typora-root-url: ../../
 #**************************************
 
 #*************************************
@@ -41,8 +41,6 @@ We have reason to believe that Bert of Sesame Street is evil and that you should
 *  [about-bert-is-evil.md](about-bert-is-evil.md) 
 *  [the-photo-evidence.md](the-photo-evidence.md) 
 *  [the-interviews-and-documents.md](the-interviews-and-documents.md) 
-
-
 
 ---
 

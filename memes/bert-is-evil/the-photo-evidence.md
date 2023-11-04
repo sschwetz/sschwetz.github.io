@@ -6,7 +6,7 @@ social-share: true
 comments: false
 
 typora-copy-images-to: ../assets/img/${filename}
-typora-root-url: ../
+typora-root-url: ../../
 #**************************************
 
 #*************************************

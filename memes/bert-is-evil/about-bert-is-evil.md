@@ -6,7 +6,7 @@ social-share: true
 comments: false
 
 typora-copy-images-to: ../assets/img/${filename}
-typora-root-url: ../
+typora-root-url: ../../
 #**************************************
 
 #*************************************
@@ -62,5 +62,5 @@ This website was such an experience from the day I first started it. It's been a
 
 ---
 
-<center>This Website has been brought to you by the letter H and the [CIA](http://cia.gov).</center>
+ [Back](index.md) 
 

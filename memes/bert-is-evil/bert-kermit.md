@@ -6,7 +6,7 @@ social-share: true
 comments: false
 
 typora-copy-images-to: ../assets/img/${filename}
-typora-root-url: ../
+typora-root-url: ../../
 #**************************************
 
 #*************************************
@@ -34,30 +34,34 @@ tags:
 
 *The following is an interview with Kermit, reporter, correspondent, and Muppet spokesperson . Some scenes deemed explicit by the editor have been cut out, but still remains graphic. Reader's discretion is again stressed.*
 
-**Interviewer:** How well do you know Bert? 
+<span style="color:yellow">**Interviewer:**</span>How well do you know Bert? 
 
-**Kermit:** I've known him for over fifteen years now. 
+<span style="color:red">**Kermit:**</span> I've known him for over fifteen years now. 
 
-**Interviewer:** Has he always been violent?
+**<span style="color:yellow">**Interviewer:**</span>** Has he always been violent?
 
-**Kermit:** Actually, no - I think it all started with the Bottle caps?
+<span style="color:red">**Kermit:**</span>Actually, no - I think it all started with the Bottle caps?
 
-**Interviewer:** Could you explain?
+<span style="color:yellow">**Interviewer:**</span>Could you explain?
 
-**Kermit:** Well he had this bottle cap collection.. and one day he lost one, he was searching all over Sesame Street for it, well he went around raging, threatening to kill. He was so paranoid, he was blaming it on poor old Grover. He was shaking Grover around beating him up.
+<span style="color:red">**Kermit:**</span>Well he had this bottle cap collection.. and one day he lost one, he was searching all over Sesame Street for it, well he went around raging, threatening to kill. He was so paranoid, he was blaming it on poor old Grover. He was shaking Grover around beating him up.
 
-**Interviewer:** Then what?
+<span style="color:yellow">**Interviewer:**</span>Then what?
 
-**Kermit:** Well good ol' Mr. Hooper found a solution... he got a bottlecap that looked exactly like the one Bert lost and gave it to him. He pretended that he found it.
+<span style="color:red">**Kermit:**</span> Well good ol' Mr. Hooper found a solution... he got a bottlecap that looked exactly like the one Bert lost and gave it to him. He pretended that he found it.
 
-**Interviewer:** How often did these episodes of madness happen?
+<span style="color:yellow">**Interviewer:**</span>How often did these episodes of madness happen?
 
-**Kermit:** Often after that. He would be caught stealing Maria's underwear. He tried to rape Prairie Dawn a few times.
+<span style="color:red">**Kermit:**</span> Often after that. He would be caught stealing Maria's underwear. He tried to rape Prairie Dawn a few times.
 
-**Interviewer:** Prairie Dawn? 
+<span style="color:yellow">**Interviewer:**</span>Prairie Dawn? 
 
-**Kermit:** She's one of the girl Muppets here in Sesame, Bert's affections of love were turned down by her a few times... then Bert got violent. He would corner her into dark corners of the Street, and assault her. Bert is a really evil person, I wish he would be put to jail. 
+<span style="color:red">**Kermit:**</span> She's one of the girl Muppets here in Sesame, Bert's affections of love were turned down by her a few times... then Bert got violent. He would corner her into dark corners of the Street, and assault her. Bert is a really evil person, I wish he would be put to jail. 
 
-**Interviewer:** Why have you made no actions toward this? 
+<span style="color:yellow">**Interviewer:**</span>Why have you made no actions toward this? 
 
-**Kermit:** He threatens to kill us, he has friends in a Columbian Drug Mafia you know. He says if anyone reports... he's gonna have them skinned alive. We are all scared.**
+<span style="color:red">**Kermit:**</span> He threatens to kill us, he has friends in a Columbian Drug Mafia you know. He says if anyone reports... he's gonna have them skinned alive. We are all scared.**
+
+---
+
+ [Back](the-interviews-and-documents.md) 

@@ -6,7 +6,7 @@ social-share: true
 comments: false
 
 typora-copy-images-to: ../assets/img/${filename}
-typora-root-url: ../
+typora-root-url: ../../
 #**************************************
 
 #*************************************
@@ -35,4 +35,14 @@ tags:
 Collected here are documents and interviews that show that Bert is Evil. Many of these documents were submitted by anonymous sources who choose not to be revealed. All the files have been verified and cross-referenced with the FBI and other Intelligence Agencies. 
 
 The following files may contain graphic information, please proceed with caution.
+
+*  [Interview with Muppet Spokesperson Kermit the Frog](bert-kermit.md) 
+*  [Interview with Elmo Monster](elmo-monster.md) 
+*  [Interview with best buddy Ernie](ernie.md) 
+*  [Intercepted e-mail correspondence with Jeffrey Dahmer](jeffrey-dahmer.md) 
+*  [How did Mr. Hooper Really Die? (the untold story)](mr-hooper-death.md) 
+
+---
+
+ [Back](index.md) 
 
