@@ -42,4 +42,4 @@ Mr. Hooper caught the two shooting up behind the store and got mad. Hooper threa
 
 ---
 
- [Back](the-interviews-and-documents.md) 
+ [Back](memes/bert-is-evil/the-interviews-and-documents) 

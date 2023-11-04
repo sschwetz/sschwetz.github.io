@@ -130,4 +130,4 @@ At 6:24 PM 11/31/94 -0800, Bert wrote:
 
 ---
 
-  [Back](the-interviews-and-documents.md) 
+  [Back](memes/bert-is-evil/the-interviews-and-documents) 

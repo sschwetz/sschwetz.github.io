@@ -36,13 +36,13 @@ Collected here are documents and interviews that show that Bert is Evil. Many of
 
 The following files may contain graphic information, please proceed with caution.
 
-*  [Interview with Muppet Spokesperson Kermit the Frog](bert-kermit.md) 
-*  [Interview with Elmo Monster](elmo-monster.md) 
-*  [Interview with best buddy Ernie](ernie.md) 
-*  [Intercepted e-mail correspondence with Jeffrey Dahmer](jeffrey-dahmer.md) 
-*  [How did Mr. Hooper Really Die? (the untold story)](mr-hooper-death.md) 
+*  [Interview with Muppet Spokesperson Kermit the Frog](memes/bert-is-evil/bert-kermit) 
+*  [Interview with Elmo Monster](memes/bert-is-evil/elmo-monster) 
+*  [Interview with best buddy Ernie](memes/bert-is-evil/ernie) 
+*  [Intercepted e-mail correspondence with Jeffrey Dahmer](memes/bert-is-evil/jeffrey-dahmer) 
+*  [How did Mr. Hooper Really Die? (the untold story)](memes/bert-is-evil/mr-hooper-death) 
 
 ---
 
- [Back](index.md) 
+ [Back](memes/bert-is-evil/) 
 

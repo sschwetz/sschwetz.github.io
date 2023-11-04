@@ -88,4 +88,4 @@ tags:
 
 ---
 
- [Back](the-interviews-and-documents.md) 
+ [Back](memes/bert-is-evil/the-interviews-and-documents) 
