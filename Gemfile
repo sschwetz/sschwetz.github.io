@@ -27,7 +27,8 @@ group :jekyll_plugins do
   gem "jekyll-webp"
   gem 'jekyll-toc'
   gem 'classifier-reborn'
-  gem 'gsl'
+  gem 'numo-narray'
+  gem 'numo-linalg'
 end
 
 #gemspec
