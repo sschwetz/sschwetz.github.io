@@ -38,9 +38,9 @@ tags:
 
 We have reason to believe that Bert of Sesame Street is evil and that you should keep your children away. Here in these pages are collected incriminating images and documents that prove that Bert is not the lovable harmless geek he so successfully makes us thin
 
-*  [about-bert-is-evil.md](about-bert-is-evil.md) 
-*  [the-photo-evidence.md](the-photo-evidence.md) 
-*  [the-interviews-and-documents.md](the-interviews-and-documents.md) 
+*  [About Bert is Evil](memes/bert-is-evil/about-bert-is-evil) 
+*  [The Photo Evidence](memes/bert-is-evil/the-photo-evidence) 
+*  [Interviews and Documents](memes/bert-is-evil/the-interviews-and-documents) 
 
 ---
 
