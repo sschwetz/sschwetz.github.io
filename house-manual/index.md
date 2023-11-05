@@ -18,7 +18,7 @@ title: Schwarrisons House User Manual
 subtitle: User Guide for a Functioning Autistic Family
 author: Stephen Schwetz
 updated: 2023-11-05
-cover-img: /assets/logos/Living-in-harmony-with-others-scaled.jpg
+cover-img: /assets/img/living-in-harmony-with-others-scaled.jpg
 thumbnail-img: /assets/logos/schwarrisons-user-manual-icon.png
 full-width: false
 
