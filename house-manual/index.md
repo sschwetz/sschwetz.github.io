@@ -14,8 +14,8 @@ typora-root-url: ../
 redirect_from:
 #*************************************
 
-title: Schwarrisons House User Manual
-subtitle: User Guide for a Functioning Autistic Family
+title: Schwarrisons Manual
+subtitle: for a functioning autistic family...
 author: Stephen Schwetz
 updated: 2023-11-05
 cover-img: /assets/img/living-in-harmony.png
@@ -30,7 +30,7 @@ tags:
   -
 ---
 
-> ***The greatest gifts you can give your children are the roots of responsibility and the wings of independence.***
+> The greatest gifts you can give your children are the roots of responsibility and the wings of independence.
 >
 > <p style="text-align:right">- Denis Waitley</p>
 
