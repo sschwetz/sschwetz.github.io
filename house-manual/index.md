@@ -30,7 +30,7 @@ tags:
   -
 ---
 
-> The greatest gifts you can give your children are the roots of responsibility and the wings of independence.
+> ***The greatest gifts you can give your children are the roots of responsibility and the wings of independence.***
 >
 > <p style="text-align:right">- Denis Waitley</p>
 
@@ -180,7 +180,7 @@ Executive Functions include the ability to:
 
 * You are allowed to use the printer without asking, however, be mindful of what you are printing so that we can take care of the environment
 
-{: .center-image }<img src="/assets/img/index/image-20231105123217384.png" alt="image-20231105123217384" style="zoom:25%;" />
+<center><img src="/assets/img/index/image-20231105123217384.png" alt="image-20231105123217384" style="zoom:25%;" /></center>
 
 ### Schedule
 
@@ -258,7 +258,7 @@ be any (but not limited to):
 
 * Food you don’t like
 
-{: .center-image }<img src="/assets/img/index/image-20231105133327328.png" alt="image-20231105133327328" style="zoom: 33%;" />
+<center><img src="/assets/img/index/image-20231105133327328.png" alt="image-20231105133327328" style="zoom: 33%;" /></center>
 
 ### Room Rules
 
