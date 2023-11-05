@@ -389,6 +389,14 @@ defaults:
       layout: "post"
       permalink: ":title/"
       readtime: true
+   - 
+    scope:
+      path: "/house-manual"
+      type: ""
+    values:
+      layout: "post"
+      permalink: ":title/"
+      readtime: true
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
