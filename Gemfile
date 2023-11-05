@@ -26,9 +26,10 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-webp"
   gem 'jekyll-toc'
-  gem 'classifier-reborn'
   gem 'numo-narray'
   gem 'numo-linalg'
+  gem 'jekyll-archives'
+  gem 'jekyll-liquify'
 end
 
 #gemspec

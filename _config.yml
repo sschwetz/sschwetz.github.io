@@ -436,6 +436,9 @@ plugins:
   - "jekyll-webp"
   - 'kramdown-parser-gfm'
   - 'classifier-reborn'
+  - 'jekyll-archives'
+  - 'jekyll-liquify'
+  - 'jekyll-toc'
 
 collections:
   authors:
