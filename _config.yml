@@ -389,7 +389,7 @@ defaults:
       layout: "post"
       permalink: ":title/"
       readtime: true
-   - 
+  - 
     scope:
       path: "/house-manual"
       type: ""
