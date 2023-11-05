@@ -94,7 +94,7 @@ Opposing prejudice, dishonesty and injustice.
 
 ### Executive Function
 
-<center> ![image-20231105122308327](/assets/img/index/image-20231105122308327.png) </center>
+![image-20231105232751499](/assets/img/index/image-20231105232751499.png){: .center-image }
 
 Executive Functions include the ability to:
 
