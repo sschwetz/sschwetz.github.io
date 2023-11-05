@@ -353,3 +353,7 @@ On school days Lilian is responsible for making her own lunch, recess, and fruit
 ##### Non-School Days
 
 On non-school says everyone is responsible for making their own lunch. If you need help with making it just ask a friendly adult.
+
+### Communication Style
+
+![img](/assets/img/index/3917651fc5418f32.jpeg){: .center-image }
