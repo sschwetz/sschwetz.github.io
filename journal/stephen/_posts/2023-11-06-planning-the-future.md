@@ -5,8 +5,8 @@ layout: post
 social-share: true
 comments: true
 
-typora-copy-images-to: ../assets/img/${filename}
-typora-root-url: ../
+typora-copy-images-to: ../../../assets/img/${filename}
+typora-root-url: ../../../
 #**************************************
 
 #*************************************
@@ -169,22 +169,56 @@ The giant blow-up was when the Big Wig managers in Melbourne did their annual ra
 
 #### Some time off
 
+For the first time since getting my first job, I didn’t have to be somewhere, and this would not change in the immediate future. As we were made redundant in mid-December the job market had become stagnant, but I didn't want to be unemployed, so I pounded the pavement for all the IT-type companies and used the contacts I had made at Hunterlink. Although I had some promising leads non of these ended up panning out, so I bunkered down playing guitar hero until I got my next role. 
 
+During this time, it was also the first time in my life that I felt sheer terror and anxiety, and it wasn't because I was unemployed. I was about to ask my girlfriend to marry me. 
 
 #### Cirrus Communications
 
 ![Cirrus Communication Logo](/assets/img/2023-11-06-planning-the-future/cirrus.jpeg){: .center-image }
 
+The following job I got was the first time I had achieved a job role in network engineering. Cirrus Communications was a regional wireless carrier that had multiple sites across Australia. They started their network servicing Gosford on the New South Wales Central Coast Region. Once the government changed its broadband guarantee, it expanded its network by purchasing the networks of carriers that could not continue financially and went into administration/receivership.
 
+However, at the time, was the first time that I ever felt anxiety over a long term, but not being aware I thought that I my heart was all fucked up and I was dying. The main cause of this was the Cirrus was also suffering from the reduced broadband guarantee and they were having liquidity issues. As such at least once per week  a site would be down as they had not paid a carrier / tower / something else. 
+
+The travel also sucked, I was getting the train from Newcastle to the Central Coast, which was about an hour. However, as time dragged on and trackwork seemed more constant, the time blew out to two hours plus at some stages, which would continue for weeks. I decided that it was time to move on and see if I could get a role back in Newcastle.
+
+The company has recently been turned around and is now listed on the [**A**ustralian **S**tock E**x**change](https://asx.com.au) and the primary wireless backhaul provider outside the three mobile companies.
 
 #### Newcastle Computer Wizards
 
 ![Newcastle Computer Wizards](/assets/img/2023-11-06-planning-the-future/o.jpg){: .center-image }
 
+The next role I picked was for a small MSP called Newcastle Computer Wizards. This was the first time I had job autonomy where I could schedule my days and had no targets. My role was to look after the business customers. Most of these were small business customers; this was also my first time working for a small business. While I enjoyed the work, I was not too fond of the micromanagement that sometimes occurred with them. This is part of working for a small business, but I decided to jump ship. I sometime wish that with what happened with the next employer that I had just stayed here.
 
+The other reason I decided to jump ship was that most of this was server admin, and whilst servers can be fun, it was not something I wanted to do in the long term, and I am justified with the advent of cloud computing. This was still going to be sometime off before it eventuated.
 
 #### Regional IT / Sabervox
 
 ![regional-it](/assets/img/2023-11-06-planning-the-future/regional-it.jpeg){: .center-image }
 
 ![sabervox](/assets/img/2023-11-06-planning-the-future/sabervox.jpeg){: .center-image }
+
+I worked at [Regional IT,](https://regionalit.net) later rebranded to [saberVox](https://sabervox.com) for just over 10 years. I was initially employed as a technical generalist once again supporting Wintel servers. Initially, I loved working here, the company was small and nimble, I was given a target that I had to hit, 30 hours. I was not told if this was per week/fortnight or month, and rather stupidly, I decided it must be per week. It made sense to me at the time as I was working 38 hours per week.
+
+Later on, during my first performance review, I found out that it was supposed to be 3o hours per month; needless to say, I got 3 pay raises over the next 18 months, and I loved the work. As the company grew and we took on larger customers, my workload shifted more towards networking, starting with ADSL services and then onto fibre and towards the end of data center work.
+
+Life was good for the first 5 years, and everybody was happy and hitting their targets. But then the boss (once again, I will never work for a small business ever again), started working with a business consultant who basically sat down (from what I was told informally by some one in the know) if you set the billable hours for your technicians at 85% then you will make bank. This person told me that he was told that the business owner wanted to purchase an investment property every year with the increase in funds that this move gave.
+
+Further unannounced, but evident in retrospect, there were no more performance reviews (once again confirmed by the same source) as a if you have performance reviews, then the staff may ask for pay raises. The other thing I noticed around this time was that the owner needed someone to pick on. It could be an underperforming staff member who stuffed up a job and cost money to fix. The latter was one of his pet peeves, all the money was his money.
+
+One of the jobs that pissed me off the most with the latter was a server install that I was tasked to do for one of my customers. I had worked with the sales team to quote hours on the job, and it was tight, but I felt I could complete the work in time. For whatever reason, i can't remember, it was decided that I needed to be babysat by another team member, and the deal at the time was that his time was not going to be billed as it was out of the scope of the project. The boss changed this decision and deemed that he was going to bill the customer for the time the second engineer was available on site. 
+
+At the same time on this job the sales team who had quoted all the licences etc without liasing with the technical team totally screwed up the licencing model, and missed terminal services licences, and quite rightly as far as I am concerned the customer wouldn't pay for them. The customer stating
+
+> "This job was quoted and we accepted it. We are not IT people, that is what we pay you for.  If we stuff up a quote for a customer we don't go back after the fact and attempt to bill them more, we either advise them that we stuffed up and see if they will raise a variation, or its tough and we wear the loss.
+>
+> <p style="text-align:right;font-weight:bold">- a customer</p>
+
+This job ended up with a letter from the Board of Directors of the company highlighting that the installation of the new platform had been seemless and singing my praises, but because the owner lost a substantial amount of money (both real an made up) he would continually refer to it as our worst job ever.
+
+Then, some people could do no wrong even when the install that they were on was the worst install ever. This real estate customer had multiple sites, and the installation that the tech completed was rushed and garbage. The customer was having numerous day outages, and every technician myself except had been pulled off days' worth of billable work to attempt to save the customer. Eventually, we did, but it did urk quite a few technicians that their involvement was whitewashed over, and the installation was branded as our best.
+
+As time went on, the backstabbing within the team continued, and my anxiety (still with no idea what it was) was through the roof. and I felt that I was a marked man and that everyone was out to get me whenever they could, and I could do nothing right. I had seen others go through this and eventually get terminated because the boss set them up for failure. I am sure that it is the stress and anxiety from this role that caused my marriage to break down.
+
+It was during this time that I was a witts end on what I was going to do, I had a feeling that I was autistic,  as by this time, both my children had been diagnosed. So, I started down the path of getting a diagnosis with the hope that once I was diagnosed, I would be able to gain access to somebody to advocate for me.
