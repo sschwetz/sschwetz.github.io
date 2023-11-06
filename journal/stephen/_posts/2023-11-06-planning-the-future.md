@@ -38,7 +38,7 @@ tags:
 
 ### Preamble
 
-For years I knew that I was different to the rest of my peers. I didn't know why, but lots of things just seemed different. I wasn't interested in the same things that my peers were, and many of them didn't seem to keen on myself either. 
+For years, I knew that I was different to the rest of my peers. I didn't know why, but lots of things just seemed different. I wasn't interested in the same things my peers were, and many didn’t seem keen on me either. This is a blog post that I have been planning for some time but have never been able to complete. It will take several updates to get my head emptied of everything, including the trauma.
 
 I have been thinking about what I would like this site to offer; I am not talking about goods and services but more about what it can be used for. Do I want it just to be zany and out there, documenting whatever I feel about bitching about for that day, which is what it currently is? But I don't think that is what I want.  I want this site to have a purpose, to become a collection of articles, possibly poorly written by myself, that offer either insight or knowledge that I have gained, to allow me to feed this knowledge back and hopefully stop someone from making the same mistakes I have made.
 
@@ -48,7 +48,7 @@ I thought that I would start of with an overview of my life, and we can experime
 
 My pre-school life was pretty simple, I did not attend a preschool as a child. My mother was a stay-at-home mum at that stage of her life and she took me to a playgroup once and for whatever reason we never went back. Looking on my later life I feel that this would have been very useful with my later diagnosis. But she was not aware of my issues and as I was the first child she had nothing to compare me to.
 
-I enjoyed the time, I played with my sisters, I had a ripper sandbox, and did some :man_shrugging: of the things that kids did. We went to the beach, the pool and we went on holidays
+I enjoyed the time, I played with my sisters, I had a ripper sandbox, and did some:question: of the things that kids did. We went to the beach, the pool and we went on holidays
 
 ### Primary School
 
