@@ -17,7 +17,7 @@ redirect_from:
 title: Planning the Future
 subtitle: what I want the site to be
 author: Stephen Schwetz
-updated: 
+updated: 2023-11-09
 cover-img: /assets/img/2023-11-06-planning-the-future/28-aug_traversable-wormholes.jpg
 thumbnail-img: /assets/img/2023-11-06-planning-the-future/financial-planning-process-hi-20231106181452128.png
 full-width: false
@@ -185,6 +185,8 @@ The travel also sucked, I was getting the train from Newcastle to the Central Co
 
 The company has recently been turned around and is now listed on the [**A**ustralian **S**tock E**x**change](https://asx.com.au) and the primary wireless backhaul provider outside the three mobile companies.
 
+I was disappointed in finishing up with this company, as knew that this would be the end of my chances of working within an ISP, as to do that I would have to work in Sydney, and that either meant a 2 hour drive each way and upto $100 per day in parking, or moving permanently to Sydney, and that is not something that I wanted to do, as any increase in salary would be swallowed by the increase in rent.
+
 #### Newcastle Computer Wizards
 
 ![Newcastle Computer Wizards](/assets/img/2023-11-06-planning-the-future/o.jpg){: .center-image }
@@ -199,26 +201,40 @@ The other reason I decided to jump ship was that most of this was server admin, 
 
 ![sabervox](/assets/img/2023-11-06-planning-the-future/sabervox.jpeg){: .center-image }
 
-I worked at [Regional IT,](https://regionalit.net) later rebranded to [saberVox](https://sabervox.com) for just over 10 years. I was initially employed as a technical generalist once again supporting Wintel servers. Initially, I loved working here, the company was small and nimble, I was given a target that I had to hit, 30 hours. I was not told if this was per week/fortnight or month, and rather stupidly, I decided it must be per week. It made sense to me at the time as I was working 38 hours per week.
+I worked at [Regional IT,](https://regionalit.net) later rebranded to [saberVox,](https://sabervox.com) for just over 10 years. I was initially employed as a technical generalist, once again supporting Wintel servers. Initially, I loved working here; the company was small and agile, and I was given a target that I had to hit: 30 hours. I was not told if this was per week/fortnight or month, and rather stupidly, I decided it must be per week. It made sense to me as I was working 38 hours per week.
 
-Later on, during my first performance review, I found out that it was supposed to be 3o hours per month; needless to say, I got 3 pay raises over the next 18 months, and I loved the work. As the company grew and we took on larger customers, my workload shifted more towards networking, starting with ADSL services and then onto fibre and towards the end of data center work.
+Later on, during my first performance review, I found out that it was supposed to be 3o hours per month; needless to say, I got 3 pay raises over the next 18 months, and I loved the work. As the company grew and we took on larger customers, my workload shifted towards networking, starting with ADSL services and then towards fibre and data centre work.
 
-Life was good for the first 5 years, and everybody was happy and hitting their targets. But then the boss (once again, I will never work for a small business ever again), started working with a business consultant who basically sat down (from what I was told informally by some one in the know) if you set the billable hours for your technicians at 85% then you will make bank. This person told me that he was told that the business owner wanted to purchase an investment property every year with the increase in funds that this move gave.
+Life was good for the first 5 years, and everybody was happy and hitting their targets. But then the boss (once again, I will never work for a small business ever again) started working with a business consultant who sat down (from what I was told informally by someone in the know) if you set the billable hours for your technicians at 85% then you will make bank. This person told me he was told that the business owner wanted to purchase an investment property every year with the increased funds that this move gave.
 
-Further unannounced, but evident in retrospect, there were no more performance reviews (once again confirmed by the same source) as a if you have performance reviews, then the staff may ask for pay raises. The other thing I noticed around this time was that the owner needed someone to pick on. It could be an underperforming staff member who stuffed up a job and cost money to fix. The latter was one of his pet peeves, all the money was his money.
+Further unannounced, but evident in retrospect, there were no more performance reviews (once again confirmed by the same source) as if you have performance reviews, then the staff may ask for pay raises. The other thing I noticed around this time was that the owner needed someone to pick on. It could be an underperforming staff member who stuffed up a job and cost money to fix. The latter was one of his pet peeves; all the money was his money.
 
-One of the jobs that pissed me off the most with the latter was a server install that I was tasked to do for one of my customers. I had worked with the sales team to quote hours on the job, and it was tight, but I felt I could complete the work in time. For whatever reason, i can't remember, it was decided that I needed to be babysat by another team member, and the deal at the time was that his time was not going to be billed as it was out of the scope of the project. The boss changed this decision and deemed that he was going to bill the customer for the time the second engineer was available on site. 
+I just wanted to attend work, do my work, go home, and do it in a manner that I felt safe. But this was not going to be the case. At the same time this ordeal started to go south, two sales reps were employed. One was a spineless being who could not work his way out of a paper bag. The other was the typical sun shines out of my arse whilst it is overcast personality.
 
-At the same time on this job the sales team who had quoted all the licences etc without liasing with the technical team totally screwed up the licencing model, and missed terminal services licences, and quite rightly as far as I am concerned the customer wouldn't pay for them. The customer stating
+One of his things was *"cover arse and maintain employment"*, so he needed a scapegoat. As I was the person who was involved with most of the installs, and others in the team had worked with him before, I was that scapegoat. It was always my fault that the install wasn't scoped correctly, even when I was not involved with the scoping. I pushed back when the product was missing.
 
-> "This job was quoted and we accepted it. We are not IT people, that is what we pay you for.  If we stuff up a quote for a customer we don't go back after the fact and attempt to bill them more, we either advise them that we stuffed up and see if they will raise a variation, or its tough and we wear the loss.
+The business owner also started personally attacking me and other staff behind my back when I wasn't in the office. There was a stage where he wouldn't even say hello to me in the morning. 
+
+After my two children were born, the stress of trying to jump through hoops that I did not know existed. I was the primary breadwinner for the family and stupidly kept on trying.
+
+One of the jobs that pissed me off the most with the latter was a server install that I was tasked to do for one of my customers. I had worked with the sales team to quote hours on the job, and it was tight, but I could complete the work in time. For whatever reason, I can't remember. It was decided that I needed to be babysat by another team member, and the deal at the time was that his time would not be billed as it was out of the project's scope. The boss changed this decision and deemed that he would bill the customer for the time the second engineer was available on site. 
+
+At the same time on this job, the sales team, who had quoted all the licences without liaising with the technical team, totally screwed up the licencing model and missed terminal services licences. The customer wouldn't pay for them. The customer stated:
+
+> "This job was quoted, and we accepted it. We are not IT people, that is what we pay you for.  If we stuff up a quote for a customer, we don't go back after the fact and attempt to bill them more; we either advise them that we stuffed up and see if they will raise a variation, or it's tough, and we wear the loss.
 >
 > <p style="text-align:right;font-weight:bold">- a customer</p>
 
-This job ended up with a letter from the Board of Directors of the company highlighting that the installation of the new platform had been seemless and singing my praises, but because the owner lost a substantial amount of money (both real an made up) he would continually refer to it as our worst job ever.
+This job ended with a letter from the company's board of directors highlighting that the installation of the new platform had been seamless and singing my praises. Still, because the owner lost substantial money (both genuine and made up), he continually referred to it as our worst job ever.
+
+As this debacle ended, I was hauled into the boardroom and told that I would no longer do project work for customers. I had most of my customers taken off me.  This was due to my inability to complete the above job on time and within budget. I was devastated; as far as the customer was concerned, the installation was flawless, and they were over the moon. Fortunately, I could hold onto my three most prominent customers, of which this was one. It always bemused me that I had completed the worst install ever, but the customer was not interested in moving to a different technician.  In the years following my leaving this job, I could even use them as a reference for job interviews.
 
 Then, some people could do no wrong even when the install that they were on was the worst install ever. This real estate customer had multiple sites, and the installation that the tech completed was rushed and garbage. The customer was having numerous day outages, and every technician myself except had been pulled off days' worth of billable work to attempt to save the customer. Eventually, we did, but it did urk quite a few technicians that their involvement was whitewashed over, and the installation was branded as our best.
 
-As time went on, the backstabbing within the team continued, and my anxiety (still with no idea what it was) was through the roof. and I felt that I was a marked man and that everyone was out to get me whenever they could, and I could do nothing right. I had seen others go through this and eventually get terminated because the boss set them up for failure. I am sure that it is the stress and anxiety from this role that caused my marriage to break down.
+As time went on, the backstabbing within the team continued, and my anxiety (still with no idea what it was) was through the roof. and I felt that I was a marked man and that everyone was out to get me whenever they could, and I could do nothing right.  I had seen others go through this and eventually get terminated because the boss set them up for failure. I am sure that it is the stress and anxiety from this role that ultimately caused my marriage to break down.
 
-It was during this time that I was a witts end on what I was going to do, I had a feeling that I was autistic,  as by this time, both my children had been diagnosed. So, I started down the path of getting a diagnosis with the hope that once I was diagnosed, I would be able to gain access to somebody to advocate for me.
+
+
+At one stage, a user from a customer for whom I was asked to do helpdesk logged a complaint to the business owner. I don't know to this day what the actual problem was, but I was told by other employees at the company that if she didn't have something to complain about, then she wasn't living life to the fullest. Apart from the minor department they headed, the rest of the company seemed happy with my work on-site.
+
+It was during this time that I was a witts end on what I was going to do; I had a feeling that I was autistic,  as by this time, both my children had been diagnosed. So, I started down the path of getting a diagnosis with the hope that once I was diagnosed, I would be able to gain access to somebody to advocate for me. However, time ran out on me.
