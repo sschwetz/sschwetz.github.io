@@ -17,7 +17,7 @@ redirect_from:
 title: Planning the Future
 subtitle: what I want the site to be
 author: Stephen Schwetz
-updated: 2023-11-09
+updated: 2023-11-22
 cover-img: /assets/img/2023-11-06-planning-the-future/28-aug_traversable-wormholes.jpg
 thumbnail-img: /assets/img/2023-11-06-planning-the-future/financial-planning-process-hi-20231106181452128.png
 full-width: false
@@ -181,19 +181,19 @@ The following job I got was the first time I had achieved a job role in network 
 
 However, at the time, was the first time that I ever felt anxiety over a long term, but not being aware I thought that I my heart was all fucked up and I was dying. The main cause of this was the Cirrus was also suffering from the reduced broadband guarantee and they were having liquidity issues. As such at least once per week  a site would be down as they had not paid a carrier / tower / something else. 
 
-The travel also sucked, I was getting the train from Newcastle to the Central Coast, which was about an hour. However, as time dragged on and trackwork seemed more constant, the time blew out to two hours plus at some stages, which would continue for weeks. I decided that it was time to move on and see if I could get a role back in Newcastle.
+The travel also sucked; I was getting the train from Newcastle to the Central Coast, which was about an hour. However, as time dragged on and trackwork seemed more constant, the time blew out to two hours plus at some stages, which would continue for weeks. I decided it was time to move on and see if I could get a role back in Newcastle.
 
-The company has recently been turned around and is now listed on the [**A**ustralian **S**tock E**x**change](https://asx.com.au) and the primary wireless backhaul provider outside the three mobile companies.
+The company has recently been turned around and is now listed on the [**A**ustralian **S**tock E**x**change](https://asx.com.au) as the primary wireless backhaul provider outside the three mobile companies.
 
-I was disappointed in finishing up with this company, as knew that this would be the end of my chances of working within an ISP, as to do that I would have to work in Sydney, and that either meant a 2 hour drive each way and upto $100 per day in parking, or moving permanently to Sydney, and that is not something that I wanted to do, as any increase in salary would be swallowed by the increase in rent.
+I was disappointed in finishing up with this company, as I knew that this would be the end of my chances of working within an ISP, as to do that, I would have to work in Sydney and that either meant a 2-hour drive each way and up to $100 per day in parking or moving permanently to Sydney, and that is not something that I wanted to do, as the rise in rent would swallow any salary increase.
 
 #### Newcastle Computer Wizards
 
 ![Newcastle Computer Wizards](/assets/img/2023-11-06-planning-the-future/o.jpg){: .center-image }
 
-The next role I picked was for a small MSP called Newcastle Computer Wizards. This was the first time I had job autonomy where I could schedule my days and had no targets. My role was to look after the business customers. Most of these were small business customers; this was also my first time working for a small business. While I enjoyed the work, I was not too fond of the micromanagement that sometimes occurred with them. This is part of working for a small business, but I decided to jump ship. I sometime wish that with what happened with the next employer that I had just stayed here.
+The next role I picked was for a small MSP called Newcastle Computer Wizards. This was the first time I had job autonomy where I could schedule my days and had no targets. My role was to look after the business customers. Most of these were small business customers; this was my first time working for a small business. While I enjoyed the work, I was not too fond of the micromanagement that sometimes occurred with them. This is part of working for a small business, but I decided to jump ship. I sometimes wish that with what happened with the next employer, I had just stayed here.
 
-The other reason I decided to jump ship was that most of this was server admin, and whilst servers can be fun, it was not something I wanted to do in the long term, and I am justified with the advent of cloud computing. This was still going to be sometime off before it eventuated.
+The other reason I decided to jump ship was that most of this was server admin, and whilst servers can be fun, it was not something I wanted to do in the long term, and I am justified with the advent of cloud computing. This was still going to be some time off before it eventuated.
 
 #### Regional IT / Sabervox
 
@@ -201,15 +201,15 @@ The other reason I decided to jump ship was that most of this was server admin, 
 
 ![sabervox](/assets/img/2023-11-06-planning-the-future/sabervox.jpeg){: .center-image }
 
-I worked at [Regional IT,](https://regionalit.net) later rebranded to [saberVox,](https://sabervox.com) for just over 10 years. I was initially employed as a technical generalist, once again supporting Wintel servers. Initially, I loved working here; the company was small and agile, and I was given a target that I had to hit: 30 hours. I was not told if this was per week/fortnight or month, and rather stupidly, I decided it must be per week. It made sense to me as I was working 38 hours per week.
+I worked at [Regional IT,](https://regionalit.net) later rebranded to [saberVox,](https://sabervox.com) for over ten years. I was initially employed as a technical generalist, once again supporting Wintel servers. Initially, I loved working here; the company was small and agile, and I was given a target that I had to hit: 30 hours. I was not told if this was per week/fortnight or month, and rather stupidly, I decided it must be per week. It made sense to me as I was working 38 hours per week.
 
-Later on, during my first performance review, I found out that it was supposed to be 3o hours per month; needless to say, I got 3 pay raises over the next 18 months, and I loved the work. As the company grew and we took on larger customers, my workload shifted towards networking, starting with ADSL services and then towards fibre and data centre work.
+Later on, during my first performance review, I found out that it was supposed to be 3o hours per month; needless to say, I got three pay raises over the next 18 months, and I loved the work. As the company grew and we took on larger customers, my workload shifted towards networking, starting with ADSL services and then towards fibre and data centre work.
 
-Life was good for the first 5 years, and everybody was happy and hitting their targets. But then the boss (once again, I will never work for a small business ever again) started working with a business consultant who sat down (from what I was told informally by someone in the know) if you set the billable hours for your technicians at 85% then you will make bank. This person told me he was told that the business owner wanted to purchase an investment property every year with the increased funds that this move gave.
+Life was good for the first five years, and everybody was happy and hitting their targets. But then the boss (once again, I will never work for a small business ever again) started working with a business consultant who sat down (from what I was told informally by someone in the know) if you set the billable hours for your technicians at 85% then you will make bank. This person told me he was told that the business owner wanted to purchase an investment property every year with the increased funds that this move gave.
 
 Further unannounced, but evident in retrospect, there were no more performance reviews (once again confirmed by the same source) as if you have performance reviews, then the staff may ask for pay raises. The other thing I noticed around this time was that the owner needed someone to pick on. It could be an underperforming staff member who stuffed up a job and cost money to fix. The latter was one of his pet peeves; all the money was his money.
 
-I just wanted to attend work, do my work, go home, and do it in a manner that I felt safe. But this was not going to be the case. At the same time this ordeal started to go south, two sales reps were employed. One was a spineless being who could not work his way out of a paper bag. The other was the typical sun shines out of my arse whilst it is overcast personality.
+I just wanted to attend work, do my job, go home, and do it in a manner that I felt safe. But this was going to be different. At the same time this ordeal started to go south, two sales reps were employed. One was a spineless being who could not work his way out of a paper bag. The other was the typical sun shines out of my arse whilst it is overcast personality.
 
 One of his things was *"cover arse and maintain employment"*, so he needed a scapegoat. As I was the person who was involved with most of the installs, and others in the team had worked with him before, I was that scapegoat. It was always my fault that the install wasn't scoped correctly, even when I was not involved with the scoping. I pushed back when the product was missing.
 
@@ -221,20 +221,61 @@ One of the jobs that pissed me off the most with the latter was a server install
 
 At the same time on this job, the sales team, who had quoted all the licences without liaising with the technical team, totally screwed up the licencing model and missed terminal services licences. The customer wouldn't pay for them. The customer stated:
 
-> "This job was quoted, and we accepted it. We are not IT people, that is what we pay you for.  If we stuff up a quote for a customer, we don't go back after the fact and attempt to bill them more; we either advise them that we stuffed up and see if they will raise a variation, or it's tough, and we wear the loss.
+> "This job was quoted, and we accepted it. We are not IT people; that is what we pay you for.  If we stuff up a quote for a customer, we don't go back after the fact and attempt to bill them more; we either advise them that we stuffed up and see if they will raise a variation, or it's tough, and we wear the loss.
 >
 > <p style="text-align:right;font-weight:bold">- a customer</p>
 
 This job ended with a letter from the company's board of directors highlighting that the installation of the new platform had been seamless and singing my praises. Still, because the owner lost substantial money (both genuine and made up), he continually referred to it as our worst job ever.
 
-As this debacle ended, I was hauled into the boardroom and told that I would no longer do project work for customers. I had most of my customers taken off me.  This was due to my inability to complete the above job on time and within budget. I was devastated; as far as the customer was concerned, the installation was flawless, and they were over the moon. Fortunately, I could hold onto my three most prominent customers, of which this was one. It always bemused me that I had completed the worst install ever, but the customer was not interested in moving to a different technician.  In the years following my leaving this job, I could even use them as a reference for job interviews.
+After the engineer looking after our data centre offering (1 server and a cisco 1841) left I took that over and over the next five years built a resiliant SAN build on HP Lefthand / StoreVirtual appliances along with DL360 servers. I told the company that virtualisation would be the future, and we stopped selling bare metal and started selling virtual machines.  However, as this platform became more successful growing pains would emerge and they would once again go back to cost.. Examples include:
+
+* I wanted to use VMWare as the virtualisation platform, but I was overruled due to hyper-v and Windows clustering being “free”. This caused significant outages, and we could never get the solution to scale correctly.  
+* We were also constantly butting our heads against the purchasing style of the business owner. He would not purchase anything until a customer paid the total cost. This is a lofty goal that many business owners providing services would be aiming for. But the lefthand storage had a weakness. If the storage utilisation increased beyond 80%, the performance of the SAN would be impacted. If utilisation exceeded 90% (i.e. 90.01%), then to protect itself, the SAN would go into read-only mode. What is sad is you think that the business would have learnt that storage growth is organic, but this issue occurred at least two times that I remember..
+* The use of correct routers with enough ram to maintain a full routing table
+
+Once 
+
+As this debacle ended, I was hauled into the boardroom and told I would no longer do customer project work. I had most of my customers taken off me.  This was due to my inability to complete the above job on time and within budget. I was devastated; as far as the customer was concerned, the installation was flawless, and they were over the moon. Fortunately, I could hold onto my three most prominent customers, of which this was one. It always bemused me that I had completed the worst install ever, but the customer was not interested in moving to a different technician.  In the years following my leaving this job, I could even use them as a reference for job interviews.
 
 Then, some people could do no wrong even when the install that they were on was the worst install ever. This real estate customer had multiple sites, and the installation that the tech completed was rushed and garbage. The customer was having numerous day outages, and every technician myself except had been pulled off days' worth of billable work to attempt to save the customer. Eventually, we did, but it did urk quite a few technicians that their involvement was whitewashed over, and the installation was branded as our best.
 
-As time went on, the backstabbing within the team continued, and my anxiety (still with no idea what it was) was through the roof. and I felt that I was a marked man and that everyone was out to get me whenever they could, and I could do nothing right.  I had seen others go through this and eventually get terminated because the boss set them up for failure. I am sure that it is the stress and anxiety from this role that ultimately caused my marriage to break down.
-
-
+As time went on, the backstabbing within the team continued, and my anxiety (still with no idea what it was) was through the roof. And I felt that I was a marked man and that everyone was out to get me whenever they could, and I could do nothing right.  I had seen others go through this and eventually get terminated because the boss set them up for failure. I am sure that it is the stress and anxiety from this role that ultimately caused my marriage to break down.
 
 At one stage, a user from a customer for whom I was asked to do helpdesk logged a complaint to the business owner. I don't know to this day what the actual problem was, but I was told by other employees at the company that if she didn't have something to complain about, then she wasn't living life to the fullest. Apart from the minor department they headed, the rest of the company seemed happy with my work on-site.
 
-It was during this time that I was a witts end on what I was going to do; I had a feeling that I was autistic,  as by this time, both my children had been diagnosed. So, I started down the path of getting a diagnosis with the hope that once I was diagnosed, I would be able to gain access to somebody to advocate for me. However, time ran out on me.
+The main problem with this customer stemmed from the business model the company ran. Whilst most of our competitors were entering into all-you-can-eat service desks for a set fee, we were running a different business model. To seem cheaper than the rest, the customers were told that we could reduce their overhead cost, and this was done by limiting the frequency with which we were available to fix their issues. Instead of 5 days a week with a resource assigned to them, this changed to 1 half day per week.
+
+While the executive teams were happy with the available cost savings, the end-users (quite rightly) saw that we could not service them like the incumbent company did. They would complain more when the business owner emailed me a terse email asking me what I needed to change to make the customer happy.
+
+I responded with a long email laying out all the issues that were seen at the company and what we could do about it, including:
+
+* Increasing service levels,
+* renegotiating the contract,
+* supplying access to more resources and
+* having their management reset end users' expectations
+
+It was a long email, and I put my heart and soul into it as I did believe that we as a company were not doing right by the end-users, and were basically attempting to gouge the non-profit for what we could get away with.
+
+In this email, I was told that I had misunderstood the question and the correct question was
+
+> What was I going to do differently with the clients?
+
+It threw me for a six, and I had a long, hard think about what I could do differently, and there was nothing. I was following our company policy to the tee;  I:
+
+* Reported to the site contact on time and greeted her by name;
+* Made idle chit-chat about the weekend/kids/whatever;
+* I laid out the tickets that I would be working on;
+* I asked where I would be sitting that day;
+* Asked if any critical tasks needed to be done that day;
+* Did the work;
+* Logged any tickets for unfinished work for tracking;
+* Closed completed tickets; and
+* Before leaving the site, report to the site contact advising what work has been completed.
+
+I did not understand what I was doing wrong, which has always happened to me; I get along doing a job well for some time, and then it all turns sour. I asked the employer for suggestions on what I could do differently, but I got the same question back. So, being the typical autistic person that I am, I replied honestly with a one-word answer.
+
+> Nothing.
+
+I was removed from the site and told I would only be doing the internal helpdesk for the rest of the time.  It gutted me because I was having clients who had been with me for over eight years taken away.  But, I thought fuck you, I have a fully paid company car, and you want me to do 1st level phone support.  I can log tickets like the best of them, and as there was no financial penalty other than the lack of overtime (boo-hoo), I just took calls and logged tickets.
+
+It was at this time that I was a witts end on what I was going to do; I had a feeling that I was autistic,  as by this time, both my children had been diagnosed. So, I started down the path of getting a diagnosis with the hope that once I was diagnosed, I would be able to gain access to somebody to advocate for me. However, time ran out on me.
