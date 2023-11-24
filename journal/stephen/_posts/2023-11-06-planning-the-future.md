@@ -227,19 +227,25 @@ At the same time on this job, the sales team, who had quoted all the licences wi
 
 This job ended with a letter from the company's board of directors highlighting that the installation of the new platform had been seamless and singing my praises. Still, because the owner lost substantial money (both genuine and made up), he continually referred to it as our worst job ever.
 
-After the engineer looking after our data centre offering (1 server and a cisco 1841) left I took that over and over the next five years built a resiliant SAN build on HP Lefthand / StoreVirtual appliances along with DL360 servers. I told the company that virtualisation would be the future, and we stopped selling bare metal and started selling virtual machines.  However, as this platform became more successful growing pains would emerge and they would once again go back to cost.. Examples include:
-
-* I wanted to use VMWare as the virtualisation platform, but I was overruled due to hyper-v and Windows clustering being “free”. This caused significant outages, and we could never get the solution to scale correctly.  
-* We were also constantly butting our heads against the purchasing style of the business owner. He would not purchase anything until a customer paid the total cost. This is a lofty goal that many business owners providing services would be aiming for. But the lefthand storage had a weakness. If the storage utilisation increased beyond 80%, the performance of the SAN would be impacted. If utilisation exceeded 90% (i.e. 90.01%), then to protect itself, the SAN would go into read-only mode. What is sad is you think that the business would have learnt that storage growth is organic, but this issue occurred at least two times that I remember..
-* The use of correct routers with enough ram to maintain a full routing table
-
-Once 
-
 As this debacle ended, I was hauled into the boardroom and told I would no longer do customer project work. I had most of my customers taken off me.  This was due to my inability to complete the above job on time and within budget. I was devastated; as far as the customer was concerned, the installation was flawless, and they were over the moon. Fortunately, I could hold onto my three most prominent customers, of which this was one. It always bemused me that I had completed the worst install ever, but the customer was not interested in moving to a different technician.  In the years following my leaving this job, I could even use them as a reference for job interviews.
 
 Then, some people could do no wrong even when the install that they were on was the worst install ever. This real estate customer had multiple sites, and the installation that the tech completed was rushed and garbage. The customer was having numerous day outages, and every technician myself except had been pulled off days' worth of billable work to attempt to save the customer. Eventually, we did, but it did urk quite a few technicians that their involvement was whitewashed over, and the installation was branded as our best.
 
 As time went on, the backstabbing within the team continued, and my anxiety (still with no idea what it was) was through the roof. And I felt that I was a marked man and that everyone was out to get me whenever they could, and I could do nothing right.  I had seen others go through this and eventually get terminated because the boss set them up for failure. I am sure that it is the stress and anxiety from this role that ultimately caused my marriage to break down.
+
+On top of my main workload I also was the engineer looking after our data centre offering (1 server and a cisco 1841) left I took that over and over the next five years built a resiliant SAN build on HP Lefthand / StoreVirtual appliances along with DL360 servers. I told the company that virtualisation would be the future, and we stopped selling bare metal and started selling virtual machines.  However, as this platform became more successful growing pains would emerge and they would once again go back to cost.. Examples include:
+
+* I wanted to use VMWare as the virtualisation platform, but I was overruled due to hyper-v and Windows clustering being “free”. This caused significant outages, and we could never get the solution to scale correctly.  
+* We were also constantly butting our heads against the purchasing style of the business owner. He would not purchase anything until a customer paid the total cost. This is a lofty goal that many business owners providing services would be aiming for. But the lefthand storage had a weakness. If the storage utilisation increased beyond 80%, the performance of the SAN would be impacted. If utilisation exceeded 90% (i.e. 90.01%), then to protect itself, the SAN would go into read-only mode. What is sad is you think that the business would have learnt that storage growth is organic, but this issue occurred at least two times that I remember..
+* The use of correct routers with enough ram to maintain a full routing table
+
+I had had enough of the stress, as I was the only person with the skillset to maintain the environment, and this meant that even when I was on holidays I had to take calls from work when something broke. I had voiced my preference to be removed from the environment and just go back onto the tools.
+
+At some stage the business owner had a third party consultant come in to look over the environment and to make recommendations on how to improve it. I took my chances and I told him all of the above and that as the environment was non billable, I was not able to reach my extreamly hard to hit targets.
+
+Some time later, the business owner got together with the consultant (who was a real nice guy), and decided to buy out his small business and the consultant was going to be taking over the running of the colocation, along with his offsider. I was excited to be able to get back to the job that I wanted to do, and not have to worry about the stress.
+
+However, the freedom was short lived, due to the way that the business was run, and the extremly high targets, the offsider decided that after a couple of months that he was sick of it, and handed in his resignation, and went to work as IT for a local building society. I was told that I was now back working for the hell hole colocation team, was handed a whole heap of server hardware and told basically there it all is go and make it all work for a new site that was about to come online.
 
 At one stage, a user from a customer for whom I was asked to do helpdesk logged a complaint to the business owner. I don't know to this day what the actual problem was, but I was told by other employees at the company that if she didn't have something to complain about, then she wasn't living life to the fullest. Apart from the minor department they headed, the rest of the company seemed happy with my work on-site.
 
@@ -279,3 +285,19 @@ I did not understand what I was doing wrong, which has always happened to me; I 
 I was removed from the site and told I would only be doing the internal helpdesk for the rest of the time.  It gutted me because I was having clients who had been with me for over eight years taken away.  But, I thought fuck you, I have a fully paid company car, and you want me to do 1st level phone support.  I can log tickets like the best of them, and as there was no financial penalty other than the lack of overtime (boo-hoo), I just took calls and logged tickets.
 
 It was at this time that I was a witts end on what I was going to do; I had a feeling that I was autistic,  as by this time, both my children had been diagnosed. So, I started down the path of getting a diagnosis with the hope that once I was diagnosed, I would be able to gain access to somebody to advocate for me. However, time ran out on me.
+
+I ended up becoming suicidal and was admitted to Hospital (first the Mater in Newcastle, and later Warners Bay Private hospital.), for an extended 3 months of treatment, both via medication and psychology. I was that cooked that I enjoyed my stay in the public system, my partner thinks that it is mental that I thought it was a holiday.
+
+During my stay I also completed my testing and gained a brand new fresh Autism diagnosis, and it has been helpful.
+
+
+
+![Work Cover](/assets/img/2023-11-06-planning-the-future/2d90a3f03961c1fb49b22a9fdd84a60d.jpeg)
+
+As I was injured at work, I obtained the paperwork from my doctor and put in a claim for workers compensation. It was stressful and draining, but it allowed me to focus on my work, whilst still having income to pay the rent
+
+
+
+![HPE Logo](/assets/img/2023-11-06-planning-the-future/FCA5ADBD-0119-45C7-877E-9B40667ED1D5.png)
+
+And that is how I ended up working for HPE...
